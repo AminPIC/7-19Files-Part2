@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.performance.gov/rssfeedtest/72571" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>RSS Feed</title>
+    <link>https://www.performance.gov/rssfeedtest/72571</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.performance.gov/performance_rssfeed/72571?content_year_filter=All&amp;type_1=All" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Vulnerable People</title>
+    <link>https://www.performance.gov/Vulnerable%20People</link>
+    <description>&lt;p&gt;Protect the most vulnerable among us, including victims and survivors of human trafficking. By September 30, 2017, the Department will:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Open investigations concerning the sexual exploitation of children (5% over FY 15 target /3,051) FY 16 target = 3,127 and FY 17 target = 3,204;&lt;/li&gt;
+&lt;li&gt;Open investigations concerning human trafficking (5% over FY 15 target/218) FY 16 target = 223 and FY 17 = 229&lt;/li&gt;
+&lt;li&gt;Increase the number of open investigations concerning non-compliant sex offenders (3% increase over baseline/1,760) FY 16 target = 1,786 and FY 17 = 1,813&lt;/li&gt;
+&lt;li&gt;Percent of civil rights cases that are favorably resolved – criminal  (85%) FY 16 target = 85% and FY 17 target = 85%&lt;/li&gt;
+&lt;li&gt;Percent of civil rights cases that are favorably resolved - civil (85%) FY 16 target = 85% and FY 17 target = 85%&lt;/li&gt;
+&lt;li&gt;Increase the number of human trafficking leads and complaints reviewed by the Human Trafficking Prosecution Unit (5% increase over baseline/150) FY 16 target = 154 and FY 17 = 158&lt;/li&gt;
+&lt;/ul&gt;</description>
+     <pubDate>12/13/2016 10:42:45</pubDate>
+ <dc:creator>72571</dc:creator>
+ <guid isPermaLink="false">72571</guid>
+  </item>
+  </channel>
+</rss>

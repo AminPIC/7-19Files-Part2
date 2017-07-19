@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.performance.gov/rssfeedtest/65741" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>RSS Feed</title>
+    <link>https://www.performance.gov/rssfeedtest/65741</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.performance.gov/performance_rssfeed/65741?content_year_filter=All&amp;type_1=All" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Improve VA’s Employee Experience </title>
+    <link>https://www.performance.gov/Improve%20VA%E2%80%99s%20Employee%20Experience%20</link>
+    <description>&lt;p&gt;Improve VA’s Employee Experience by developing engaged leaders at all levels who inspire and empower all VA employees to deliver a seamless, integrated, and responsive VA customer service experience.  Success by September 30, 2017 will be measured by an increase of four points or more in the percent of positive responses by VA employees (over VA’s FY 2015 baseline) to the following statements:&lt;/p&gt;
+&lt;ol&gt;&lt;li&gt;My supervisor provides me with constructive suggestions to improve my job performance.&lt;/li&gt;
+&lt;li&gt;In my work unit, steps are taken to deal with a poor performer who cannot or will not improve.&lt;/li&gt;
+&lt;li&gt;Employees have a feeling of personal empowerment with respect to work processes.&lt;/li&gt;
+&lt;li&gt;I feel encouraged to come up with new and better ways of doing things.&lt;/li&gt;
+&lt;li&gt;How satisfied are you with the information you receive from management on what&#039;s going on in your organization?&lt;/li&gt;
+&lt;li&gt;My organization&#039;s leaders maintain high standards of honesty and integrity.&lt;/li&gt;
+&lt;/ol&gt;&lt;p&gt;Note:  “Percent Positive” is defined as the percent of respondents who agree or strongly agree with the survey item.&lt;/p&gt;
+</description>
+     <pubDate>12/13/2016 10:45:46</pubDate>
+ <dc:creator>65741</dc:creator>
+ <guid isPermaLink="false">65741</guid>
+  </item>
+  </channel>
+</rss>

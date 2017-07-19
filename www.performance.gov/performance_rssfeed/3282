@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.performance.gov/rssfeedtest/3282" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>RSS Feed</title>
+    <link>https://www.performance.gov/rssfeedtest/3282</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.performance.gov/performance_rssfeed/3282?content_year_filter=All&amp;type_1=All" rel="self" type="application/rss+xml" />
+      <item>
+    <title>MG04.03 Implement enterprise initiatives that leverage capabilities and tools throughout OPM </title>
+    <link>https://www.performance.gov/MG04.03%20Implement%20enterprise%20initiatives%20that%20leverage%20capabilities%20and%20tools%20throughout%20OPM%20</link>
+    <description>&lt;ul&gt;&lt;li&gt;Consolidating platforms to enhance interoperability and reduce duplication.&lt;/li&gt;
+&lt;li&gt;Implementing collaboration tools that will provide easy access to all data, information, and systems that individuals are authorized to access, while using the strong controls required for enhanced information security.&lt;/li&gt;
+&lt;li&gt;Implementing a shared case management solution that provides case tracking and reporting, and workflows.&lt;/li&gt;
+&lt;li&gt;Implementing a single, virtual data warehouse and sharing capability that better meets business needs while reducing redundancies.&lt;/li&gt;
+&lt;li&gt;Operating an efficient intranet and providing web services for OPM employees.&lt;/li&gt;
+&lt;li&gt;Operating an effective secure network, data center, and desktop environment.&lt;/li&gt;
+&lt;li&gt;Strengthening financial controls and reporting to enable spending transparency across funding types and programs.&lt;/li&gt;
+&lt;/ul&gt;</description>
+     <pubDate>03/18/2016 10:57:35</pubDate>
+ <dc:creator>3282</dc:creator>
+ <guid isPermaLink="false">3282</guid>
+  </item>
+  </channel>
+</rss>

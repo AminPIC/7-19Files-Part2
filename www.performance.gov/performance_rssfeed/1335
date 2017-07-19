@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.performance.gov/rssfeedtest/1335" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>RSS Feed</title>
+    <link>https://www.performance.gov/rssfeedtest/1335</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.performance.gov/performance_rssfeed/1335?content_year_filter=All&amp;type_1=All" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Reform and strengthen America&amp;#039;s criminal justice system</title>
+    <link>https://www.performance.gov/Reform%20and%20strengthen%20America%26%23039%3Bs%20criminal%20justice%20system</link>
+    <description>&lt;p&gt;Reform and strengthen America’s criminal justice system by targeting only the most serious offenses for federal prosecution, expanding the use of diversion programs, and aiding inmates in reentering society&lt;/p&gt;
+</description>
+     <pubDate>03/18/2016 11:01:03</pubDate>
+ <dc:creator>1335</dc:creator>
+ <guid isPermaLink="false">1335</guid>
+  </item>
+  </channel>
+</rss>

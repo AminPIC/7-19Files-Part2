@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.performance.gov/rssfeedtest/42912" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>RSS Feed</title>
+    <link>https://www.performance.gov/rssfeedtest/42912</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.performance.gov/performance_rssfeed/42912?content_year_filter=All&amp;type_1=All" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Retirement Services Case Processing</title>
+    <link>https://www.performance.gov/Retirement%20Services%20Case%20Processing</link>
+    <description>&lt;p&gt;Reduce Federal retirement case processing time by making comprehensive improvements and moving toward electronic processing of all retirement applications.&lt;/p&gt;
+&lt;p&gt;In FY 2016, process 90 percent of cases in 60 days or less (as of March 2015, 81.6 percent of cases were processed in 60 days or less).  Support the 90/60 goal by:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;increasing the percentage of complete cases received from agencies to 90 percent or greater;&lt;/li&gt;
+&lt;li&gt;continuing to develop capabilities to receive electronic retirement applications; and&lt;/li&gt;
+&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;building a court-ordered benefit case reporting mechanism to capture inventory and timeliness of court-ordered cases by the first quarter of FY 2016. Establish baseline data for timeliness by the end of FY 2016.&lt;/li&gt;
+&lt;/ul&gt;</description>
+     <pubDate>12/13/2016 10:43:29</pubDate>
+ <dc:creator>42912</dc:creator>
+ <guid isPermaLink="false">42912</guid>
+  </item>
+  </channel>
+</rss>

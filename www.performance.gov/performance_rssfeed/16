@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.performance.gov/rssfeedtest/16" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>RSS Feed</title>
+    <link>https://www.performance.gov/rssfeedtest/16</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.performance.gov/performance_rssfeed/16?content_year_filter=All&amp;type_1=All" rel="self" type="application/rss+xml" />
+      <item>
+    <title>National Science Foundation</title>
+    <link>https://www.performance.gov/National%20Science%20Foundation</link>
+    <description>&lt;p&gt;The National Science Foundation (NSF) is an independent federal agency that supports fundamental research and education across all fields of science and engineering. The NSF Act of 1950 (Public Law 81-507) sets forth our mission: &quot;To promote the progress of science; to advance the national health, prosperity and welfare; and to secure the national defense.&quot; The agency fulfills its mission mainly by issuing limited-term grants (currently about 11,000 new awards per year) to support research by individuals or small groups of investigators, research centers, and instruments and facilities that allow scientists, engineers and students to work at the outermost frontiers of knowledge. Awards are made for research that has been judged most promising by a thorough and objective merit review system.&lt;/p&gt;
+&lt;p&gt;As described in our strategic plan, NSF is the only federal agency whose mission includes support for all fields of fundamental science and engineering, except for medical sciences. NSF is tasked with keeping the U.S. at the leading edge of discovery in a wide range of scientific and engineering areas.&lt;/p&gt;
+</description>
+     <pubDate>02/10/2016 12:32:21</pubDate>
+ <dc:creator>16</dc:creator>
+ <guid isPermaLink="false">16</guid>
+  </item>
+  </channel>
+</rss>

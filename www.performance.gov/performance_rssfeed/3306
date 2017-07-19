@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.performance.gov/rssfeedtest/3306" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>RSS Feed</title>
+    <link>https://www.performance.gov/rssfeedtest/3306</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.performance.gov/performance_rssfeed/3306?content_year_filter=All&amp;type_1=All" rel="self" type="application/rss+xml" />
+      <item>
+    <title>SG09.01 Sponsor high quality, consumer friendly, affordable insurance products </title>
+    <link>https://www.performance.gov/SG09.01%20Sponsor%20high%20quality%2C%20consumer%20friendly%2C%20affordable%20insurance%20products%20</link>
+    <description>&lt;p&gt;Increase the percentage of states covered by at least one Multi-State insurance issuer and percentage of states covered by two or more Multi-State insurance issuers.&lt;/p&gt;
+&lt;p&gt;Increase the number of carriers receiving OPM “Exemplary” or “Most Improved” distinction for health care quality or customer service.&lt;/p&gt;
+&lt;p&gt;Improve overall satisfaction with health plan as reported by health plan enrollees in Consumer Assessment of Healthcare Providers and Systems (CAHPS).&lt;/p&gt;
+&lt;p&gt;Decrease the number of ineligible dependents on enrollee’s FEHB coverage.&lt;/p&gt;
+</description>
+     <pubDate>03/18/2016 10:55:04</pubDate>
+ <dc:creator>3306</dc:creator>
+ <guid isPermaLink="false">3306</guid>
+  </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.performance.gov/rssfeedtest/1793" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>RSS Feed</title>
+    <link>https://www.performance.gov/rssfeedtest/1793</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.performance.gov/performance_rssfeed/1793?content_year_filter=All&amp;type_1=All" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Transition to Veterans</title>
+    <link>https://www.performance.gov/Transition%20to%20Veterans</link>
+    <description>&lt;p&gt;With America&#039;s involvement in Afghanistan winding down, there is a large influx of returning Service members and veterans transitioning to civilian life. To better support all Service members, DoD transformed its Wounded Warrior Agency Priority Goal from Fiscal Years 2012-2013 to an Agency Priority Goal (APG) focused on Transition to Veterans.  Transition to Veterans is a top DoD priority, and the Department wants to ensure our men and women in uniform are fully equipped for life after their military Service.&lt;/p&gt;
+&lt;p&gt;To that end, the Department has identified four programmatic goals that best reflect transition to veterans.  These goals include: By September 30, 2015 DoD  will improve the career readiness of Service Members’ transitioning to Veteran status by:  1)  ensuring at least 85% of eligible Service Members complete required transition activities prior to separation: pre-separation counseling, a Department of Labor (DoL) employment workshop, and Veterans Affairs’ benefits briefings; 2) verifying that at least 85% of separating service members meet  newly established Career Readiness Standards prior to separation; 3)  accelerating the transition of recovering Service Members into Veteran status by reducing disability evaluation processing time; and 4)  supporting the seamless transition of recovering Service Members by sharing active recovery plans with the VA.&lt;/p&gt;
+</description>
+     <pubDate>01/08/2016 09:32:33</pubDate>
+ <dc:creator>1793</dc:creator>
+ <guid isPermaLink="false">1793</guid>
+  </item>
+  </channel>
+</rss>

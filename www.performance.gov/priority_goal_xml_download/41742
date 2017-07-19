@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" ?><data><Agency_Priority_Goal><Agency_ID>12</Agency_ID><Agency_Name>Department of the Treasury</Agency_Name><Agency_Priority_Goal_ID>41742</Agency_Priority_Goal_ID><Fiscal_Year>FY16-17</Fiscal_Year><APG_Header>Financial Transparency</APG_Header><APG_Statement>Develop and promote financial transparency policies and their adoption that reflect a 21st century economy and data-driven decision-making to enable a more efficient and effective government.&amp;nbsp; By May 2017, federal spending data is standardized, reliable, and accessible to the public in a structured industry format.
+</APG_Statement><APG_Overview>Treasury operates and oversees the government’s central financial accounting and reporting system.&amp;nbsp; This role is critical to helping ensure the proper management of the nation’s finances and public confidence in the U.S. government.&amp;nbsp; In this role, Treasury collects, analyzes, and publishes government-wide financial information used by the federal government to establish fiscal and debt management policies.&amp;nbsp; The public and private sectors also use this vital information to monitor the government’s financial status, which in turn informs their business decisions.
+
+Treasury leads the government-wide implementation of the Digital Accountability and Transparency Act (DATA Act) in collaboration with OMB and has also been working to improve the USAspending.gov site to better meet stakeholder needs since assuming responsibility for it in February 2014. The objective of this APG is to standardize data exchanges, publish additional federal financial data, and implement USAspending.gov (or a successor site) improvements.
+
+Associated Strategic Goal: Treasury Strategic Goal 3 – Fairly and effectively reform and modernize federal financial management, accounting, and tax systems
+
+Associated Strategic Objective: Treasury Strategic Objective 3.1 - Improve the efficiency and transparency of federal financial management and government-wide accounting
+
+External Links:
+
+https://openbeta.usaspending.gov/
+
+http://fedspendingtransparency.github.io/
+&amp;nbsp;
+</APG_Overview><Goal_Leaders><Goal_Leader><goal_leader_name>Dave Lebryk</goal_leader_name><goal_leader_title>Fiscal Assistant Secretary</goal_leader_title><goal_leader_org>Office of the Fiscal Assistant Secretary</goal_leader_org></Goal_Leader></Goal_Leaders><next_steps>
+	
+		
+			&amp;nbsp;
+			&amp;nbsp;
+			Target Date
+		
+	
+	Milestones
+	
+		
+			1
+			Develop spending transparency beta site, incorporating stakeholder input (including the public where possible).
+			Ongoing
+		
+		
+			2
+			Develop resources to reduce implementation costs and help agencies use data for decision-making.
+			Ongoing
+		
+		
+			3
+			Develop a robust governance structure/framework for expanding and maintaining the data exchange standard.
+			
+			6/2016
+
+			(Completed)
+			
+		
+		
+			4
+			Complete new operating infrastructure for the collection, validation, and publication of federal spending data.
+			3/2017
+		
+		
+			5
+			Publish the official new spending transparency website (USAspending.gov or successor site).
+			
+			5/2017
+			
+		
+	
+
+
+&amp;nbsp;Next Steps
+•&amp;nbsp;Update the Award Submission Portal to accept the new file submission format consistent with File D2: Award and Awardee Attributes (Financial Assistance) of the DATA Act Schema (DAIMS v1.0).
+•&amp;nbsp;Continue to develop and implement user interface improvements on the DATA Act Broker in preparation for Federal agency reporting in 2017.
+•&amp;nbsp;Finalize the concepts on the OpenBeta.USASpending.gov website based on public comments received in preparation for the launch of the new USASpending.gov site in May 2017.
+&amp;nbsp;
+</next_steps><progress_update>The DATA Act implementation includes several key work streams that Treasury is leading, including the DATA Act Schema, the DATA Act Broker, Treasury Platform Development, and Data Publication. In April, Treasury released the DATA Act Information Model Schema (DAIMS) version 1.0. This technical guidance is the result of work led by Treasury, in collaboration with agencies and the broader federal communities, over the past year to iteratively develop the DATA Act reporting requirements. The DAIMS captures the data elements needed, their relationships, and the overall context of how they fit together. It also provides clarity, guidance, and instruction on the need, submission, and use of the DATA Act elements. The DATA Act Broker, the online tool agencies will utilize to submit and validate their data to Treasury. On September 30th, Treasury published the full DATA Act Broker release, which contains all of the functionality agencies need to test the data validation and submission process. The Broker is being developed using open source code and can be accessed on the Federal Spending Transparency Collaboration Github site.
+
+Last November, Treasury launched OpenBeta.USASpending.gov, our beta site for testing ideas and obtaining feedback from the American people on the design of the future USASpending.gov site. This site provides a unique opportunity for the public to review, test, and provide feedback on data display and search functionality components that will inform Treasury’s efforts to support the needs of data users. Treasury continues to add new features and functionalities for the public to review on a rolling basis in preparation for the launch of the new USASpending.gov site in May 2017. Treasury continues to maintain and update the Federal Spending Transparency GitHub site. Comments received through these sites are used to inform Treasury’s efforts to support the needs of data users.
+
+Treasury established a DATA Act Program Management Office (PMO) to support government-wide implementation and organize the sharing of best practices and resources across Federal agencies. Treasury supports Federal agencies through communications and events, including publishing artifacts to support and aid agencies’ implementation efforts, producing the monthly DATA Act Digest, and meeting regularly with staff, Senior Accountable Officers (SAOs), and leaders from relevant Federal councils/committees. Treasury consistently reaches all CFO Act agencies and Federal Shared Services Providers each month through communications and events. The strong participation by agencies across the government in DATA Act PMO outreach events is reflective of the growing community surrounding this initiative and the open, transparent way in which implementation efforts have been conducted. Treasury also shares information with financial management software providers to brief them on the technical requirements of the DATA Act and the open source code available from Treasury that could reduce implementation costs. By working in partnership with federal agencies and consulting with public and private stakeholders, Treasury continues to make great strides in its efforts to improve and expand federal financial transparency.
+
+Milestone updates:
+
+1. Continued to update and maintain OpenBeta.USAspending.gov for the public to review, test, and submit feedback before the final version goes live in May 2017.
+
+2. Published the full DATA Act Broker release using open source software to allow for maximum reuse to reduce implementation costs.
+
+3. Treasury completed recommendations for a robust governance structure framework.
+
+4. Continued work designing, testing, and building operating infrastructure for the DATA Act platform.
+
+5. Continued to develop and refine DATA Act beta website for the publication of federal spending data.
+</progress_update><themes><theme>General Government</theme><theme>Management</theme></themes><contributing_programs_and_other_factors>Contributing Programs:
+
+
+	Office of Management and Budget (OMB)
+	Bureau of the Fiscal Service
+
+</contributing_programs_and_other_factors></Agency_Priority_Goal><Strategic_Goals></Strategic_Goals><Strategic_Objectives></Strategic_Objectives><Indicators></Indicators></data>

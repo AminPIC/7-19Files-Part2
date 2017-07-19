@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.performance.gov/rssfeedtest/3511" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>RSS Feed</title>
+    <link>https://www.performance.gov/rssfeedtest/3511</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.performance.gov/performance_rssfeed/3511?content_year_filter=All&amp;type_1=All" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Increase the focus on efficient and effective management across the DOE enterprise and improve performance in the areas of environmental cleanup, construction project management, and cybersecurity.</title>
+    <link>https://www.performance.gov/Increase%20the%20focus%20on%20efficient%20and%20effective%20management%20across%20the%20DOE%20enterprise%20and%20improve%20performance%20in%20the%20areas%20of%20environmental%20cleanup%2C%20construction%20project%20management%2C%20and%20cybersecurity.</link>
+    <description>&lt;p&gt;In support of this goal, DOE will:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Retrieve tank waste, close tanks, and dispose of transuranic waste within cost and schedule through FY 2015&lt;/li&gt;
+&lt;li&gt;On a three-year rolling basis, complete at least 90% of departmental projects baselined since the start of FY 2008 within the original scope baseline and not to exceed 110% of the cost as reflected in the performance baseline established at Critical Decision 2 through FY 2015&lt;/li&gt;
+&lt;li&gt;Achieve full operational capability of the Joint Cybersecurity Coordination Center (JC3), including TS-SCI operations, by the end of FY 2015&lt;/li&gt;
+&lt;/ul&gt;</description>
+     <pubDate>01/08/2016 09:32:05</pubDate>
+ <dc:creator>3511</dc:creator>
+ <guid isPermaLink="false">3511</guid>
+  </item>
+  </channel>
+</rss>

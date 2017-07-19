@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.performance.gov/rssfeedtest/1117" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>RSS Feed</title>
+    <link>https://www.performance.gov/rssfeedtest/1117</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.performance.gov/performance_rssfeed/1117?content_year_filter=All&amp;type_1=All" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Promote free trade, open markets, and foreign investment opportunities</title>
+    <link>https://www.performance.gov/Promote%20free%20trade%2C%20open%20markets%2C%20and%20foreign%20investment%20opportunities</link>
+    <description>&lt;p&gt;Promote free trade, open markets, and foreign investment opportunities&lt;/p&gt;
+</description>
+     <pubDate>03/18/2016 10:48:56</pubDate>
+ <dc:creator>1117</dc:creator>
+ <guid isPermaLink="false">1117</guid>
+  </item>
+  </channel>
+</rss>

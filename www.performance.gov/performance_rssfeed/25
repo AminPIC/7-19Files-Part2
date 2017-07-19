@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.performance.gov/rssfeedtest/25" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>RSS Feed</title>
+    <link>https://www.performance.gov/rssfeedtest/25</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.performance.gov/performance_rssfeed/25?content_year_filter=All&amp;type_1=All" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Department of Education</title>
+    <link>https://www.performance.gov/Department%20of%20Education</link>
+    <description>&lt;p&gt;The U.S. Department of Education&#039;s mission is to promote student achievement and preparation for global competitiveness by fostering educational excellence and ensuring equal access.&lt;/p&gt;
+&lt;p&gt;President Obama’s vision is that by 2020, America will once again have the best-educated, most competitive workforce in the world with the highest proportion of college graduates of any country.  To do this, the United States must also close the achievement and opportunity gaps so that all youth—regardless of their backgrounds—graduate from high school ready to succeed in college and careers.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Specifically, ED&#039;s 4,400 employees and $68 billion budget are dedicated to:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Establishing policies on federal financial aid for education, and distributing as well as monitoring those funds.&lt;/li&gt;
+&lt;li&gt;Collecting data on America&#039;s schools and disseminating research.&lt;/li&gt;
+&lt;li&gt;Focusing national attention on key educational issues.&lt;/li&gt;
+&lt;li&gt;Prohibiting discrimination and ensuring equal access to education.&lt;/li&gt;
+&lt;/ul&gt;</description>
+     <pubDate>02/17/2016 10:51:41</pubDate>
+ <dc:creator>25</dc:creator>
+ <guid isPermaLink="false">25</guid>
+  </item>
+  </channel>
+</rss>

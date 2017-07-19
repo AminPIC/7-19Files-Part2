@@ -1,0 +1,875 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="../content/high-performance-computing.html" />
+<link rel="shortlink" href="45492.1.html" />
+<link rel="shortcut icon" href="../sites/all/themes/performance/favicon.ico" type="image/vnd.microsoft.icon" />
+  <title>High Performance Computing | Performance.gov</title>
+  <style type="text/css" media="all">
+@import url("../sites/all/themes/performance/styles/framework/reset.css%3Forhray.css");
+@import url("../sites/all/themes/performance/styles/framework/960.css%3Forhray.css");
+@import url("../sites/all/themes/performance/styles/framework/debug.css%3Forhray.css");
+</style>
+<style type="text/css" media="all">
+@import url("../modules/system/system.base.css%3Forhray.css");
+@import url("../modules/system/system.menus.css%3Forhray.css");
+@import url("../modules/system/system.messages.css%3Forhray.css");
+@import url("../modules/system/system.theme.css%3Forhray.css");
+</style>
+<style type="text/css" media="all">
+@import url("../sites/all/modules/contrib/calendar/css/calendar_multiday.css%3Forhray.css");
+@import url("../sites/all/modules/contrib/colorbox_node/colorbox_node.css%3Forhray.css");
+@import url("../modules/comment/comment.css%3Forhray.css");
+@import url("../sites/all/modules/contrib/date/date_api/date.css%3Forhray.css");
+@import url("../sites/all/modules/contrib/date/date_popup/themes/datepicker.1.7.css%3Forhray.css");
+@import url("../sites/all/modules/contrib/date/date_repeat_field/date_repeat_field.css%3Forhray.css");
+@import url("../modules/field/theme/field.css%3Forhray.css");
+@import url("../modules/node/node.css%3Forhray.css");
+@import url("../modules/search/search.css%3Forhray.css");
+@import url("../modules/user/user.css%3Forhray.css");
+@import url("../sites/all/modules/contrib/workflow/workflow_admin_ui/workflow_admin_ui.css%3Forhray.css");
+@import url("../sites/all/modules/contrib/views/css/views.css%3Forhray.css");
+@import url("../sites/all/modules/contrib/ckeditor/css/ckeditor.css%3Forhray.css");
+</style>
+<style type="text/css" media="all">
+@import url("../sites/all/modules/contrib/colorbox/styles/default/colorbox_style.css%3Forhray.css");
+@import url("../sites/all/modules/contrib/ctools/css/ctools.css%3Forhray.css");
+@import url("../sites/all/modules/contrib/nice_menus/css/nice_menus.css%3Forhray.css");
+@import url("../sites/all/modules/contrib/nice_menus/css/nice_menus_default.css%3Forhray.css");
+@import url("../misc/ui/jquery.ui.core.css%3Forhray.css");
+@import url("../misc/ui/jquery.ui.theme.css%3Forhray.css");
+</style>
+<style type="text/css" media="all">
+@import url("../sites/all/themes/performance/styles/tooltip/popup.css%3Forhray.css");
+@import url("../sites/all/themes/performance/styles/tooltip/popup-element.css%3Forhray.css");
+@import url("../sites/all/themes/performance/styles/responsive.css%3Forhray.css");
+@import url("../sites/all/themes/performance/styles/fonts.css%3Forhray.css");
+@import url("../sites/all/themes/performance/styles/admin.css%3Forhray.css");
+@import url("../sites/all/themes/performance/styles/style.css%3Forhray.css");
+@import url("../sites/all/themes/performance/styles/maintenance-page.css%3Forhray.css");
+@import url("../sites/all/themes/performance/styles/fonts/novecentowide_bold_macroman/stylesheet.css%3Forhray.css");
+@import url("../sites/all/themes/performance/styles/fonts/MyFontsWebfontsKit/MyFontsWebfontsKit.css%3Forhray.css");
+@import url("../sites/all/themes/performance/styles/jquery.mmenu.all.css%3Forhray.css");
+</style>
+
+<!--[if lte IE 11]>
+<link type="text/css" rel="stylesheet" href="https://www.performance.gov/sites/all/themes/performance/styles/ie.css?orhray" media="all" />
+<![endif]-->
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="https://www.performance.gov/sites/all/themes/performance/styles/ie7.css?orhray" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="../misc/jquery.js%3Fv=1.4.4"></script>
+<script type="text/javascript" src="../misc/jquery.once.js%3Fv=1.2"></script>
+<script type="text/javascript" src="../misc/drupal.js%3Forhray"></script>
+<script type="text/javascript" src="../misc/jquery.cookie.js%3Fv=1.0"></script>
+<script type="text/javascript" src="../sites/all/libraries/history.js/scripts/bundled/html4+html5/jquery.history.js%3Forhray"></script>
+<script type="text/javascript" src="../misc/jquery.form.js%3Fv=2.52"></script>
+<script type="text/javascript" src="../sites/all/modules/contrib/nice_menus/js/jquery.bgiframe.js%3Fv=2.1"></script>
+<script type="text/javascript" src="../sites/all/modules/contrib/nice_menus/js/jquery.hoverIntent.js%3Fv=0.5"></script>
+<script type="text/javascript" src="../sites/all/modules/contrib/nice_menus/js/superfish.js%3Fv=1.4.8"></script>
+<script type="text/javascript" src="../sites/all/modules/contrib/nice_menus/js/nice_menus.js%3Fv=1.0"></script>
+<script type="text/javascript" src="../misc/ajax.js%3Fv=7.54"></script>
+<script type="text/javascript" src="../sites/all/libraries/jquery/jquery-1.7.2.min.js%3Forhray"></script>
+<script type="text/javascript" src="../sites/all/themes/performance/js/jquery.mmenu.min.all.js%3Forhray"></script>
+<script type="text/javascript" src="../sites/all/themes/performance/js/jquery.address-1.5.min.js%3Forhray"></script>
+<script type="text/javascript" src="../sites/all/themes/performance/js/jquery-ui-1.10.3/ui/jquery-ui.js%3Forhray"></script>
+<script type="text/javascript" src="../sites/all/themes/performance/js/global_172.js%3Forhray"></script>
+<script type="text/javascript" src="../sites/all/themes/performance/js/search.js%3Forhray"></script>
+<script type="text/javascript" src="../sites/all/modules/contrib/jqmulti/js/switch.js%3Forhray"></script>
+<script type="text/javascript" src="../sites/all/modules/contrib/apachesolr_sort/apachesolr_sort.js%3Forhray"></script>
+<script type="text/javascript" src="../sites/all/modules/custom/performance_api_client/js/simpleshowhide.js%3Forhray"></script>
+<script type="text/javascript" src="../sites/all/modules/contrib/authcache/authcache.js%3Forhray"></script>
+<script type="text/javascript" src="../sites/all/libraries/colorbox/jquery.colorbox-min.js%3Forhray"></script>
+<script type="text/javascript" src="../sites/all/modules/contrib/colorbox/js/colorbox.js%3Forhray"></script>
+<script type="text/javascript" src="../sites/all/modules/contrib/colorbox/styles/default/colorbox_style.js%3Forhray"></script>
+<script type="text/javascript" src="../sites/all/modules/contrib/colorbox/js/colorbox_load.js%3Forhray"></script>
+<script type="text/javascript" src="../sites/all/modules/contrib/popup/popup.js%3Forhray"></script>
+<script type="text/javascript" src="../sites/all/modules/contrib/views/js/base.js%3Forhray"></script>
+<script type="text/javascript" src="../misc/progress.js%3Fv=7.54"></script>
+<script type="text/javascript" src="../sites/all/modules/contrib/views/js/ajax_view.js%3Forhray"></script>
+<script type="text/javascript" src="../sites/all/modules/contrib/google_analytics/googleanalytics.js%3Forhray"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-86562364-1", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="../sites/all/libraries/jquery.cycle/jquery.cycle.all.js%3Forhray"></script>
+<script type="text/javascript" src="../sites/all/libraries/jquery.ezpz_hint/jquery.ezpz_hint.js%3Forhray"></script>
+<script type="text/javascript" src="../sites/all/modules/contrib/field_group/field_group.js%3Forhray"></script>
+<script type="text/javascript" src="../sites/all/themes/performance/js/agency.js%3Forhray"></script>
+<script type="text/javascript" src="../sites/all/libraries/highcharts/js/highcharts.js%3Forhray"></script>
+<script type="text/javascript" src="../sites/all/modules/contrib/views_ajax_history/views_ajax_history.js%3Forhray"></script>
+<script type="text/javascript" src="../sites/all/modules/contrib/colorbox_node/colorbox_node.js%3Forhray"></script>
+<script type="text/javascript" src="../sites/all/themes/performance/js/global.js%3Forhray"></script>
+<script type="text/javascript" src="../sites/all/themes/performance/js/vAlignPlugin.js%3Forhray"></script>
+<script type="text/javascript" src="../sites/all/themes/performance/js/jquery.livequery.js%3Forhray"></script>
+<script type="text/javascript" src="../sites/all/themes/performance/js/jquery.tinycarousel.min.js%3Forhray"></script>
+<script type="text/javascript" src="../sites/all/themes/performance/js/jquery.easyListSplitter.js%3Forhray"></script>
+<script type="text/javascript" src="../sites/all/themes/performance/js/purl.js%3Forhray"></script>
+<script type="text/javascript" src="../sites/all/themes/performance/js/jquery.equalheights.min.js%3Forhray"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"performance","theme_token":"prigYYY8VonkEH9QMjid5FjKKSUGnnoSit0qmbtD_SE","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/jquery.cookie.js":1,"sites\/all\/libraries\/history.js\/scripts\/bundled\/html4+html5\/jquery.history.js":1,"misc\/jquery.form.js":1,"sites\/all\/modules\/contrib\/nice_menus\/js\/jquery.bgiframe.js":1,"sites\/all\/modules\/contrib\/nice_menus\/js\/jquery.hoverIntent.js":1,"sites\/all\/modules\/contrib\/nice_menus\/js\/superfish.js":1,"sites\/all\/modules\/contrib\/nice_menus\/js\/nice_menus.js":1,"misc\/ajax.js":1,"sites\/all\/libraries\/jquery\/jquery-1.7.2.min.js":1,"sites\/all\/themes\/performance\/js\/jquery.mmenu.min.all.js":1,"sites\/all\/themes\/performance\/js\/jquery.address-1.5.min.js":1,"sites\/all\/themes\/performance\/js\/jquery-ui-1.10.3\/ui\/jquery-ui.js":1,"sites\/all\/themes\/performance\/js\/global_172.js":1,"sites\/all\/themes\/performance\/js\/search.js":1,"sites\/all\/modules\/contrib\/jqmulti\/js\/switch.js":1,"sites\/all\/modules\/contrib\/apachesolr_sort\/apachesolr_sort.js":1,"sites\/all\/modules\/custom\/performance_api_client\/js\/simpleshowhide.js":1,"sites\/all\/modules\/contrib\/authcache\/authcache.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/contrib\/popup\/popup.js":1,"sites\/all\/modules\/contrib\/views\/js\/base.js":1,"misc\/progress.js":1,"sites\/all\/modules\/contrib\/views\/js\/ajax_view.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"\/sites\/all\/libraries\/jquery.cycle\/jquery.cycle.all.js":1,"\/sites\/all\/libraries\/jquery.ezpz_hint\/jquery.ezpz_hint.js":1,"sites\/all\/modules\/contrib\/field_group\/field_group.js":1,"sites\/all\/themes\/performance\/js\/agency.js":1,"sites\/all\/libraries\/highcharts\/js\/highcharts.js":1,"sites\/all\/modules\/contrib\/views_ajax_history\/views_ajax_history.js":1,"sites\/all\/modules\/contrib\/colorbox_node\/colorbox_node.js":1,"sites\/all\/themes\/performance\/js\/global.js":1,"sites\/all\/themes\/performance\/js\/vAlignPlugin.js":1,"sites\/all\/themes\/performance\/js\/jquery.livequery.js":1,"sites\/all\/themes\/performance\/js\/jquery.tinycarousel.min.js":1,"sites\/all\/themes\/performance\/js\/jquery.easyListSplitter.js":1,"sites\/all\/themes\/performance\/js\/purl.js":1,"sites\/all\/themes\/performance\/js\/jquery.equalheights.min.js":1},"css":{"sites\/all\/themes\/performance\/styles\/framework\/reset.css":1,"sites\/all\/themes\/performance\/styles\/framework\/960.css":1,"sites\/all\/themes\/performance\/styles\/framework\/debug.css":1,"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/contrib\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/contrib\/colorbox_node\/colorbox_node.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contrib\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/workflow\/workflow_admin_ui\/workflow_admin_ui.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/popup\/popup.css":1,"sites\/all\/modules\/contrib\/nice_menus\/css\/nice_menus.css":1,"sites\/all\/modules\/contrib\/nice_menus\/css\/nice_menus_default.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"sites\/all\/themes\/performance\/styles\/tooltip\/popup.css":1,"sites\/all\/themes\/performance\/styles\/tooltip\/popup-element.css":1,"sites\/all\/themes\/performance\/styles\/responsive.css":1,"sites\/all\/themes\/performance\/styles\/fonts.css":1,"sites\/all\/themes\/performance\/styles\/admin.css":1,"sites\/all\/themes\/performance\/styles\/style.css":1,"sites\/all\/themes\/performance\/styles\/jquery.selectBoxIt.css":1,"sites\/all\/themes\/performance\/styles\/maintenance-page.css":1,"sites\/all\/themes\/performance\/styles\/fonts\/novecentowide_bold_macroman\/stylesheet.css":1,"sites\/all\/themes\/performance\/styles\/fonts\/MyFontsWebfontsKit\/MyFontsWebfontsKit.css":1,"sites\/all\/themes\/performance\/styles\/jquery.mmenu.all.css":1,"sites\/all\/themes\/performance\/styles\/ie.css":1,"sites\/all\/themes\/performance\/styles\/ie7.css":1}},"authcache":{"q":"node\/45492","cp":{"path":"\/","domain":".performance.gov","secure":true},"cl":23.148148148148},"colorbox":{"transition":"elastic","speed":"350","opacity":"0.85","slideshow":false,"slideshowAuto":true,"slideshowSpeed":"2500","slideshowStart":"start slideshow","slideshowStop":"stop slideshow","current":"","previous":"","next":"","close":"","overlayClose":true,"maxWidth":"98%","maxHeight":"98%","initialWidth":"300","initialHeight":"250","fixed":true,"scrolling":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"popup":{"effects":{"show":{"default":"this.body.show();","fade":"\n        if (this.opacity){\n          this.body.fadeTo(\u0027medium\u0027,this.opacity);\n        }else{\n          this.body.fadeIn(\u0027medium\u0027);\n        }","slide-down":"this.body.slideDown(\u0027medium\u0027)","slide-down-fade":"\n        this.body.animate(\n          {\n            height:\u0027show\u0027,\n            opacity:(this.opacity ? this.opacity : \u0027show\u0027)\n          }, \u0027medium\u0027\n        );"},"hide":{"default":"this.body.hide();","fade":"this.body.fadeOut(\u0027medium\u0027);","slide-down":"this.body.slideUp(\u0027medium\u0027);","slide-down-fade":"\n        this.body.animate(\n          {\n            height:\u0027hide\u0027,\n            opacity:\u0027hide\u0027\n          }, \u0027medium\u0027\n        );"}},"linger":"250","delay":0},"viewsAjaxHistory":{"onloadPageItem":0},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:184035190e3e8d2fe0eeb4407977aab2":{"view_name":"announcements","view_display_id":"block","view_args":"","view_path":"node\/45492","view_base_path":"announcements-public","view_dom_id":"184035190e3e8d2fe0eeb4407977aab2","pager_element":0}}},"better_exposed_filters":{"views":{"announcements":{"displays":{"block":{"filters":[]}}}}},"nice_menus_options":{"delay":"800","speed":"fast"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1},"urlIsAjaxTrusted":{"\/node\/45492":true},"field_group":{"field_group_multiple_container":"full","div":"full","hidden":"full"},"colorbox_node":{"width":"600px","height":"600px"}});
+//--><!]]>
+</script>
+  <!--[if IE 8]>
+    <link rel="stylesheet" href="/sites/all/themes/performance/styles/css3pie.css" type="text/css">
+    <script type="text/javascript" src="/sites/all/themes/performance/js/ie8.js"></script>
+  <![endif]-->
+  <!--[if lt IE 8]>
+    <script type="text/javascript" src="/sites/all/themes/performance/js/ie7.js"></script>
+  <![endif]-->
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-45492 node-type-priority-goal content high-performance-computing content high-performance-computing" >
+  <div id="skip-link">
+    <a href="45492.1.html#main-content" class="element-invisible">Skip to main content</a>
+  </div>
+    <!-- Top Bar -->
+<div id="top-bar" role="banner">
+  <!-- div id="usa">An Official Website of the United States Government</div -->
+  <!-- Changes made to banner May 30, 2017 -->
+  <div id="usa"><p>This is historical material “frozen in time.” The website is no longer updated and links to external websites and some internal pages may not work. </p></div>
+</div>
+<div id="page" class="container-16 clearfix">
+  <div id="innerWrapper">
+      <!-- PER-739 - Removed date from header -->
+      <!-- <div class="dateLogoutWrapper">
+<!--        <div id="date">--><!--</div>-->
+<!--        --><!--      </div> -->
+    </div>
+    
+    <!-- Header -->
+    <div id="site-header" class="container-16 clearfix">
+      <div><a id="logo-link" href="../index.html"><img src="../sites/all/themes/performance/images/logo.png" alt="Performance.gov"></a></div>
+
+      <!-- PER-737 - Removed search bar from header -->
+    <!-- Search -->
+
+<!--                 <div id="search-box" class="grid-16 clearfix">   <div class="region region-search-box">
+    <div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form action="/node/45492" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search   </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+<div class='clear'></div>
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-GYGh15eHksAs_A9OXtBvn6KsmBOlVgjqAUIuqt_lQXY" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+  </div>
+        </div>
+         -->
+        <div id="mobile-menu-block" class="mobile">
+            <a href="45492.1.html#mobile-menu"><img src="../sites/all/themes/performance/images/mobile_menu_icon.png" alt="Mobile Menu"></a>
+        </div>
+    </div>
+
+    
+          <div id="site-menu" class="container-16 clearfix">
+          <div class="region region-main-nav">
+    <div id="block-nice-menus-2" class="block block-nice-menus">
+
+    
+  <div class="content">
+    <ul class="nice-menu nice-menu-down nice-menu-main-menu" id="nice-menu-2"><li class="menu-1333 menu-path-front first odd "><a href="../index.html" title="">Home</a></li>
+<li class="menu-535 menuparent  menu-path-agencies  even "><a href="../agencies.html">Agencies</a><ul><li class="menu-2300 menu-path-node-6 first odd "><a href="../agency/department-agriculture%3Fview=public.html" title="">Department of Agriculture</a></li>
+<li class="menu-2293 menu-path-node-23  even "><a href="../agency/department-housing-and-urban-development%3Fview=public.html" title="">Department of Housing and Urban Development</a></li>
+<li class="menu-2294 menu-path-node-27  odd "><a href="../agency/general-services-administration%3Fview=public.html" title="">General Services Administration</a></li>
+<li class="menu-2299 menu-path-node-7  even "><a href="../agency/department-commerce%3Fview=public.html" title="">Department of Commerce</a></li>
+<li class="menu-2298 menu-path-node-8  odd "><a href="../agency/department-interior%3Fview=public.html" title="">Department of the Interior</a></li>
+<li class="menu-2301 menu-path-node-22  even "><a href="../agency/national-aeronautics-and-space-administration%3Fview=public.html" title="">National Aeronautics and Space Administration</a></li>
+<li class="menu-2291 menu-path-node-26  odd "><a href="../agency/department-defense%3Fview=public.html" title="">Department of Defense</a></li>
+<li class="menu-2297 menu-path-node-9  even "><a href="../agency/department-justice%3Fview=public.html" title="">Department of Justice</a></li>
+<li class="menu-2312 menu-path-node-16  odd "><a href="../agency/national-science-foundation%3Fview=public.html" title="">National Science Foundation</a></li>
+<li class="menu-2292 menu-path-node-25  even "><a href="../agency/department-education%3Fview=public.html" title="">Department of Education</a></li>
+<li class="menu-2306 menu-path-node-10  odd "><a href="../agency/department-labor%3Fview=public.html" title="">Department of Labor</a></li>
+<li class="menu-2303 menu-path-node-13  even "><a href="../agency/office-personnel-management%3Fview=public.html" title="">Office of Personnel Management</a></li>
+<li class="menu-2295 menu-path-node-24  odd "><a href="../agency/department-energy%3Fview=public.html" title="">Department of Energy</a></li>
+<li class="menu-2305 menu-path-node-11  even "><a href="../agency/department-state-and-usaid%3Fview=public.html" title="">Department of State</a></li>
+<li class="menu-2302 menu-path-node-20  odd "><a href="../agency/small-business-administration%3Fview=public.html" title="">Small Business Administration</a></li>
+<li class="menu-2311 menu-path-node-17  even "><a href="../agency/environmental-protection-agency%3Fview=public.html" title="">Environmental Protection Agency</a></li>
+<li class="menu-2310 menu-path-node-18  odd "><a href="../agency/department-transportation%3Fview=public.html" title="">Department of Transportation</a></li>
+<li class="menu-2307 menu-path-node-14  even "><a href="../agency/social-security-administration%3Fview=public.html" title="">Social Security Administration</a></li>
+<li class="menu-2313 menu-path-node-21  odd "><a href="../agency/department-health-and-human-services%3Fview=public.html" title="">Department of Health and Human Services</a></li>
+<li class="menu-2304 menu-path-node-12  even "><a href="../agency/department-treasury%3Fview=public.html" title="">Department of the Treasury</a></li>
+<li class="menu-2346 menu-path-node-11  odd "><a href="../agency/department-state-and-usaid%3Fview=public.html" title="U.S. Agency for International Development">U.S. Agency for International Development</a></li>
+<li class="menu-2309 menu-path-node-19  even "><a href="../agency/department-homeland-security%3Fview=public.html" title="">Department of Homeland Security</a></li>
+<li class="menu-2308 menu-path-node-15  odd last"><a href="../agency/department-veterans-affairs%3Fview=public.html" title="">Department of Veterans Affairs</a></li>
+</ul></li>
+<li class="menu-2290 menu-path-clear-goals  odd "><a href="../clear_goals.1.html" title="">Goals</a></li>
+<li class="menu-7052 menuparent  menu-path-node-27432  even  initiatives"><a href="../initiative/freeze-footprint.html" title="Read about efforts to reduce the usage footprint of real properties">Initiatives</a><ul><li class="menu-7062 menu-path-node-27432 first odd "><a href="../initiative/freeze-footprint.html" title="Learn more about our efforts to freeze the footprint usage of real property ">Freeze the Footprint</a></li>
+<li class="menu-10555 menu-path-node-123336  even "><a href="../initiative/reduce-footprint.html">Reduce the Footprint</a></li>
+<li class="menu-7072 menu-path-node-3406-view  odd "><a href="3406/view%3Fview=public.html#supporting-info" title="Sustainability">Sustainability</a></li>
+<li class="menu-3862 menu-path-permitsperformancegov-  even "><a href="http://www.permits.performance.gov/" title="Permitting Dashboard">Permitting Dashboard</a></li>
+<li class="menu-7082 menu-path-usaspendinggov-  odd "><a href="http://www.usaspending.gov/" title="USASpending.gov">USASpending.gov</a></li>
+<li class="menu-7092 menu-path-paymentaccuracygov-  even last"><a href="http://www.paymentaccuracy.gov/" title="PaymentAccuracy.gov">PaymentAccuracy.gov</a></li>
+</ul></li>
+<li class="menu-536 menu-path-node-23832  odd last"><a href="../federalprograminventory.html" title="">Programs</a></li>
+</ul>
+  </div>
+</div>
+  </div>
+        <div class="menu-right-main-nav"><ul class="links nice-menu"><li class="menu-2328 first"><a href="../api.1.html">API</a></li>
+<li class="menu-1351"><a href="../about.html" title="">About</a></li>
+<li class="menu-1352 last"><a href="../faq.html">FAQ</a></li>
+</ul></div>      </div>
+        <div id="site-subheader" class="">
+                </div>
+  
+    
+  
+    <!-- Homepage Slideshow -->
+    
+     <!-- Blue Box / Title / Breadcrumb / Secondary Menu -->
+        <div class="header">
+      <p id="breadcrumbs" class="breadcrumb-container">
+        <span class="element-invisible">You are here</span>Home      </p>
+    </div>
+            <!-- Main Content Area -->
+    <div id="main" class="column grid-16 ">
+
+      <div class="tabs"><h2 class="element-invisible">Primary tabs</h2><ul class="tabs primary"><li class="active"><a href="../content/high-performance-computing.html" class="active">View<span class="element-invisible">(active tab)</span></a></li>
+<li><a href="45492/showcompare.html">Show Changes</a></li>
+</ul></div>            <div class="clear"></div>
+                        <div id="main-content" class="region clearfix">
+          
+            <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    
+<style>
+    .ui-tooltip, .arrow:after {
+        background: white;
+        border: thin solid #eaeaea;
+        width: 200px;
+    }
+    .ui-tooltip {
+        padding: 10px 20px;
+        color: black;
+        border-radius: 20px;
+        font: 12px/20px Helvetica, Arial, Sans-Serif;
+        box-shadow: 0 0 7px white;
+    }
+    .arrow {
+        width: 70px;
+        height: 16px;
+        overflow: hidden;
+        position: absolute;
+        left: 50%;
+        margin-left: -35px;
+        bottom: -16px;
+    }
+    .arrow.top {
+        top: -16px;
+        bottom: auto;
+    }
+    .arrow.left {
+        left: 20%;
+    }
+    .arrow:after {
+        content: "";
+        position: absolute;
+        left: 20px;
+        top: -20px;
+        width: 25px;
+        height: 25px;
+        box-shadow: 6px 5px 9px -9px black;
+        -webkit-transform: rotate(45deg);
+        -moz-transform: rotate(45deg);
+        -ms-transform: rotate(45deg);
+        -o-transform: rotate(45deg);
+        tranform: rotate(45deg);
+    }
+    .arrow.top:after {
+        bottom: -20px;
+        top: auto;
+    }
+</style>
+<div id="node-45492" class="node node-priority-goal clearfix agency-overview" about="/content/high-performance-computing" typeof="sioc:Item foaf:Document">
+<div class="header">    <div class="official-website-container"></div>
+    <div class="logo-search-container"></div>
+    <div class="main-nav-container"></div>
+
+</div>
+<div class="clear"></div>
+<div class="agency-head-mission-wrapper">
+    <div class="float-left narrow-container" role="complementary">
+        <div class="agency-head-wrapper" id="agency-head-carousel">
+            <div class="viewport">
+                <ul class="overview">
+
+                                        <li><div class="thumbnail-wrapper">
+                                                <div class="thumbnail"><img src="https://s3.amazonaws.com/app_performance_prod_ahwdtloxcxcy/s3fs-public/pg_goal_leader_thumbnail/Orr%20portrait.jpg" alt="" style="width:100px"/></div>
+                                                <div class="frame-wrapper">
+                            <div class="frame"><img src="../sites/all/themes/performance/images/agency-head-frame.png" alt="" /></div>
+                            <div class="skirt"></div>
+                        </div>
+                        <div class="clear"></div>
+                    </div>
+                        <div class="name">Dr. Franklin (Lynn) M. Orr</div>
+                        <div class="title">Under Secretary for Science and Energy</div>
+                        <div class="title">Office of Science, U.S. Department of Energy</div>
+                    </li>
+
+                                        <li><div class="thumbnail-wrapper">
+                                                <div class="thumbnail"><img src="https://s3.amazonaws.com/app_performance_prod_ahwdtloxcxcy/s3fs-public/pg_goal_leader_thumbnail/Patricia_Dehmer_6.jpg" alt="" style="width:100px"/></div>
+                                                <div class="frame-wrapper">
+                            <div class="frame"><img src="../sites/all/themes/performance/images/agency-head-frame.png" alt="" /></div>
+                            <div class="skirt"></div>
+                        </div>
+                        <div class="clear"></div>
+                    </div>
+                        <div class="name">Patricia Dehmer</div>
+                        <div class="title">Deputy Director for Science Programs, Office of Science</div>
+                        <div class="title">Office of Science, U.S. Department of Energy</div>
+                    </li>
+
+                                        <li><div class="thumbnail-wrapper">
+                                                <div class="thumbnail"><img src="https://s3.amazonaws.com/app_performance_prod_ahwdtloxcxcy/s3fs-public/pg_goal_leader_thumbnail/Klotz.jpeg" alt="" style="width:100px"/></div>
+                                                <div class="frame-wrapper">
+                            <div class="frame"><img src="../sites/all/themes/performance/images/agency-head-frame.png" alt="" /></div>
+                            <div class="skirt"></div>
+                        </div>
+                        <div class="clear"></div>
+                    </div>
+                        <div class="name">Lieutenant General Frank G. Klotz</div>
+                        <div class="title">Under Secretary for Nuclear Security and Administrator for the National Nuclear Security Administration</div>
+                        <div class="title">NNSA</div>
+                    </li>
+
+                                    </ul>
+            </div>
+                        <ul class="pager">
+                                <li><a rel="0" class="pagenum" href="45492.1.html#"></a></li>
+                                <li><a rel="1" class="pagenum" href="45492.1.html#"></a></li>
+                                <li><a rel="2" class="pagenum" href="45492.1.html#"></a></li>
+                            </ul>
+                    </div>
+                <div class="agency-head-slider-controls">
+        </div>
+        
+    </div>
+    <div class="mission-container" role="main">
+        <div class="float-left text ">         
+            <span class="ct-label">FY 16-17: Agency Priority Goal</span>
+            <h1>High Performance Computing</h1>
+            <div class="mission_mobile"><h2>Priority Goal</h2></div>
+            <div class="teaser_themes_wrapper">
+                <div class="mission_title_mobile">High Performance Computing</div>
+                <!--<div class="teaser collapsed">
+                    <span class="mission"></span>
+                                                        </div>-->
+                <div class="">
+                    <span class="mission"></span>
+                                     
+                    <p><strong>High Performance Computing:</strong>  Contributes to implementation of the President’s Executive Order establishing the National Strategic Computing Initiative including accelerating delivery of a capable exascale computing system that integrates hardware and software capability to deliver approximately 100 times the performance of current 10 petaflop systems across a range of applications representing government needs, and establishes a viable path forward for future High Performance Computing systems even after the limits of current semiconductor technologies are reached.</p>
+<ul><li>By Q2 FY 2016, establish a multiyear exascale research program plan in support of DOE’s contribution to the President’s high performance computing initiative</li>
+<li>By the end of FY 2017, identify software technology investments needed to accelerate delivery of a capable exascale system</li>
+<li>By Q1 FY2017 establish a plan for DOE’s contribution to research of new progressive technologies that perform beyond Moore’s Law</li>
+</ul>                                    </div>
+                <div id="themes_container">
+                    <div class="themes_wrapper">
+                                                <img title="<strong>What are Themes?</strong><br />Themes list the issue or policy areas that are used to group similar goals and objectives." src="../sites/all/themes/performance/images/header_info.png" alt="info" class="i_icon">
+                        <span class="agency_tags_label">Themes:</span>
+                    </div>
+                    <div id="tags_container">
+                                                                            <span class="agency_tags">Energy                                    </span>
+                                                        <span class="agency_tags">General Science, Space, and Technology                                    </span>
+                                                                        </div>
+                </div>
+            </div>
+        </div>
+                <div class="float-left logo">
+            <img
+                    src="https://s3.amazonaws.com/app_performance_prod_ahwdtloxcxcy/s3fs-public/agency_logo/Dept_Energy_Seal_sm.png"
+                    alt=""/><br />
+            <a href="http://www.energy.gov" target="_blank">
+                Energy.gov
+            </a>
+        </div>
+                <div class="clear"></div>
+    </div>
+</div>
+<div class="float-left wide-container">
+<div class="spacer"></div>
+<div id="share_icons">
+    <a id="facebook-social-icon" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2F%3A443%2Fnode%2F45492">Facebook</a>
+            <a id="twitter-social-icon" target="_blank" href="https://twitter.com/intent/tweet?original_referer=https%3A%2F%2F%3A443%2Fnode%2F45492">Twitter</a>
+            <a id="linkdin-social-icon" target="_blank" href="http://www.linkedin.com/cws/share?url=https%3A%2F%2F%3A443%2Fnode%2F45492">Linkdin</a>
+            <a id="mail-social-icon" href="mailto:username@example.com?subject=Sharing an URL from performance.gov&body=%0A%20Hello%2C%0A%0A%20You%20are%20receiving%20this%20email%20because%20the%20sender%20opted%20to%20share%20the%20resource%28s%29%20found%20in%20Performance.gov%20with%20you.%0A%0A%20Please%20use%20the%20following%20URL%20to%20access%20the%20shared%20link%3A%20https%3A%2F%2F%3A443%2Fnode%2F45492%0A%0A%20If%20you%20need%20more%20information%20or%20help%2C%20contact%20us%20at%20http%3A%2F%2Fwww.performance.gov%2Ffeedback%0A%0A%20Thanks%20You%0A%20-%20Performance.gov%20Team%0A%0A%20%5BThis%20is%20a%20system%20generated%20message%5D">Mail</a>
+            <a id="rss-social-icon" target="_blank" href="../performance_rssfeed/45492">RSS</a>    <div id="xml-export-icon"><a href="../priority_goal_xml_download/45492">XML</a></div>
+    <div id="csv-export-icon"><a href="../priority_goal_csv_download/45492">CSV</a></div>
+</div>
+
+    <div id="tabs">
+        <ul>
+        <li class="blue_tab_item">
+            <div class="overview_wrapper blue_tab">
+                 <a href="45492.1.html#overview">Overview</a>
+                 <img title="Select here to see a summary of this Agency Priority Goal." src="../sites/all/themes/performance/images/info.png" alt="info" class="i_icon">
+            </div>   
+        </li>
+        <li class="blue_tab_item">
+            <div class="strategies_wrapper blue_tab">
+                <a href="45492.1.html#strategies">Strategies</a>
+                <img title="Select here to see the key approaches the agency plans to use to achieve this goal." src="../sites/all/themes/performance/images/info.png" alt="info" class="i_icon">
+            </div>
+        </li>
+        <li class="blue_tab_item">
+            <div class="progress_wrapper blue_tab">
+                <a href="45492.1.html#progressUpdate">Progress Update</a>
+                <img title="Select here to see the current status of the goal." src="../sites/all/themes/performance/images/info.png" alt="info" class="i_icon">
+            </div>
+        </li>
+        <li class="blue_tab_item">
+            <div class="next_steps_wrapper blue_tab">
+              <a href="45492.1.html#prognext">Next Steps</a>
+              <img title="Select here to see the planned activities the agency is pursuing to achieve this goal." src="../sites/all/themes/performance/images/info.png" alt="info" class="i_icon">
+            </div> 
+        </li>
+        <li class="blue_tab_item">
+            <div class="indicators_wrapper blue_tab">
+                <a href="45492.1.html#indicators">Indicators</a>
+                <img title="Select here to find the performance and other measures the agency is using to manage their progress toward the Priority Goal." src="../sites/all/themes/performance/images/info.png" alt="info" class="i_icon">
+            </div>
+        </li>
+                    <li class="blue_tab_item">
+                <div class="indicators_wrapper blue_tab">
+                    <a href="45492.1.html#otherContributors">Contributing Programs & Other Factors</a>
+                </div>
+            </li>
+                <li class="blue_tab_item">
+            <div class="related_goals_wrapper blue_tab">
+                <a href="45492.1.html#relgoals">Related Goals</a>
+                                <img title="Select here to learn about other goals related to this agency priority goal." src="../sites/all/themes/performance/images/info.png" alt="info" class="i_icon">
+            </div>
+        </li>
+    </ul>
+    <div id="overview">
+        <div class="overview-wrapper" role="complementary">
+            <h2>Goal Overview</h2>
+            <!--<div class="teaser collapsed">
+                                            </div>-->
+            <div class="">
+                <p>Contribute to implementation of the President’s Executive Order establishing the National Strategic Computing Initiative including accelerating delivery of a capable exascale computing system that integrates hardware and software capability to deliver approximately 100 times the performance of current 10 petaflop systems across a range of applications representing government needs, and establishes a viable path forward for future High Performance Computing systems even after the limits of current semiconductor technologies are reached.</p>
+                            </div>
+        </div>
+    </div>
+    <div id="strategies">
+        <div class="overview-wrapper" role="complementary">
+            <h2>Strategies</h2>
+            <!--<div class="teaser collapsed">
+                                            </div>-->
+            <div class="">
+                <p><strong>Strategy #1: </strong>By March 2016 establish a multiyear exascale research program plan in support of DOE’s contribution to the President’s high performance computing initiative. </p>
+<p>One of the objectives of the July 29, 2015 National Strategic Computing Initiative (NSCI) is to accelerate the delivery of a capable exascale computing system.  The Department of Energy’s National Nuclear Security Administration (NNSA) and Office of Science (SC) are assisting the Executive Council of the National Strategic Computing Initiative (NSCI) in creating a multiyear implementation plan aimed at achieving this objective.</p>
+<p><strong>Strategy #2: </strong>By Q4 FY2017 establish a plan for DOE’s contribution to research new progressive technologies that perform beyond Moore’s Law.</p>
+<p>The era of silicon-based microchips advancing in accordance with Moore’s Law (feature sizes reducing by a factor of two approximately every two years) is nearing an end due to limits imposed by fundamental physics.  The DOE will develop a plan for a new research program on technologies “Beyond Moore’s Law,” to understand the challenges that these dramatically different technologies pose to DOE mission applications and to identify the hardware, software and algorithms that will need to be developed for DOE mission applications to harness these developing technologies.</p>
+<p><strong>Strategy #3: </strong>By September 2017 identify software technology investments needed to accelerate delivery of a capable exascale system by 2023.</p>
+<p>DOE will meet its NSCI assignment through the Department’s Exascale Computing Initiative (ECI).  The ECI, which is a partnership between Department’s Office of Science and the National Nuclear Security Administration, will accelerate the research and development to overcome key exascale challenges in parallelism, resilience, energy efficiency, and memory  leading to delivering a capable exascale systems by 2023.  </p>
+                            </div>
+        </div>
+    </div>
+
+    <div id="progressUpdate">
+        <div class="overview-wrapper" role="complementary">
+            <h2>Progress Update</h2>
+            <div>
+                <p><strong>Strategy #1: </strong>By Q2 FY 2016 establish a multiyear exascale research program plan in support of DOE’s contribution to the President’s high performance computing initiative. </p>
+<p><u>STATUS</u>:  This measure has been completed.  The multiyear exascale research program plan in support of DOE’s contribution to the President’s National Strategic Computing Initiative (NSCI) has been incorporated into the NSCI Implementation Plan.  The NSCI Implementation Plan was submitted to the co-chairs of the NSCI Executive Council on October 26, 2015.</p>
+<p> </p>
+<p><strong>Strategy #2: </strong>By Q4 FY 2017 establish a plan for DOE’s contribution to research new progressive technologies that perform beyond Moore’s Law.</p>
+<p><u>STATUS</u>:  Q4 FY16 Milestone: Initiate Interagency discussion and consideration of the draft plan for a research program into technologies “beyond Moore’s Law”.</p>
+<p>Result: Milestone met. SC briefed the National Strategic Computing Initiative Working Group, the Quantum Information Systems Working Group, and OMB in September 2016.</p>
+<p> </p>
+<p><strong>Strategy #3: </strong>By Q4 FY 2017 identify software technology investments needed to accelerate delivery of a capable exascale system.</p>
+<p><u>STATUS</u>: Q4 FY16 Milestone: Finalize gathering of application requirements  Result: Milestone met. SC completed a series of application requirements workshops that spanned our mission space before the end of September 2016.</p>
+            </div>
+        </div>
+    </div>
+
+    <div id="prognext">
+        <div class="overview-wrapper" role="complementary">
+            <h2>Next Steps</h2>
+            <div>
+                <p><strong>Strategy #2 Milestones</strong></p>
+<p><u>FY17Q1</u>:  Initiate ASCAC review of the draft plan for a research program into technologies “beyond Moore’s Law”.</p>
+<p><u>FY17Q3</u>:  ASCAC completes review of the draft plan completed.</p>
+<p><u>FY17Q4</u>:  Incorporate ASCAC review comments into a final plan.</p>
+<p> </p>
+<p><strong>Strategy #3 Milestones</strong></p>
+<p><u>FY17Q1</u>: Initiate reviews of “capable” ECI software stack technologies.</p>
+<p><u>FY17Q2</u>: Brief ASCAC on “capable” ECI software stack technologies.</p>
+<p><u>FY17Q3</u>: Interagency Review of interim analysis “capable” ECI software stack technologies.</p>
+<p><u>FY17Q4</u>: Identify ECI software stack technology investments needed to deliver “capable” exascale by FY 2023.</p>
+            </div>
+        </div>
+    </div>
+        
+    <div id="indicators">
+                <div class="overview-wrapper" role="complementary">
+                            <a class="expand-all" href="45492.1.html#" onclick="$('.collapse-all').show();$('.expand-all').hide()" style="display: inline;"><b>Expand All</b></a>
+<!--                 <a class="collapse-all" href="#" onclick="$('.expand-all').show();$('.collapse-all').hide()" style="display: inline;"><b>Collapse All</b></a> -->
+            <h2>Performance Indicators</h2>
+                            <div id="apg_pi_accordion0" class="accordion_header accordion_collapsed" tabindex="0" aria-controls="Performance Indicator Panel1">
+                    <h3>Multiyear Exascale Research Program Plan </h3>
+                </div>
+                <div class="accordion_content" aria-labeledby="Performance Indicator Tab1" aria-hidden="true">
+
+                    <div class="accordion_tabs">
+    <!--                     <ul>
+                            <li><a href="#indicators-overview">Overview</a></li>
+                            <li><a href="#indicators-explanation">Date & Explanation</li>
+                            <li><a href="#indicators-details">Indicator Details</a></li>
+                        </ul> -->
+                        <div class="overview">
+                            <div class="data" id="overview-content">
+                                <p><p><u>Completed. FY16Q2:</u>  Developed the implementation plan to align efforts across agencies in support of the NSCI objectives for dissemination by the National Strategic Computing Initiative (NSCI) Executive Council in collaboration with other lead and partner agencies.</p>
+</p>
+                            </div>
+                        </div>
+                        <div class="explanation">
+                            <div class="data" id="explanation-content">
+                                <table>
+                                    <caption>Indicator target and actual value information</caption>
+                                    <tr>
+                                        <th>Fiscal Year Quarter</th>
+                                        <th>Period Ending (Month, Year)</th>
+                                        <th>Target Value</th>
+                                        <th>Actual Value</th>
+                                        <th>Explanation of Actual</th>
+                                    </tr>
+                                                                    </table>
+                            </div>
+                        </div>
+                        <div class="details">
+                            <div class="data" id="details-content">
+                                <div class='data-items'><span>Indicator Statement:</span> <p>Develop the implementation plan to align efforts across agencies in support of the NSCI objectives.  </p>
+<p> </p>
+<p>Completed. The NSCI Implementation Plan was submitted to the co-chairs of the NSCI Executive Council on October 26, 2015.</p>
+</div>                                <div class='data-items'><span>Indicator Overview:</span> <p><u>Completed. FY16Q2:</u>  Developed the implementation plan to align efforts across agencies in support of the NSCI objectives for dissemination by the National Strategic Computing Initiative (NSCI) Executive Council in collaboration with other lead and partner agencies.</p>
+</div>                                <div class='data-items'><span>Unit Of Measurement:</span> Plan Development</div>                                <div class='data-items'><span>Indicator Reporting Frequency:</span> Annually</div>                                <div class='data-items'><span>Indicator Data Timeliness:</span> <p>Quarter 2, FY16</p>
+</div>                                                                                            </div>
+                        </div>
+                    </div>
+                    <div id="container0">
+                        <div>
+                            <h3 class='no-results'>&nbsp;</h3>                        </div>
+                    </div>
+                </div>
+                                <div id="apg_pi_accordion1" class="accordion_header accordion_collapsed" tabindex="0" aria-controls="Performance Indicator Panel2">
+                    <h3>Beyond Moore's Law</h3>
+                </div>
+                <div class="accordion_content" aria-labeledby="Performance Indicator Tab2" aria-hidden="true">
+
+                    <div class="accordion_tabs">
+    <!--                     <ul>
+                            <li><a href="#indicators-overview">Overview</a></li>
+                            <li><a href="#indicators-explanation">Date & Explanation</li>
+                            <li><a href="#indicators-details">Indicator Details</a></li>
+                        </ul> -->
+                        <div class="overview">
+                            <div class="data" id="overview-content">
+                                <p><p><u>FY16Q2</u>:  Initiate preparation of the scientific and technical foundations for a research program within the existing scope and missions of the host programs within SC into technologies “beyond Moore’s Law.” </p>
+<p><u>FY16Q3</u>:  Develop the draft plan for a research program into technologies “beyond Moore’s Law”.</p>
+<p>Draft plan for a research program into technologies “Beyond Moore’s Law” completed June 23, 2016.</p>
+<p><u>FY16Q4</u>:  Initiate Interagency discussion and consideration of the draft plan for a research program into technologies “beyond Moore’s Law”.</p>
+<p><u>FY17Q1</u>:  Initiate ASCAC review of the draft plan for a research program into technologies “beyond Moore’s Law”.</p>
+<p><u>FY17Q3</u>:  ASCAC completes review of the draft plan completed.</p>
+<p><u>FY17Q4</u>:  Incorporate ASCAC review comments into a final plan. </p>
+</p>
+                            </div>
+                        </div>
+                        <div class="explanation">
+                            <div class="data" id="explanation-content">
+                                <table>
+                                    <caption>Indicator target and actual value information</caption>
+                                    <tr>
+                                        <th>Fiscal Year Quarter</th>
+                                        <th>Period Ending (Month, Year)</th>
+                                        <th>Target Value</th>
+                                        <th>Actual Value</th>
+                                        <th>Explanation of Actual</th>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2016-Q4</td>
+                                        <td>September, 2016</td>
+                                        <td> </td>
+                                        <td> </td>
+                                        <td></td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2017-Q4</td>
+                                        <td>September, 2017</td>
+                                        <td> </td>
+                                        <td> </td>
+                                        <td></td>
+                                    </tr>
+                                                                    </table>
+                            </div>
+                        </div>
+                        <div class="details">
+                            <div class="data" id="details-content">
+                                <div class='data-items'><span>Indicator Statement:</span> <p>Develop the draft plan for a research program into technologies “beyond Moore’s Law”</p>
+</div>                                <div class='data-items'><span>Indicator Overview:</span> <p><u>FY16Q2</u>:  Initiate preparation of the scientific and technical foundations for a research program within the existing scope and missions of the host programs within SC into technologies “beyond Moore’s Law.” </p>
+<p><u>FY16Q3</u>:  Develop the draft plan for a research program into technologies “beyond Moore’s Law”.</p>
+<p>Draft plan for a research program into technologies “Beyond Moore’s Law” completed June 23, 2016.</p>
+<p><u>FY16Q4</u>:  Initiate Interagency discussion and consideration of the draft plan for a research program into technologies “beyond Moore’s Law”.</p>
+<p><u>FY17Q1</u>:  Initiate ASCAC review of the draft plan for a research program into technologies “beyond Moore’s Law”.</p>
+<p><u>FY17Q3</u>:  ASCAC completes review of the draft plan completed.</p>
+<p><u>FY17Q4</u>:  Incorporate ASCAC review comments into a final plan. </p>
+</div>                                                                <div class='data-items'><span>Indicator Reporting Frequency:</span> Annually</div>                                <div class='data-items'><span>Indicator Data Timeliness:</span> <p>Quarter 4, FY17</p>
+</div>                                                                                            </div>
+                        </div>
+                    </div>
+                    <div id="container1">
+                        <div>
+                            <h3 class='no-results'>&nbsp;</h3>                        </div>
+                    </div>
+                </div>
+                                <div id="apg_pi_accordion2" class="accordion_header accordion_collapsed" tabindex="0" aria-controls="Performance Indicator Panel3">
+                    <h3>Exascale System</h3>
+                </div>
+                <div class="accordion_content" aria-labeledby="Performance Indicator Tab3" aria-hidden="true">
+
+                    <div class="accordion_tabs">
+    <!--                     <ul>
+                            <li><a href="#indicators-overview">Overview</a></li>
+                            <li><a href="#indicators-explanation">Date & Explanation</li>
+                            <li><a href="#indicators-details">Indicator Details</a></li>
+                        </ul> -->
+                        <div class="overview">
+                            <div class="data" id="overview-content">
+                                <p><p><em><u>FY14-15 APG (as of FY15Q4EOY)</u></em><em>: A preliminary conceptual design which identifies drivers and technical requirements to achieve the Department’s exascale goals and incorporates interagency and community (through the ASCAC) comments, was delivered to the Secretary of Energy on September 30, 2015.</em></p>
+<p><u>FY16Q1</u>: Establish process for gathering applications requirements and conducting software reviews.</p>
+<p><u>FY16Q2</u>: Complete requirements gathering process of ECI applications for two SC domain program offices.</p>
+<p><u>FY16Q3</u>: Interagency review of DOE/NNSA interim analysis of applications requirements gathered.</p>
+<p>Initiated interagency review of the DOE/NNSA interim analysis of application requirements. </p>
+<p><u>FY16Q4</u>: Finalize gathering of application requirements.</p>
+<p><u>FY17Q1</u>: Initiate reviews of “capable” ECI software stack technologies.</p>
+<p><u>FY17Q2</u>: Brief ASCAC on “capable” ECI software stack technologies.</p>
+<p><u>FY17Q3</u>: Interagency Review of interim analysis “capable” ECI software stack technologies.</p>
+<p><u>FY17Q4</u>: Identify ECI software stack technology investments needed to deliver “capable” exascale by FY 2023.</p>
+</p>
+                            </div>
+                        </div>
+                        <div class="explanation">
+                            <div class="data" id="explanation-content">
+                                <table>
+                                    <caption>Indicator target and actual value information</caption>
+                                    <tr>
+                                        <th>Fiscal Year Quarter</th>
+                                        <th>Period Ending (Month, Year)</th>
+                                        <th>Target Value</th>
+                                        <th>Actual Value</th>
+                                        <th>Explanation of Actual</th>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2016-Q4</td>
+                                        <td>September, 2016</td>
+                                        <td> </td>
+                                        <td> </td>
+                                        <td></td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2017-Q4</td>
+                                        <td>September, 2017</td>
+                                        <td> </td>
+                                        <td> </td>
+                                        <td></td>
+                                    </tr>
+                                                                    </table>
+                            </div>
+                        </div>
+                        <div class="details">
+                            <div class="data" id="details-content">
+                                <div class='data-items'><span>Indicator Statement:</span> <p>Identify software technology investments needed to accelerate delivery of a capable exascale system by 2023.</p>
+</div>                                <div class='data-items'><span>Indicator Overview:</span> <p><em><u>FY14-15 APG (as of FY15Q4EOY)</u></em><em>: A preliminary conceptual design which identifies drivers and technical requirements to achieve the Department’s exascale goals and incorporates interagency and community (through the ASCAC) comments, was delivered to the Secretary of Energy on September 30, 2015.</em></p>
+<p><u>FY16Q1</u>: Establish process for gathering applications requirements and conducting software reviews.</p>
+<p><u>FY16Q2</u>: Complete requirements gathering process of ECI applications for two SC domain program offices.</p>
+<p><u>FY16Q3</u>: Interagency review of DOE/NNSA interim analysis of applications requirements gathered.</p>
+<p>Initiated interagency review of the DOE/NNSA interim analysis of application requirements. </p>
+<p><u>FY16Q4</u>: Finalize gathering of application requirements.</p>
+<p><u>FY17Q1</u>: Initiate reviews of “capable” ECI software stack technologies.</p>
+<p><u>FY17Q2</u>: Brief ASCAC on “capable” ECI software stack technologies.</p>
+<p><u>FY17Q3</u>: Interagency Review of interim analysis “capable” ECI software stack technologies.</p>
+<p><u>FY17Q4</u>: Identify ECI software stack technology investments needed to deliver “capable” exascale by FY 2023.</p>
+</div>                                                                <div class='data-items'><span>Indicator Reporting Frequency:</span> Annually</div>                                <div class='data-items'><span>Indicator Data Timeliness:</span> <p>Quarter 4, FY17 (Identify ECI software stack technology investments needed to deliver “capable” exascale by FY 2023.)</p>
+</div>                                                                                            </div>
+                        </div>
+                    </div>
+                    <div id="container2">
+                        <div>
+                            <h3 class='no-results'>&nbsp;</h3>                        </div>
+                    </div>
+                </div>
+                            
+                    </div>
+            </div>
+            <div id="otherContributors">
+            <div class="overview-wrapper" role="complementary">
+                <h2>Contributing Programs & Other Factors</h2>
+                <div>
+                    <ul><li>Office of Science (SC) and National Nuclear Security Administration (NNSA) are the principal organizations within the Department of Energy responsible for achieving this Agency Priority Goal.</li>
+</ul>                </div>
+            </div>
+        </div>
+        <div id="relgoals">
+        <div class="overview-wrapper" role="complementary">
+                                            <b><a id="expand" href="45492.1.html#" onclick="custExpandAll();">Expand All</a></b>
+                                                            </div>
+
+            <div class="overview-wrapper" role="complementary">
+                                    <h2>Strategic Objectives </h2>
+                                                <div id="apg_so_accordion0" class="accordion_header accordion_collapsed">
+                    <h3>Strategic Objective: </h3>
+                    <p><a href="../content/scientific-discoveries-0%3Fview=public.html">Scientific Discoveries</a></p>
+                </div>
+                <div class="accordion_content accordion_first_layer">
+                    <div>
+                        <p><span class="acc_content_label">Statement:</span><p>Deliver the scientific discoveries and major scientific tools that transform our understanding of nature and strengthen the connection between advances in fundamental science and technology innovation</p>
+</p>
+                        <p><span class="acc_content_label">Description:</span><p>The Department of Energy manages a portfolio of basic research that spans exploring the origins of the cosmos to addressing emerging challenges in energy, environment, and national security. The scale and complexity of this research portfolio provide a competitive advantage to the nation as multidisciplinary teams of scientists, using some of the most advanced scientific instruments in the world, are able to respond quickly to national priorities and evolving opportunities at the frontiers of science.</p>
+</p>
+                    </div>
+                    <p class="learn-more"><a href="../content/scientific-discoveries-0%3Fview=public.html">Learn More</a></p>
+                    <div class="overview-wrapper" role="complementary">
+                                                    <h3>Agency Priority Goals</h3>
+                                                                        <div id="apg_so_pg_accordion0" class="accordion_header accordion_collapsed">
+                            <h4><a href="../content/support-and-conduct-basic-research-deliver-scientific-breakthroughs-and-extend-our-knowled-0%3Fview=public.html">FY14-15 Support and conduct basic research to deliver scientific breakthroughs and extend our knowledge of the natural world by capitalizing on the capabilities available at the national laboratories, and through partnerships with universities and industry.</a></h4>
+                        </div>
+                        <div class="accordion_content accordion_second_layer">
+                            <p><span class="acc_content_label">Statement:<span class="acc_content_label"><p>In support of this goal, DOE will, by the end of FY 2015:</p>
+<ul><li>Incorporate science user facility prioritization into program planning efforts</li>
+<li>Identify programmatic drivers and technical requirements in coordination with other Departmental mission areas to inform future development of high performance computing capabilities and in anticipation of capable exascale systems</li>
+</ul></p>
+                            <p><span class="acc_content_label">Description:<span class="acc_content_label"><p>The Office of Science (SC) mission is to deliver the scientific discoveries and major scientific tools that transform our understanding of nature and advance the energy, economic, and national security of the United States. The Office of Science accomplishes its mission and advances national goals by:</p>
+<ul><li>Supporting a balanced research portfolio that invests in discovery science—research that probes some of the most fundamental questions in high energy, nuclear, and plasma physics; materials and chemistry; biological systems and earth system components; and mathematics.  The Office of Science supports about 24,000 investigators at over 300 U.S. academic institutions and at all of the DOE laboratories.</li>
+<li>Providing the Nation’s researchers with over 30 state-of-the-art national scientific user facilities, the most advanced tools of modern science, enabling the U.S. to remain at the forefront of science, technology, and innovation. The Office of Science also supports targeted research and development (R&amp;D), to determine the technical feasibility and design options for future facilities and facility upgrades to deliver desired capabilities and maximize scientific potential.  Nearly 27,000 researchers from universities, national laboratories, industry, and international partners are expected to use the Office of Science scientific user facilities by FY 2015.</li>
+</ul></p>
+                            <p class="learn-more"><a href="../content/support-and-conduct-basic-research-deliver-scientific-breakthroughs-and-extend-our-knowled-0%3Fview=public.html">Learn More</a></p>
+                        </div>
+                                            </div>
+                </div>
+                            </div>
+        </div>
+    </div>
+
+
+<div class="agency-reports-wrapper" role="complementary">
+    <div class="agency-report">
+                <div class="float-left thumbnail">
+            <a href="http://www.energy.gov/cfo/downloads/fy-2014-annual-performance-report" target="_blank"><img src="https://s3.amazonaws.com/app_performance_prod_ahwdtloxcxcy/s3fs-public/report_thumbnail/Energy.jpg" alt="" /></a>
+        </div>
+                        <div class="float-left download">
+            <a href="http://www.energy.gov/cfo/downloads/fy-2014-annual-performance-report" target="_blank">
+                <img src="../sites/all/themes/performance/images/download-icon.png" alt="" /><br />
+                Download<br />
+                Featured Report
+            </a>
+        </div>
+                                            <div class="float-left links">
+                        <a href="http://energy.gov/about-us/budget-performance" target="_blank">Agency Plans and Reports</a><br />
+                    </div>
+                                    <div class="float-left links">
+                        <a href="http://energy.gov/downloads/2014-2018-strategic-plan" target="_blank">Agency Strategic Plan</a><br />
+                        <!-- <a href="http://www.google.com/" target="_blank">Agency Program Inventory</a> -->
+                    </div>
+                                    <div class="clear"></div>
+    </div>
+</div>
+    </div>
+<div class="clear"></div>
+</div>
+  </div>
+</div>
+  </div>
+      </div>
+    </div>
+    
+    <!-- Left Sidebar -->
+      
+    <!-- Right Sidebar -->
+      </div>
+  <!-- Footer -->
+  <div id="footer" role="footer" class="container-16">
+        <div id="footer-region">   <div class="region region-footer">
+    <div id="block-block-5" class="block block-block">
+
+    
+  <div class="content">
+    <ul class="top-row"><li><a href="../content/accessibility.html">Accessibility</a></li>
+<li><a href="../content/privacy-policy.html">Privacy Policy</a></li>
+</ul><p>&nbsp;</p>
+<ul class="bottom-row"><li><a class="usa_spend" href="http://www.usaspending.gov" target="_blank"><img alt="usaspending.gov" src="../sites/all/themes/performance/images/usaspending_logo17.png"></a></li>
+<li><a class="wh" href="http://www.whitehouse.gov" target="_blank"><img alt="whitehouse.gov" src="../sites/all/themes/performance/images/whitehouse17.png"></a></li>
+<li><a class="usa" href="http://www.usa.gov" target="_blank"><img alt="usa.gov" src="../sites/all/themes/performance/images/usagov_logo.png"></a></li>
+<li><a class="data" href="http://www.data.gov" target="_blank"><img alt="data.gov" src="../sites/all/themes/performance/images/datagov_logo.png"></a></li>
+</ul>  </div>
+</div>
+<div id="block-block-21" class="block block-block">
+
+    
+  <div class="content">
+    <div id="survey_target"></div>
+<noscript>
+  <iframe src="https://survey.usa.gov/surveys/221"></iframe>
+</noscript>
+<script  type="text/javascript" src="https://survey.usa.gov/widget/221/invitation.js?target_id=survey_target&stylesheet=https://www.performance.gov/sites/all/themes/performance/styles/survey.css&jquery=jq172"></script>
+
+<script id="_fed_an_js_tag" type="text/javascript" src="../sites/all/libraries/fed_analytics/federated-analytics.all.min.js%3Fagency=GSA"></script>
+
+<script>
+jQuery(document).ready( function() {
+   jQuery(function ($) {
+       $('input[id=edit-removenode]').hide();
+  });
+});
+</script>  </div>
+</div>
+<div id="block-block-82" class="block block-block">
+
+    
+  <div class="content">
+    <script> 
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ 
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), 
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) 
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga'); 
+
+  ga('send', 'pageview');
+  ga('create', 'UA-86562364-1', 'auto'); 
+
+</script>  </div>
+</div>
+  </div>
+ </div>
+      </div>
+</div>
+  
+</body>
+</html>

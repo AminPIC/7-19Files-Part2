@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.performance.gov/rssfeedtest/3280" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>RSS Feed</title>
+    <link>https://www.performance.gov/rssfeedtest/3280</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.performance.gov/performance_rssfeed/3280?content_year_filter=All&amp;type_1=All" rel="self" type="application/rss+xml" />
+      <item>
+    <title>MG04.01 Commit to an enterprise-wide information systems strategy based on the principle that business drives strategy</title>
+    <link>https://www.performance.gov/MG04.01%20Commit%20to%20an%20enterprise-wide%20information%20systems%20strategy%20based%20on%20the%20principle%20that%20business%20drives%20strategy</link>
+    <description>&lt;p&gt;Increase in savings resulting from the elimination of duplicative, redundant, or unaligned IT expenditures&lt;/p&gt;
+</description>
+     <pubDate>03/18/2016 10:57:06</pubDate>
+ <dc:creator>3280</dc:creator>
+ <guid isPermaLink="false">3280</guid>
+  </item>
+  </channel>
+</rss>

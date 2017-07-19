@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<node_revisions>
+  <node_revision>
+    <agency_name>Department of Veterans Affairs</agency_name>
+    <agency_code>029</agency_code>
+    <agency_acronym>VA</agency_acronym>
+    <mission_statement>The Department of Veterans Affairs (VA) is responsible for a timeless mission: “To care for him who shall have borne the battle, and for his widow, and his orphan”— by serving and honoring the men and women who are America’s Veterans.
+</mission_statement>
+    <agency_overview>President Lincoln's immortal words - delivered in his Second Inaugural Address more than 140 years ago - describe better than any others the mission of the Department of Veterans Affairs. &amp;nbsp;We care for Veterans, their families, and survivors - men and women who have responded when their Nation needed help. &amp;nbsp;Our mission is clear-cut, direct, and historically significant. &amp;nbsp;It is a mission that every employee is proud to fulfill.
+
+VA fulfills these words by providing world-class benefits and services to the millions of men and women who have served this country with honor in the military. &amp;nbsp;President Lincoln's words guide the efforts of approximately 280,000 VA employees who are committed to providing the best medical care, benefits, social support, and lasting memorials that Veterans and their depoendents deserve in recognition of Veterans' service to this Nation.
+</agency_overview>
+    <stakeholder_engagement>VA, in collaboration with the Department of Defense, using both quantitative and qualitative research data from stakeholders, established an aggressive Agency Priority Goal for improving Veterans awareness and access to on-line information about their benefits. With frequent stakeholder engagement through focus work groups, survey instruments and user research, the eBenefits portal has delivered those self-service features that stakeholders find most relevant, thus increasing the number of users. Additionally, once these features are deployed, the stakeholders are again fully engaged to judge functionality and make recommendations for improvement.
+</stakeholder_engagement>
+    <agency_head_name>Robert A. McDonald</agency_head_name>
+    <agency_head_title>Secretary for Veterans Affairs </agency_head_title>
+    <agency_URL>http://www.va.gov</agency_URL>
+    <agency_planrpt_page_URL>http://www.va.gov/performance/</agency_planrpt_page_URL>
+    <agency_stratplan_URL>http://www.va.gov/op3/docs/StrategicPlanning/VA2014-2020strategicPlan.pdf</agency_stratplan_URL>
+    <agency_perfplan_URL>http://www.va.gov/budget/docs/report/2014-VAparFullWeb.pdf</agency_perfplan_URL>
+    <agency_perfrpt_URL>http://www.va.gov/budget/docs/report/2014-VAparFullWeb.pdf</agency_perfrpt_URL>
+  </node_revision>
+</node_revisions>

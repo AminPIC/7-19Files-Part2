@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.performance.gov/rssfeedtest/36782" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>RSS Feed</title>
+    <link>https://www.performance.gov/rssfeedtest/36782</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.performance.gov/performance_rssfeed/36782?content_year_filter=All&amp;type_1=All" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Advance resilience in the nation’s water infrastructure, while protecting public health and the environment, particularly in high-risk and vulnerable communities. </title>
+    <link>https://www.performance.gov/Advance%20resilience%20in%20the%20nation%E2%80%99s%20water%20infrastructure%2C%20while%20protecting%20public%20health%20and%20the%20environment%2C%20particularly%20in%20high-risk%20and%20vulnerable%20communities.%20</link>
+    <description>&lt;p&gt;By September 30, 2017, EPA will provide technical assistance and other tools to 75 urban communities to advance green infrastructure planning and implementation efforts to increase local climate resilience and water quality protections in stormwater infrastructure. EPA will also provide tools and training for 5000 operators of small water utilities to improve resilience in drinking water, wastewater, and stormwater systems. Trainings will be targeted based on regional threats, such as drought and flooding.&lt;/p&gt;
+</description>
+     <pubDate>12/13/2016 10:48:07</pubDate>
+ <dc:creator>36782</dc:creator>
+ <guid isPermaLink="false">36782</guid>
+  </item>
+  </channel>
+</rss>

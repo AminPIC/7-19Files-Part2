@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" ?><data><Agency_Priority_Goal><Agency_ID>16</Agency_ID><Agency_Name>National Science Foundation</Agency_Name><Agency_Priority_Goal_ID>1185</Agency_Priority_Goal_ID><Fiscal_Year>FY14-15</Fiscal_Year><APG_Header>Ensure Public Access to Publications</APG_Header><APG_Statement>Increase public access to NSF-funded peer-reviewed publications. By September 30, 2015, NSF-funded investigators will be able to deposit versions of their peer-reviewed articles in a repository that will make them available to the public.
+</APG_Statement><APG_Overview>Progress in science and technology, and the associated benefits for the American people, thrives in an environment of open communication.&amp;nbsp; Therefore, the National Science Foundation (NSF) seeks to enable increased access to the results of its investments in research.&amp;nbsp; NSF will do this by reducing barriers to communication of research results, while ensuring the integrity of the research record, protection of sensitive information, and consistency with existing law.&amp;nbsp; To this end and pursuant to the Office of Science and Technology Policy (OSTP) memorandum, Increasing Access to the Results of Federally Funded Scientific Research (February 22, 2013), NSF will articulate a strategy and develop plans that will require recipients of NSF funding to deposit a copy of their work in a public access repository.&amp;nbsp; Although some conditions of deposit are likely to vary, NSF expects to adhere to the OSTP recommended guideline for peer-reviewed journal publications that will delay free access to either the author’s final accepted version of the manuscript or the published version of record no longer than 12 months after date of initial publication.
+
+&amp;nbsp;
+
+&amp;nbsp;
+
+&amp;nbsp;
+
+&amp;nbsp;
+
+&amp;nbsp;
+</APG_Overview><Goal_Leaders><Goal_Leader><goal_leader_name>Clifford Gabriel</goal_leader_name><goal_leader_title>Senior Advisor</goal_leader_title><goal_leader_org>Office of the Director</goal_leader_org></Goal_Leader></Goal_Leaders><next_steps></next_steps><progress_update>FY 2015 Final Update
+
+While NSF did not achieve its goal within the goal period due to a security issue which has now been solved, NSF anticipates full achievement of its goal within the first quarter of FY 2016 and do not foresee any further delays. Specifically, NSF-funded investigators will be able to deposit peer-reviewed articles in a public repository which will allow users to search, display, and download full copies of NSF-supported research articles and juried conference papers, subject to an embargo of no more than 12 months. Over the goal period, significant advances were made in establishing the repository, defining its function, and in communicating NSF’s plans to the larger community.
+
+
+	Development of a manuscript submission system and modifications to internal systems to ensure compatibility. In June 2014, NSF entered into a Memorandum of Agreement with the Department of Energy’s Office of Scientific and Technical Information (DOE/OSTI) for external repository services. After initial development of a conceptual integration architecture, activities centered on requirements gathering and analysis, user interface design, requirements definitions, development of new components and capabilities (notably single sign on, which enables the DOE infrastructure systems to recognize NSF credentials), usability testing, and security modifications. Several internal and external systems were modified including: award management (eJacket), award reporting (RPPR), and two systems that support award search (Award Search and RS&amp;amp;R). The public can search the collection through the DOE public interface, PAGES, which has been optimized to support NSF’s needs.
+
+
+
+	Outreach to the scientific and publishing communities.&amp;nbsp; The single most significant achievement in this area was release of “Today’s Data, Tomorrow’s Discoveries,” the NSF Public Access Plan (15-052), on March 18, 2015. The Plan outlines a framework for activities to increase public access to scientific publications and digital scientific data resulting from research the Foundation funds. An updated version of the Proposal &amp;amp; Award Policies &amp;amp; Procedures Guide (PAPPG) which incorporated the public access requirement was published in October 2015. Throughout the goal period, the Forum on Open Science, supported by NSF and hosted by the National Research Council, provided a venue for candid, ongoing discussions to identify barriers to open science and determine key questions for industry, academic, and government efforts related to opening science.
+
+
+FY 2015 Q3
+
+Progress towards this goal was delayed in the third quarter of FY 2015 in one area, the development of the manuscript submission system. The system launch has been delayed to December 2015. Other components of the system continue on track (e.g., interface design, metadata definition and display, negotiation of external agreements).
+
+
+Other components of the goal were on track this quarter. Changes to internal systems continued, with some elements prioritized to ensure the 1st quarter FY 2016 launch.&amp;nbsp; Outreach efforts continued, with presentations made to NSF awardee groups (e.g. the National Council of University Research Administrators).
+&amp;nbsp;
+
+FY 2015 Q2
+
+NSF made progress towards this goal in the second quarter of FY 2015 in three areas.
+
+
+	Development of manuscript submission system: NSF has completed Software Requirements including the internal review, which allows NSF to proceed to the build phase in partnership with DOE/OSTI.
+	Changes to internal systems: NSF has largely completed the requirements for the interfaces between the external and internal systems and has drafted user interfaces for PIs and POs, based on earlier testing and additional user requirements studies.
+	Outreach: The NSF Public Access Plan (15-052) was released on March 18, 2015 together with a public website on NSF.gov.&amp;nbsp; The Forum on Open Science, supported by NSF through the National Research Council, decided to disband under its current organization.&amp;nbsp; NSF continues to reach out to concerned stakeholder groups and accepts comments on the plan received through the website.&amp;nbsp; Responses are issued within 1 business day from receipt.
+
+
+FY 2015 Q1
+
+NSF made progress towards this goal in the first quarter of FY 2015 in three areas.
+
+
+	Development of manuscript submission system: NSF has tested components of the system and conducted user requirements sessions.
+	Changes to internal systems: NSF has completed testing the interface between internal and external systems and has begun to draft the user interfaces for PIs and POs based on results of the requirements sessions. NSF attained its Q1 milestone to pilot test its&amp;nbsp;conceptual architecture and definition of requirements for the initial repository system.
+	Outreach: NSF has supported a meeting of the Forum on Open Science, hosted by the National Research Council. NSF continues to discuss public access activities with concerned stakeholders and the research communities.
+
+
+FY&amp;nbsp;2014 Q4
+
+NSF achieved its milestone for Q4 FY 2014. NSF has identified the proposed changes to internal systems to accommodate system integration. The detailed requirements gathering exercise, identified in FY 2014 Q3, has been completed, and a report is due in FY 2015 Q1, which together with the technical work, will enable NSF to meet its stated goal of obtaining formal internal approvals in early November 2014 and to remain on track for a system release in the fall of 2015. Planning for usability studies and testing for the end user interface has been started, and the activities themselves will begin in FY 2015 Q1.
+
+NSF is on track with respect to developing the manuscript submission system that will support public access for publications.&amp;nbsp; Two important components of the system infrastructure have been tested:&amp;nbsp; single-sign on, which enables an individual to be authenticated once but recognized across several internal and external platforms and systems; and data exchanges between NSF and Department of Energy, Office of Scientific and Technical Information (DOE/OSTI).
+
+Outreach activities continue. The second meeting of the Forum on Open Science took place in July and two meetings are anticipated in FY 2015 with the first set to take place in FY 2015 Q1.
+
+Achievement of the missed milestone from the second quarter, the posting of an approved public access plan to the NSF website, continues to await approval. NSF still anticipates posting an approved plan to the website by the end of calendar 2014 and has developed relevant internal elements for the release (e.g. draft website, draft FAQ).
+
+FY 2014 Q3
+
+In the third quarter of FY 2014, NSF’s milestone for this goal was to initiate discussions about possible Interagency Agreements, in anticipation of a finalized Interagency Agreement by the end of March 2015. This was achieved ahead of schedule: in June 2014, NSF entered into a Memorandum of Agreement for external repository services and finalized an Interagency Agreement to transfer funds to support system development costs.
+
+In addition to the scheduled milestones, in this quarter NSF has:
+
+
+	
+	submitted its revised plan by the end of June after review by the National Science Board.
+	
+	
+	initiated the detailed requirements gathering analysis and proof of concept, which shall be concluded in the first quarter of FY 2015.
+	
+	
+	undertaken outreach and discussions with different stakeholder groups, other federal agencies, and possible public/private partners. With NSF support, the National Research Council stood up a Forum on Open Science in October 2014 and held the first of two meetings in June 2014; the second is scheduled to take place in July.
+	
+
+
+Achievement of the missed milestone from last quarter, posting of an approved public access plan, is anticipated in the fall of 2014, when NSF expects to receive final comments and post the final plan to the NSF website. Detailed planning and proof of concept activities for the technical systems will continue with the formal internal approvals scheduled to take place in early November 2014. NSF will continue its outreach activities and will begin planning changes to the NSF website to include information on public access activities.
+
+FY 2014 Q1 and Q2
+
+Most targets for the first half of FY 2014 were met.
+
+
+	
+	NSF submitted its draft plan to OSTP and OMB and subsequently received comments. NSF will submit the revised plan by the end of June.
+	
+	
+	During the first half of FY 2014, NSF developed a conceptual integration architecture, which addresses how NSF’s internal administrative systems might be integrated with systems maintained by other Federal agencies. The collaboration is intended to allow NSF to leverage resources across the government, reduce unnecessary redundancy and waste, and establish systems to support deposit and management of journal publications that minimize burden on awardees/investigators and NSF staff while providing access to information about results of NSF’s investments.
+	
+	
+	NSF has undertaken outreach and discussions with different stakeholder groups, other federal agencies, and possible public/private partners. With NSF support, the National Research Council stood up a Forum on Open Science In October 2014. The first of two meetings will take place in June 2014; the second in July.
+	
+
+
+In the upcoming quarter [FY 2014 Q3], NSF expects to receive final comments and prepare the final plan, which shall be posted to the NSF website. The next phase of detailed planning for the technical systems will begin and will include a proof of concept as well as more precise estimates of resource requirements. NSF will enter into an agreement with its initial Federal agency partner. Finally, NSF will continue its outreach activities and will begin planning changes to the NSF website to include information on public access activities.
+</progress_update><themes><theme>General Science, Space, and Technology</theme></themes><contributing_programs_and_other_factors>NSF’s Office of the Director coordinates Foundation-wide input into the public access initiative, including input from all research directorates and from key management offices responsible for IT, administrative, policy, and legal functions of the Foundation.
+
+In developing the Public Access plan, NSF consulted with the National Science Board and other Federal agencies (e.g., Department of Energy, National Institutes of Health, Department of Transportation, National Institute of Standards and Technology, Department of Education, Department of Defense/Defense Technical Information Center), and conducted outreach activities for a number of stakeholder groups including publishers, stewardship/curatorial institutions, and information technology companies.
+</contributing_programs_and_other_factors></Agency_Priority_Goal><Strategic_Goals><Strategic_Goal><id>1165</id><strategic_goal_header>Transform the Frontiers of Science and Engineering</strategic_goal_header><strategic_goal_statement>Transform the Frontiers of Science and Engineering
+</strategic_goal_statement><strategic_goal_overview>The first part of NSF’s mission is “to promote the progress of science” in order to expand and explore the frontiers of human knowledge, to enhance the ability of the Nation to meet the challenges it faces, and to create new paradigms and capabilities for scientific, technological, and (consequently) economic leadership in an increasingly fast-paced, competitive world.   NSF supports fundamental, interdisciplinary, high-risk, and potentially transformative research in science and engineering, and the education of the next generation of the STEM workforce to continue this transformation.  NSF welcomes proposals for original research, from both individuals and groups, and for novel discovery tools in the form of advanced instrumentation, data analysis, computation, and facilities.  By relying on the insight and creativity of the Nation’s research communities, the merit review process, and efforts to broaden participation, NSF strives to create opportunities for major transformational advances.  Proposals, whether submitted in response to open funding opportunities or for formal targeted solicitations, are competitively merit reviewed for intellectual merit and broader impacts by independent subject matter experts.   Investment in competitively selected proposals continually expands the knowledge base from which innovation springs, in keeping with mandates from the National Science Board, Congress, and the Administration. The special role of NSF is to encourage broadly creative efforts that may not fit within those fields that are the domain of specific mission agencies, e.g., energy, defense, health, or agriculture.  This strategy has a long and proven record of producing new ideas, developing important new fields of research, and, periodically, transforming the way we do science, education, and business, and changing the way we live. Instrumental to the creation of new knowledge is the preparation of future research leaders and tomorrow’s STEM workforce who are equipped with up-to-date knowledge and the experience needed to address society’s current and future challenges. Investing in the development of the next generation of researchers, scholars, and knowledge workers is one of NSF’s most important approaches to transforming the frontiers of science and engineering.
+</strategic_goal_overview><strategic_goal_sequence>1</strategic_goal_sequence></Strategic_Goal></Strategic_Goals><Strategic_Objectives></Strategic_Objectives><Indicators></Indicators></data>

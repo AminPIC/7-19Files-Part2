@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.performance.gov/rssfeedtest/47171" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>RSS Feed</title>
+    <link>https://www.performance.gov/rssfeedtest/47171</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.performance.gov/performance_rssfeed/47171?content_year_filter=All&amp;type_1=All" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Shift Medicare health care payments from volume to value</title>
+    <link>https://www.performance.gov/Shift%20Medicare%20health%20care%20payments%20from%20volume%20to%20value</link>
+    <description>&lt;p&gt;A critical step toward better care, smarter spending, and healthier people is to use payment incentives to motivate higher-value care by increasingly tying payment to alternative payment models that reward value over volume. To this end, the Secretary has identified the following high priority indicator for managing and tracking progress:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;By December 31, 2017, increase the percentage of Medicare Fee-for-Service (FFS) payments tied to quality and value through alternative payment models (APMs) to 40 percent&lt;/li&gt;
+&lt;/ul&gt;</description>
+     <pubDate>12/13/2016 10:33:16</pubDate>
+ <dc:creator>47171</dc:creator>
+ <guid isPermaLink="false">47171</guid>
+  </item>
+  </channel>
+</rss>

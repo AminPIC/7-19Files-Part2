@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.performance.gov/rssfeedtest/1173" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>RSS Feed</title>
+    <link>https://www.performance.gov/rssfeedtest/1173</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.performance.gov/performance_rssfeed/1173?content_year_filter=All&amp;type_1=All" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Use effective methods and innovative solutions to achieve excellence in accomplishing the agency’s mission</title>
+    <link>https://www.performance.gov/Use%20effective%20methods%20and%20innovative%20solutions%20to%20achieve%20excellence%20in%20accomplishing%20the%20agency%E2%80%99s%20mission</link>
+    <description>&lt;p&gt;&lt;strong&gt;&lt;em&gt;Use effective methods and innovative solutions to achieve excellence in accomplishing the agency’s mission&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+</description>
+     <pubDate>03/18/2016 10:49:34</pubDate>
+ <dc:creator>1173</dc:creator>
+ <guid isPermaLink="false">1173</guid>
+  </item>
+  </channel>
+</rss>

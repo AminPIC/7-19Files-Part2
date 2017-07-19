@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.performance.gov/rssfeedtest/3404" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>RSS Feed</title>
+    <link>https://www.performance.gov/rssfeedtest/3404</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.performance.gov/performance_rssfeed/3404?content_year_filter=All&amp;type_1=All" rel="self" type="application/rss+xml" />
+      <item>
+    <title>STEM Education </title>
+    <link>https://www.performance.gov/STEM%20Education%20</link>
+    <description>&lt;p&gt;Improve Science, Technology, Engineering and Mathematics (STEM) Education by implementing the &lt;a href=&quot;http://www.whitehouse.gov/sites/default/files/microsites/ostp/stem_stratplan_2013.pdf&quot; target=&quot;_blank&quot;&gt;Federal STEM Education 5-Year Strategic Plan&lt;/a&gt;, announced in May 2013, specifically: &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Improve STEM instruction&lt;/li&gt;
+&lt;li&gt;Increase and sustain youth and public engagement in STEM&lt;/li&gt;
+&lt;li&gt;Enhance STEM experience of undergraduate students&lt;/li&gt;
+&lt;li&gt;Better serve groups historically under-represented in STEM fields&lt;/li&gt;
+&lt;li&gt;Design graduate education for tomorrow’s STEM workforce&lt;/li&gt;
+&lt;li&gt;Build new models for leveraging assets and expertise&lt;/li&gt;
+&lt;li&gt;Build and use evidence-based approaches&lt;/li&gt;
+&lt;/ul&gt;</description>
+     <pubDate>01/23/2017 15:26:07</pubDate>
+ <dc:creator>3404</dc:creator>
+ <guid isPermaLink="false">3404</guid>
+  </item>
+  </channel>
+</rss>

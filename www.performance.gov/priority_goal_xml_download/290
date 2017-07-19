@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8" ?><data><Agency_Priority_Goal><Agency_ID>12</Agency_ID><Agency_Name>Department of the Treasury</Agency_Name><Agency_Priority_Goal_ID>290</Agency_Priority_Goal_ID><Fiscal_Year>FY14-15</Fiscal_Year><APG_Header>Increasing Self-service Options for the Taxpayers</APG_Header><APG_Statement>By September 2015, introduce self-service and electronic-service taxpayer options to enable taxpayers to securely authenticate, view, and print tax records online, pay outstanding debts, enter into installment agreements, establish powers of attorney, get tax law information, and easily access all parts of IRS.gov.
+</APG_Statement><APG_Overview>The IRS will increase taxpayer satisfaction by delivering high-quality, timely, innovative, and consistent customer service to better address taxpayer needs, reduce burden, and encourage voluntary compliance. &amp;nbsp;Using analytics and a user-centric approach, IRS will develop online options as part of its multi-channel service model.&amp;nbsp; This APG’s objective is to deliver the enabling infrastructure and next wave of digital services to allow taxpayers to navigate the tax system, understand and meet their tax obligations, and conduct their business in the most efficient and effective manner.&amp;nbsp; As a result of delivering better service to all taxpayers, the IRS brand will benefit by reflecting the attributes of transparency, fairness, trustworthiness, accessibility, and innovation.
+
+Key Factors:
+Enabling Infrastructure and Digital Products/Services are subject to schedule agreement with IRS Business and IT.
+
+This APG aligns to the Treasury Strategic Plan Objective 5.4: Create a culture of service through relentless pursuit of customer value.
+
+&amp;nbsp;
+</APG_Overview><Goal_Leaders><Goal_Leader><goal_leader_name>John Koskinen</goal_leader_name><goal_leader_title>Commissioner</goal_leader_title><goal_leader_org>Internal Revenue Service</goal_leader_org></Goal_Leader></Goal_Leaders><next_steps></next_steps><progress_update>The IRS met the goal of introducing self-service and electronic-service taxpayer options to enable taxpayers to securely authenticate, view, and print tax records online, pay outstanding debts, enter into installment agreements, establish powers of attorney, get tax law information, and easily access all parts of IRS.gov. Over the course of the past two years, the IRS has launched thirteen releases of nine online products addressing some of the highest volume needs that citizens have when they interact with IRS. These digital products enable taxpayers to securely access IRS tools, create payment agreements and make payments online, view tax records, and search for tax assistance.
+
+Treasury will continue this as a FY 2016-2017 APG to advance the progress made during the last two years.&amp;nbsp; Over the coming months, the IRS will finalize a modified, more secure version of eAuthentication in response to the fraudulent infiltration of Get Transcript. IRS is also planning to pilot and release an Online Account that will allow taxpayers to access account balance information, transcripts, and payment tools in a mobile-friendly, integrated experience. The IRS also aims to pilot a Taxpayer Digital Communication (TDC) solution that will allow authenticated users to receive digital notices, interact with secure messages, and transfer digital documents to and from the IRS via a secure communication portal.
+
+The progress that IRS has made in launching these tools, as reflected in this Agency Priority Goal, highlights the work of many people, including IRS employees, strategic partners, and the broader community. The IRS will continue to focus on encouraging more people to choose digital service, enabling them to successfully complete their transactions online, and delivering these services as efficiently and cost-effectively as possible.
+
+FY 2014 Product Deliveries:
+
+
+	
+		
+			
+			Product/Service Name
+			
+			
+			Anticipated Go Live
+			
+			
+			Status
+			
+		
+		
+			
+			IRS Direct Pay
+			
+			
+			Filing Season 2014
+			
+			
+			Launched 11/2013
+			
+		
+		
+			
+			e-Authentication, Release 2
+			
+			
+			Filing Season 2014
+			
+			
+			Launched 01/2014
+			
+		
+		
+			
+			Get Transcript
+			
+			
+			Filing Season 2014
+			
+			
+			Launched 01/2014
+			
+		
+		
+			
+			IRS2Go Mobile, Release 4
+			
+			
+			Filing Season 2014
+			
+			
+			Launched 01/2014
+			
+		
+		
+			
+			Online Payment Agreement
+			
+			
+			3rd Quarter FY 2014
+			
+			
+			Launched 04/2014
+			
+		
+		
+			
+			FATCA FFI Lookup Tool
+			
+			
+			3rd Quarter FY 2014
+			
+			
+			Launched 06/2014
+			
+		
+		
+			
+			Payment Mix Comparison Tool
+			
+			
+			4th Quarter FY 2014
+			
+			
+			Launched 07/2014
+			
+		
+	
+
+
+&amp;nbsp;
+
+FY 2015 Product Deliveries:
+
+
+	
+		
+			
+			Product/Service Name
+			
+			
+			Anticipated Go Live
+			
+			
+			Status
+			
+		
+		
+			
+			Payments Mix Comparison Tool, Release 2
+			
+			
+			2nd Quarter FY 2015
+			
+			
+			Launched 02/15
+			
+		
+		
+			
+			Return Preparer Lookup Tool
+			
+			
+			1st Quarter FY 2015
+			
+			
+			Launched 01/15
+			
+		
+		
+			
+			Get Transcript Release 2
+			
+			
+			1st Quarter FY 2015
+			
+			
+			Delayed indefinitely
+			
+		
+		
+			
+			IRS2Go Mobile Version 5
+			
+			
+			1st Quarter FY 2015
+			
+			
+			Launched 01/15
+			
+		
+		
+			
+			Third Party Data Services
+			
+			
+			2nd Quarter FY 2015
+			
+			
+			Launched 02/15
+			
+		
+		
+			
+			IRS Direct Pay Release 3
+			
+			
+			2nd Quarter FY 2015
+			
+			
+			Launched 03/15
+			
+		
+		
+			
+			Online Payment Agreement Release 2
+			
+			
+			2nd Quarter FY 2015
+			
+			
+			Launched 03/15
+			
+		
+	
+
+
+Detailed Progress
+
+The IRS has recently launched several self-service applications allowing taxpayers to pay a balance due or other tax obligation online, authenticate their identity online, and view and print a transcript.&amp;nbsp; Additionally, the IRS has expanded the use of the “out-of-wallet” pilot for taxpayer verification and enhanced the IRS mobile application, IRS2Go, with increased functionality. Below are the online interactive tools, and their capabilities, that launched since the start of fiscal year 2014:
+
+IRS Direct Pay (Launched in FY 2014 Q1)
+Provides a low-friction electronic payment option to enable taxpayers to make payments from their bank account without any fees in a single session. Payment scheduling and payment lookup features have also been added to this new electronic payment option for individual taxpayers.
+
+Release 3.3 (Launched FY2015 Q4):
+In FY15 Q4, enhancements were made to Direct Pay to improve the user experience and address defects. Additionally, a Spanish-language version was released and email confirmations were added.
+
+•&amp;nbsp;In FY 2014 Q1, Direct Pay collected more than $4 million
+•&amp;nbsp;In FY 2014 Q2, Direct Pay collected more than $25 million
+•&amp;nbsp;In FY 2014 Q3, Direct Pay collected more than $1.075 billion
+•&amp;nbsp;In FY 2014 Q4, Direct Pay collected more than $1.654 billion
+•&amp;nbsp;In FY 2015 Q1, Direct Pay collected more than $1.318 billion
+•&amp;nbsp;In FY 2015 Q2, Direct Pay collected more than $3.022 billion
+•&amp;nbsp;In FY 2015 Q3, Direct Pay collected more than $10.604 billion
+•&amp;nbsp;In FY 2015 Q4, Direct Pay collected more than $4.004 billion
+
+
+e-Authentication
+Provides taxpayers a user-friendly and low-cost way to securely access and use IRS online tools and applications. Since launch, more than 13 million online authentications have occurred.
+
+Release 2: (Launched in FY 2014 Q2)
+Release 2 added knowledge-based authentication as a risk mitigation layer to the standard Level of Assurance 2 protocols.
+
+•&amp;nbsp;In FY 2014 Q2, over 1.5 million successful authentications occurred and over 860,000 user accounts were created (460,000 profiles and 400,000 guests)
+•&amp;nbsp;In FY 2014 Q3, over 2.5 million successful authentications occurred and over 1.36 million user accounts were created (750,000 profiles and 610,000 guests)
+•&amp;nbsp;In FY 2014 Q4, over 3.2 million successful authentications occurred and over 900,000 user accounts were created (530,000 profiles and 380,000 guests)
+•&amp;nbsp;In FY 2015 Q1, over 1.2 million successful authentications occurred and over 675,000 user accounts were created (450,000 profiles and 220,000 guests)
+•&amp;nbsp;In FY 2015 Q2, over 5.2 million successful authentications occurred and over 2.61 million user accounts were created (1.75 million profiles and 860,000 guests)
+•&amp;nbsp;In FY 2015 Q3, over 3.6 million successful authentications occurred and over 1.6 million user accounts were created (1.3 million profiles and 369,000 guests)
+&amp;nbsp;Note: Get Transcript was taken offline on May 21, 2015.
+&amp;nbsp;The number of user accounts created this quarter excludes eAuthentication accounts created in May for Get Transcript, as well as accounts created in May and June for IP-PIN.
+•&amp;nbsp;In FY 2015 Q4, over 418 thousand successful authentications occurred.
+
+
+Get Transcript (Launched FY 2014 Q2)
+Provides a current digital display of an individual’s tax record across five transcript types. Since launch, more than 45 million transcripts have been generated through this application.
+
+•&amp;nbsp;In FY 2014 Q2, 5.8 million transcripts were generated
+•&amp;nbsp;In FY 2014 Q3, 7.6 million transcripts were generated
+•&amp;nbsp;In FY 2014 Q4, 5.1 million transcripts were generated
+•&amp;nbsp;In FY 2015 Q1, 4.4 million transcripts were generated
+•&amp;nbsp;In FY 2015 Q2, 14.7 million transcripts were generated
+•&amp;nbsp;In FY 2015 Q3, 8.6 million transcripts were generated
+•&amp;nbsp;In FY 2015 Q4, no transcripts were generated because the product was taken offline on May 22, 2015. See the Next Steps section for further information.
+&amp;nbsp;Note: Get Transcript was taken offline on May 21, 2015.
+
+IRS2Go Mobile Application
+Enables taxpayer self-service access to IRS information and services anywhere, anytime, and on any device.
+
+Release 4 (Launched FY 2014 Q2):
+Release 4 included an enhanced user experience, a new tablet view, and a free preparer lookup tool.
+
+Release 5 (FY 2015 Q2):
+Developed IRS2Go as native Android and iOS mobile apps to provide better user experience. The design was updated for multiple size factors and a mobile payments feature was added
+
+•&amp;nbsp;Since release 4, IRS2Go has been downloaded more than 4.2 million times and users have engaged in over 105 million sessions on the app.
+
+Enhanced Online Payment Agreement (Launched FY2014 Q3)
+The Online Payment Agreement (OPA) application allows a taxpayer the ability to set up an Installment Agreement online for taxes due to the IRS if they cannot pay their taxes in full. The application allows an individual, business, or an authorized representative (Power of Attorney) to apply for an installment agreement.
+
+Release 1 (Launched FY 2014 Q3):
+Enables users (individual taxpayers and some businesses) to establish installment agreements online, including: Direct debit installment agreements, Payroll deduction installment agreements, and Routine (monthly) installment agreements.
+
+Release 2 (Launched FY 2015 Q2):
+Improved the user experience for a number of functions including setting up direct debit, logging-in and authenticating, and providing better access for business users. IMF authentication was moved to the eAuthentication method.
+
+•&amp;nbsp;Since launch, more than 340,000 agreements have been completed representing more than $1.3 billion in revenue from web transactions
+
+FATCA FFI Search and Download Tool (Launched FY 2014 Q3):
+Provides a downloadable and searchable list of all Foreign Financial Institutions (FFIs) that have registered with the IRS.
+
+•&amp;nbsp;Since launch, the tool has completed more than 2.9 million search queries with more than 220,000 list downloads
+
+Payment Mix Comparison Tool (Launched FY 2014 Q4)
+This tool will encourage accurate reporting by payment recipients (according to Form 1099-K) and help close the Tax Gap.
+
+Release 1 (Launched FY 2014 Q4):
+Allows preparers (on behalf of the business taxpayer community) to compare the portion of gross receipts from card receipts the business plans to report, to results of similar businesses from prior years.
+
+Release 2: (Launched 2nd Quarter of FY 2015)
+This update provides new tools for tax professionals, including tax year 2013 segmentation tables and updated business logic to accommodate for these new tables.
+
+•&amp;nbsp;There have been over 1,300 sessions since launch
+
+Return Preparer Lookup Tool (Launched FY 2015 Q2)
+Provides a searchable list by location of return preparers that have registered with the IRS.
+
+•&amp;nbsp;Over 282,000 searches have been performed since launch
+
+Third Party Data Services (Piloted FY 2015 Q2)
+Enables IRS to share taxpayer data with third parties (tax preparation firms, tax preparation software, and state and federal agencies) that require individual taxpayer information. All information sharing requires prior taxpayer consent.
+
+•&amp;nbsp;For the 2015 IRS Third Party Refund Status API pilot project, with the help of 7 volunteer third parties, the IRS processed over 900,000 transactions during the 2015 filing season, representing more than 70,000 taxpayers.&amp;nbsp; After providing consent, these taxpayers were able to receive the status of their 2015 IRS refund directly from their tax providers.
+
+&amp;nbsp;
+</progress_update><themes><theme>General Government</theme></themes><contributing_programs_and_other_factors>IRS
+</contributing_programs_and_other_factors></Agency_Priority_Goal><Strategic_Goals></Strategic_Goals><Strategic_Objectives></Strategic_Objectives><Indicators></Indicators></data>

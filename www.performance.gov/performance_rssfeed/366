@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.performance.gov/rssfeedtest/366" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>RSS Feed</title>
+    <link>https://www.performance.gov/rssfeedtest/366</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.performance.gov/performance_rssfeed/366?content_year_filter=All&amp;type_1=All" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Reduce the Federal Footprint</title>
+    <link>https://www.performance.gov/Reduce%20the%20Federal%20Footprint</link>
+    <description>&lt;p&gt;By September 30, 2015, GSA will reduce the amount of leased space by 5 percent for replacement leases. GSA will also work with agencies to complete a total of 15 Client Portfolio Plans (three new plans each year) to identify opportunities for agencies to optimize their real estate portfolios.&lt;/p&gt;
+</description>
+     <pubDate>01/08/2016 09:50:49</pubDate>
+ <dc:creator>366</dc:creator>
+ <guid isPermaLink="false">366</guid>
+  </item>
+  </channel>
+</rss>

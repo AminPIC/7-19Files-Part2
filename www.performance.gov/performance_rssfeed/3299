@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.performance.gov/rssfeedtest/3299" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>RSS Feed</title>
+    <link>https://www.performance.gov/rssfeedtest/3299</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.performance.gov/performance_rssfeed/3299?content_year_filter=All&amp;type_1=All" rel="self" type="application/rss+xml" />
+      <item>
+    <title>SG07.01 Prepare the Federal workforce for retirement from entry-on-duty across every stage of the employee life-cycle </title>
+    <link>https://www.performance.gov/SG07.01%20Prepare%20the%20Federal%20workforce%20for%20retirement%20from%20entry-on-duty%20across%20every%20stage%20of%20the%20employee%20life-cycle%20</link>
+    <description>&lt;p&gt;Increase the percentage of all retirement data from agencies according to the required standard.&lt;/p&gt;
+&lt;p&gt;Increase the percentage of retirement applications prepared through information systems that meet established standards and have been certified by OPM.&lt;/p&gt;
+</description>
+     <pubDate>03/18/2016 10:53:59</pubDate>
+ <dc:creator>3299</dc:creator>
+ <guid isPermaLink="false">3299</guid>
+  </item>
+  </channel>
+</rss>

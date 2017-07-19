@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.performance.gov/rssfeedtest/45442" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>RSS Feed</title>
+    <link>https://www.performance.gov/rssfeedtest/45442</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.performance.gov/performance_rssfeed/45442?content_year_filter=All&amp;type_1=All" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Modernize the nuclear stockpile</title>
+    <link>https://www.performance.gov/Modernize%20the%20nuclear%20stockpile</link>
+    <description>&lt;p&gt;Nuclear Security: To modernize the nation’s existing nuclear weapons stockpile, make progress toward the completion of life extension programs consistent with the Nuclear Posture Review and manage nonproliferation actions to prevent, counter, and respond to global nuclear and radiological threats&lt;/p&gt;
+&lt;p&gt;Life Extension Programs&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Complete at least 70% of W76-1 cumulative production unit builds by the end of 2016, and 80% by the end of 2017&lt;/li&gt;
+&lt;li&gt;Achieve B61-12 Phase 6.4 authorization to initiate production-engineering activities by the end of FY 2016, and achieve B61-12 First System Qualification Flight Test by the end of FY 2017&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Prevent, Counter, and Respond to Nuclear and Radiological Threats&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Complete delivery and installation of a cumulative total of 755 fixed, mobile, and man-portable radiation detection systems by theend of FY 2017&lt;/li&gt;
+&lt;/ul&gt;</description>
+     <pubDate>01/23/2017 10:23:21</pubDate>
+ <dc:creator>45442</dc:creator>
+ <guid isPermaLink="false">45442</guid>
+  </item>
+  </channel>
+</rss>

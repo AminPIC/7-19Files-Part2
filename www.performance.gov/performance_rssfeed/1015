@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.performance.gov/rssfeedtest/1015" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>RSS Feed</title>
+    <link>https://www.performance.gov/rssfeedtest/1015</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.performance.gov/performance_rssfeed/1015?content_year_filter=All&amp;type_1=All" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Enhance VA’s Partnership with DoD </title>
+    <link>https://www.performance.gov/Enhance%20VA%E2%80%99s%20Partnership%20with%20DoD%20</link>
+    <description>&lt;p&gt;Enhance VA’s Partnership with DoD&lt;/p&gt;
+</description>
+     <pubDate>04/01/2016 11:33:49</pubDate>
+ <dc:creator>1015</dc:creator>
+ <guid isPermaLink="false">1015</guid>
+  </item>
+  </channel>
+</rss>

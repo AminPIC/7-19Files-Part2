@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.performance.gov/rssfeedtest/1394" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>RSS Feed</title>
+    <link>https://www.performance.gov/rssfeedtest/1394</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.performance.gov/performance_rssfeed/1394?content_year_filter=All&amp;type_1=All" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Create new economic opportunities through farming and the creation of new markets for agricultural products.</title>
+    <link>https://www.performance.gov/Create%20new%20economic%20opportunities%20through%20farming%20and%20the%20creation%20of%20new%20markets%20for%20agricultural%20products.</link>
+    <description>&lt;p&gt;By September 30, 2015, the U.S. Department of Agriculture (USDA) will:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Provide credit assistance to 7,000 small and family operations, women, minority, and beginning farmers and ranchers through its Microloan program;&lt;/li&gt;
+&lt;li&gt;Provide 3 percent of RBS funding to companies that produce or manufacture biobased products; and&lt;/li&gt;
+&lt;li&gt;Provide assistance to develop the infrastructure for 450 new markets for local and regional food.&lt;/li&gt;
+&lt;/ul&gt;</description>
+     <pubDate>01/08/2016 09:33:13</pubDate>
+ <dc:creator>1394</dc:creator>
+ <guid isPermaLink="false">1394</guid>
+  </item>
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.performance.gov/rssfeedtest/3901" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>RSS Feed</title>
+    <link>https://www.performance.gov/rssfeedtest/3901</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.performance.gov/performance_rssfeed/3901?content_year_filter=All&amp;type_1=All" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Maintain and modernize the U.S. nuclear weapons stockpile and dismantle excess nuclear weapons to meet the national security requirements, as assigned by the President, through the Nuclear Posture Review.</title>
+    <link>https://www.performance.gov/Maintain%20and%20modernize%20the%20U.S.%20nuclear%20weapons%20stockpile%20and%20dismantle%20excess%20nuclear%20weapons%20to%20meet%20the%20national%20security%20requirements%2C%20as%20assigned%20by%20the%20President%2C%20through%20the%20Nuclear%20Posture%20Review.</link>
+    <description>&lt;p&gt;In support of this goal, DOE will:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Each year through FY 2015 and into the future, maintain 100% of the warheads in the stockpile as safe, secure, reliable, and available to the President for deployment.&lt;/li&gt;
+&lt;li&gt;Conduct activities necessary to complete planned W76-1 production in FY 2019 and achieve the first B61-12 production unit in FY 2020, as reported in the FY 2013 Selected Acquisition Reports.&lt;/li&gt;
+&lt;/ul&gt;</description>
+     <pubDate>01/08/2016 09:30:52</pubDate>
+ <dc:creator>3901</dc:creator>
+ <guid isPermaLink="false">3901</guid>
+  </item>
+  </channel>
+</rss>

@@ -1,0 +1,2122 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="../content/pg1-retirement-claims-processing-improvements.html" />
+<link rel="shortlink" href="408.1.html" />
+<link rel="shortcut icon" href="../sites/all/themes/performance/favicon.ico" type="image/vnd.microsoft.icon" />
+  <title>PG1 Retirement claims processing improvements | Performance.gov</title>
+  <style type="text/css" media="all">
+@import url("../sites/all/themes/performance/styles/framework/reset.css%3Forhray.css");
+@import url("../sites/all/themes/performance/styles/framework/960.css%3Forhray.css");
+@import url("../sites/all/themes/performance/styles/framework/debug.css%3Forhray.css");
+</style>
+<style type="text/css" media="all">
+@import url("../modules/system/system.base.css%3Forhray.css");
+@import url("../modules/system/system.menus.css%3Forhray.css");
+@import url("../modules/system/system.messages.css%3Forhray.css");
+@import url("../modules/system/system.theme.css%3Forhray.css");
+</style>
+<style type="text/css" media="all">
+@import url("../sites/all/modules/contrib/calendar/css/calendar_multiday.css%3Forhray.css");
+@import url("../sites/all/modules/contrib/colorbox_node/colorbox_node.css%3Forhray.css");
+@import url("../modules/comment/comment.css%3Forhray.css");
+@import url("../sites/all/modules/contrib/date/date_api/date.css%3Forhray.css");
+@import url("../sites/all/modules/contrib/date/date_popup/themes/datepicker.1.7.css%3Forhray.css");
+@import url("../sites/all/modules/contrib/date/date_repeat_field/date_repeat_field.css%3Forhray.css");
+@import url("../modules/field/theme/field.css%3Forhray.css");
+@import url("../modules/node/node.css%3Forhray.css");
+@import url("../modules/search/search.css%3Forhray.css");
+@import url("../modules/user/user.css%3Forhray.css");
+@import url("../sites/all/modules/contrib/workflow/workflow_admin_ui/workflow_admin_ui.css%3Forhray.css");
+@import url("../sites/all/modules/contrib/views/css/views.css%3Forhray.css");
+@import url("../sites/all/modules/contrib/ckeditor/css/ckeditor.css%3Forhray.css");
+</style>
+<style type="text/css" media="all">
+@import url("../sites/all/modules/contrib/colorbox/styles/default/colorbox_style.css%3Forhray.css");
+@import url("../sites/all/modules/contrib/ctools/css/ctools.css%3Forhray.css");
+@import url("../sites/all/modules/contrib/nice_menus/css/nice_menus.css%3Forhray.css");
+@import url("../sites/all/modules/contrib/nice_menus/css/nice_menus_default.css%3Forhray.css");
+@import url("../misc/ui/jquery.ui.core.css%3Forhray.css");
+@import url("../misc/ui/jquery.ui.theme.css%3Forhray.css");
+</style>
+<style type="text/css" media="all">
+@import url("../sites/all/themes/performance/styles/tooltip/popup.css%3Forhray.css");
+@import url("../sites/all/themes/performance/styles/tooltip/popup-element.css%3Forhray.css");
+@import url("../sites/all/themes/performance/styles/responsive.css%3Forhray.css");
+@import url("../sites/all/themes/performance/styles/fonts.css%3Forhray.css");
+@import url("../sites/all/themes/performance/styles/admin.css%3Forhray.css");
+@import url("../sites/all/themes/performance/styles/style.css%3Forhray.css");
+@import url("../sites/all/themes/performance/styles/maintenance-page.css%3Forhray.css");
+@import url("../sites/all/themes/performance/styles/fonts/novecentowide_bold_macroman/stylesheet.css%3Forhray.css");
+@import url("../sites/all/themes/performance/styles/fonts/MyFontsWebfontsKit/MyFontsWebfontsKit.css%3Forhray.css");
+@import url("../sites/all/themes/performance/styles/jquery.mmenu.all.css%3Forhray.css");
+</style>
+
+<!--[if lte IE 11]>
+<link type="text/css" rel="stylesheet" href="https://www.performance.gov/sites/all/themes/performance/styles/ie.css?orhray" media="all" />
+<![endif]-->
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="https://www.performance.gov/sites/all/themes/performance/styles/ie7.css?orhray" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="../misc/jquery.js%3Fv=1.4.4"></script>
+<script type="text/javascript" src="../misc/jquery.once.js%3Fv=1.2"></script>
+<script type="text/javascript" src="../misc/drupal.js%3Forhray"></script>
+<script type="text/javascript" src="../misc/jquery.cookie.js%3Fv=1.0"></script>
+<script type="text/javascript" src="../sites/all/libraries/history.js/scripts/bundled/html4+html5/jquery.history.js%3Forhray"></script>
+<script type="text/javascript" src="../misc/jquery.form.js%3Fv=2.52"></script>
+<script type="text/javascript" src="../sites/all/modules/contrib/nice_menus/js/jquery.bgiframe.js%3Fv=2.1"></script>
+<script type="text/javascript" src="../sites/all/modules/contrib/nice_menus/js/jquery.hoverIntent.js%3Fv=0.5"></script>
+<script type="text/javascript" src="../sites/all/modules/contrib/nice_menus/js/superfish.js%3Fv=1.4.8"></script>
+<script type="text/javascript" src="../sites/all/modules/contrib/nice_menus/js/nice_menus.js%3Fv=1.0"></script>
+<script type="text/javascript" src="../misc/ajax.js%3Fv=7.54"></script>
+<script type="text/javascript" src="../sites/all/libraries/jquery/jquery-1.7.2.min.js%3Forhray"></script>
+<script type="text/javascript" src="../sites/all/themes/performance/js/jquery.mmenu.min.all.js%3Forhray"></script>
+<script type="text/javascript" src="../sites/all/themes/performance/js/jquery.address-1.5.min.js%3Forhray"></script>
+<script type="text/javascript" src="../sites/all/themes/performance/js/jquery-ui-1.10.3/ui/jquery-ui.js%3Forhray"></script>
+<script type="text/javascript" src="../sites/all/themes/performance/js/global_172.js%3Forhray"></script>
+<script type="text/javascript" src="../sites/all/themes/performance/js/search.js%3Forhray"></script>
+<script type="text/javascript" src="../sites/all/modules/contrib/jqmulti/js/switch.js%3Forhray"></script>
+<script type="text/javascript" src="../sites/all/modules/contrib/apachesolr_sort/apachesolr_sort.js%3Forhray"></script>
+<script type="text/javascript" src="../sites/all/modules/custom/performance_api_client/js/simpleshowhide.js%3Forhray"></script>
+<script type="text/javascript" src="../sites/all/modules/contrib/authcache/authcache.js%3Forhray"></script>
+<script type="text/javascript" src="../sites/all/libraries/colorbox/jquery.colorbox-min.js%3Forhray"></script>
+<script type="text/javascript" src="../sites/all/modules/contrib/colorbox/js/colorbox.js%3Forhray"></script>
+<script type="text/javascript" src="../sites/all/modules/contrib/colorbox/styles/default/colorbox_style.js%3Forhray"></script>
+<script type="text/javascript" src="../sites/all/modules/contrib/colorbox/js/colorbox_load.js%3Forhray"></script>
+<script type="text/javascript" src="../sites/all/modules/contrib/popup/popup.js%3Forhray"></script>
+<script type="text/javascript" src="../sites/all/modules/contrib/views/js/base.js%3Forhray"></script>
+<script type="text/javascript" src="../misc/progress.js%3Fv=7.54"></script>
+<script type="text/javascript" src="../sites/all/modules/contrib/views/js/ajax_view.js%3Forhray"></script>
+<script type="text/javascript" src="../sites/all/modules/contrib/google_analytics/googleanalytics.js%3Forhray"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-86562364-1", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="../sites/all/libraries/jquery.cycle/jquery.cycle.all.js%3Forhray"></script>
+<script type="text/javascript" src="../sites/all/libraries/jquery.ezpz_hint/jquery.ezpz_hint.js%3Forhray"></script>
+<script type="text/javascript" src="../sites/all/modules/contrib/field_group/field_group.js%3Forhray"></script>
+<script type="text/javascript" src="../sites/all/themes/performance/js/agency.js%3Forhray"></script>
+<script type="text/javascript" src="../sites/all/libraries/highcharts/js/highcharts.js%3Forhray"></script>
+<script type="text/javascript" src="../sites/all/modules/contrib/views_ajax_history/views_ajax_history.js%3Forhray"></script>
+<script type="text/javascript" src="../sites/all/modules/contrib/colorbox_node/colorbox_node.js%3Forhray"></script>
+<script type="text/javascript" src="../sites/all/themes/performance/js/global.js%3Forhray"></script>
+<script type="text/javascript" src="../sites/all/themes/performance/js/vAlignPlugin.js%3Forhray"></script>
+<script type="text/javascript" src="../sites/all/themes/performance/js/jquery.livequery.js%3Forhray"></script>
+<script type="text/javascript" src="../sites/all/themes/performance/js/jquery.tinycarousel.min.js%3Forhray"></script>
+<script type="text/javascript" src="../sites/all/themes/performance/js/jquery.easyListSplitter.js%3Forhray"></script>
+<script type="text/javascript" src="../sites/all/themes/performance/js/purl.js%3Forhray"></script>
+<script type="text/javascript" src="../sites/all/themes/performance/js/jquery.equalheights.min.js%3Forhray"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"performance","theme_token":"lInBYg6UDKRABcXe3i1jxy7Lv3NVQONj66LoEqaOoQU","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/jquery.cookie.js":1,"sites\/all\/libraries\/history.js\/scripts\/bundled\/html4+html5\/jquery.history.js":1,"misc\/jquery.form.js":1,"sites\/all\/modules\/contrib\/nice_menus\/js\/jquery.bgiframe.js":1,"sites\/all\/modules\/contrib\/nice_menus\/js\/jquery.hoverIntent.js":1,"sites\/all\/modules\/contrib\/nice_menus\/js\/superfish.js":1,"sites\/all\/modules\/contrib\/nice_menus\/js\/nice_menus.js":1,"misc\/ajax.js":1,"sites\/all\/libraries\/jquery\/jquery-1.7.2.min.js":1,"sites\/all\/themes\/performance\/js\/jquery.mmenu.min.all.js":1,"sites\/all\/themes\/performance\/js\/jquery.address-1.5.min.js":1,"sites\/all\/themes\/performance\/js\/jquery-ui-1.10.3\/ui\/jquery-ui.js":1,"sites\/all\/themes\/performance\/js\/global_172.js":1,"sites\/all\/themes\/performance\/js\/search.js":1,"sites\/all\/modules\/contrib\/jqmulti\/js\/switch.js":1,"sites\/all\/modules\/contrib\/apachesolr_sort\/apachesolr_sort.js":1,"sites\/all\/modules\/custom\/performance_api_client\/js\/simpleshowhide.js":1,"sites\/all\/modules\/contrib\/authcache\/authcache.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/contrib\/popup\/popup.js":1,"sites\/all\/modules\/contrib\/views\/js\/base.js":1,"misc\/progress.js":1,"sites\/all\/modules\/contrib\/views\/js\/ajax_view.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"\/sites\/all\/libraries\/jquery.cycle\/jquery.cycle.all.js":1,"\/sites\/all\/libraries\/jquery.ezpz_hint\/jquery.ezpz_hint.js":1,"sites\/all\/modules\/contrib\/field_group\/field_group.js":1,"sites\/all\/themes\/performance\/js\/agency.js":1,"sites\/all\/libraries\/highcharts\/js\/highcharts.js":1,"sites\/all\/modules\/contrib\/views_ajax_history\/views_ajax_history.js":1,"sites\/all\/modules\/contrib\/colorbox_node\/colorbox_node.js":1,"sites\/all\/themes\/performance\/js\/global.js":1,"sites\/all\/themes\/performance\/js\/vAlignPlugin.js":1,"sites\/all\/themes\/performance\/js\/jquery.livequery.js":1,"sites\/all\/themes\/performance\/js\/jquery.tinycarousel.min.js":1,"sites\/all\/themes\/performance\/js\/jquery.easyListSplitter.js":1,"sites\/all\/themes\/performance\/js\/purl.js":1,"sites\/all\/themes\/performance\/js\/jquery.equalheights.min.js":1},"css":{"sites\/all\/themes\/performance\/styles\/framework\/reset.css":1,"sites\/all\/themes\/performance\/styles\/framework\/960.css":1,"sites\/all\/themes\/performance\/styles\/framework\/debug.css":1,"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/contrib\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/contrib\/colorbox_node\/colorbox_node.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contrib\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/workflow\/workflow_admin_ui\/workflow_admin_ui.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/popup\/popup.css":1,"sites\/all\/modules\/contrib\/nice_menus\/css\/nice_menus.css":1,"sites\/all\/modules\/contrib\/nice_menus\/css\/nice_menus_default.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"sites\/all\/themes\/performance\/styles\/tooltip\/popup.css":1,"sites\/all\/themes\/performance\/styles\/tooltip\/popup-element.css":1,"sites\/all\/themes\/performance\/styles\/responsive.css":1,"sites\/all\/themes\/performance\/styles\/fonts.css":1,"sites\/all\/themes\/performance\/styles\/admin.css":1,"sites\/all\/themes\/performance\/styles\/style.css":1,"sites\/all\/themes\/performance\/styles\/jquery.selectBoxIt.css":1,"sites\/all\/themes\/performance\/styles\/maintenance-page.css":1,"sites\/all\/themes\/performance\/styles\/fonts\/novecentowide_bold_macroman\/stylesheet.css":1,"sites\/all\/themes\/performance\/styles\/fonts\/MyFontsWebfontsKit\/MyFontsWebfontsKit.css":1,"sites\/all\/themes\/performance\/styles\/jquery.mmenu.all.css":1,"sites\/all\/themes\/performance\/styles\/ie.css":1,"sites\/all\/themes\/performance\/styles\/ie7.css":1}},"authcache":{"q":"node\/408","cp":{"path":"\/","domain":".performance.gov","secure":true},"cl":23.148148148148},"colorbox":{"transition":"elastic","speed":"350","opacity":"0.85","slideshow":false,"slideshowAuto":true,"slideshowSpeed":"2500","slideshowStart":"start slideshow","slideshowStop":"stop slideshow","current":"","previous":"","next":"","close":"","overlayClose":true,"maxWidth":"98%","maxHeight":"98%","initialWidth":"300","initialHeight":"250","fixed":true,"scrolling":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"popup":{"effects":{"show":{"default":"this.body.show();","fade":"\n        if (this.opacity){\n          this.body.fadeTo(\u0027medium\u0027,this.opacity);\n        }else{\n          this.body.fadeIn(\u0027medium\u0027);\n        }","slide-down":"this.body.slideDown(\u0027medium\u0027)","slide-down-fade":"\n        this.body.animate(\n          {\n            height:\u0027show\u0027,\n            opacity:(this.opacity ? this.opacity : \u0027show\u0027)\n          }, \u0027medium\u0027\n        );"},"hide":{"default":"this.body.hide();","fade":"this.body.fadeOut(\u0027medium\u0027);","slide-down":"this.body.slideUp(\u0027medium\u0027);","slide-down-fade":"\n        this.body.animate(\n          {\n            height:\u0027hide\u0027,\n            opacity:\u0027hide\u0027\n          }, \u0027medium\u0027\n        );"}},"linger":"250","delay":0},"viewsAjaxHistory":{"onloadPageItem":0},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:15c401c953b3601aa93e00147c89519a":{"view_name":"announcements","view_display_id":"block","view_args":"","view_path":"node\/408","view_base_path":"announcements-public","view_dom_id":"15c401c953b3601aa93e00147c89519a","pager_element":0}}},"better_exposed_filters":{"views":{"announcements":{"displays":{"block":{"filters":[]}}}}},"nice_menus_options":{"delay":"800","speed":"fast"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1},"urlIsAjaxTrusted":{"\/node\/408":true},"field_group":{"field_group_multiple_container":"full","div":"full","hidden":"full"},"colorbox_node":{"width":"600px","height":"600px"}});
+//--><!]]>
+</script>
+  <!--[if IE 8]>
+    <link rel="stylesheet" href="/sites/all/themes/performance/styles/css3pie.css" type="text/css">
+    <script type="text/javascript" src="/sites/all/themes/performance/js/ie8.js"></script>
+  <![endif]-->
+  <!--[if lt IE 8]>
+    <script type="text/javascript" src="/sites/all/themes/performance/js/ie7.js"></script>
+  <![endif]-->
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-408 node-type-priority-goal content pg1-retirement-claims-processing-improvements content pg1-retirement-claims-processing-improvements" >
+  <div id="skip-link">
+    <a href="408.1.html#main-content" class="element-invisible">Skip to main content</a>
+  </div>
+    <!-- Top Bar -->
+<div id="top-bar" role="banner">
+  <!-- div id="usa">An Official Website of the United States Government</div -->
+  <!-- Changes made to banner May 30, 2017 -->
+  <div id="usa"><p>This is historical material “frozen in time.” The website is no longer updated and links to external websites and some internal pages may not work. </p></div>
+</div>
+<div id="page" class="container-16 clearfix">
+  <div id="innerWrapper">
+      <!-- PER-739 - Removed date from header -->
+      <!-- <div class="dateLogoutWrapper">
+<!--        <div id="date">--><!--</div>-->
+<!--        --><!--      </div> -->
+    </div>
+    
+    <!-- Header -->
+    <div id="site-header" class="container-16 clearfix">
+      <div><a id="logo-link" href="../index.html"><img src="../sites/all/themes/performance/images/logo.png" alt="Performance.gov"></a></div>
+
+      <!-- PER-737 - Removed search bar from header -->
+    <!-- Search -->
+
+<!--                 <div id="search-box" class="grid-16 clearfix">   <div class="region region-search-box">
+    <div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form action="/node/408" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search   </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+<div class='clear'></div>
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-UE07X1kJQyEaWobKeoqdTlsujhlu_5CbOySNuM2zdH0" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+  </div>
+        </div>
+         -->
+        <div id="mobile-menu-block" class="mobile">
+            <a href="408.1.html#mobile-menu"><img src="../sites/all/themes/performance/images/mobile_menu_icon.png" alt="Mobile Menu"></a>
+        </div>
+    </div>
+
+    
+          <div id="site-menu" class="container-16 clearfix">
+          <div class="region region-main-nav">
+    <div id="block-nice-menus-2" class="block block-nice-menus">
+
+    
+  <div class="content">
+    <ul class="nice-menu nice-menu-down nice-menu-main-menu" id="nice-menu-2"><li class="menu-1333 menu-path-front first odd "><a href="../index.html" title="">Home</a></li>
+<li class="menu-535 menuparent  menu-path-agencies  even "><a href="../agencies.html">Agencies</a><ul><li class="menu-2300 menu-path-node-6 first odd "><a href="../agency/department-agriculture%3Fview=public.html" title="">Department of Agriculture</a></li>
+<li class="menu-2293 menu-path-node-23  even "><a href="../agency/department-housing-and-urban-development%3Fview=public.html" title="">Department of Housing and Urban Development</a></li>
+<li class="menu-2294 menu-path-node-27  odd "><a href="../agency/general-services-administration%3Fview=public.html" title="">General Services Administration</a></li>
+<li class="menu-2299 menu-path-node-7  even "><a href="../agency/department-commerce%3Fview=public.html" title="">Department of Commerce</a></li>
+<li class="menu-2298 menu-path-node-8  odd "><a href="../agency/department-interior%3Fview=public.html" title="">Department of the Interior</a></li>
+<li class="menu-2301 menu-path-node-22  even "><a href="../agency/national-aeronautics-and-space-administration%3Fview=public.html" title="">National Aeronautics and Space Administration</a></li>
+<li class="menu-2291 menu-path-node-26  odd "><a href="../agency/department-defense%3Fview=public.html" title="">Department of Defense</a></li>
+<li class="menu-2297 menu-path-node-9  even "><a href="../agency/department-justice%3Fview=public.html" title="">Department of Justice</a></li>
+<li class="menu-2312 menu-path-node-16  odd "><a href="../agency/national-science-foundation%3Fview=public.html" title="">National Science Foundation</a></li>
+<li class="menu-2292 menu-path-node-25  even "><a href="../agency/department-education%3Fview=public.html" title="">Department of Education</a></li>
+<li class="menu-2306 menu-path-node-10  odd "><a href="../agency/department-labor%3Fview=public.html" title="">Department of Labor</a></li>
+<li class="menu-2303 menu-path-node-13  even "><a href="../agency/office-personnel-management%3Fview=public.html" title="">Office of Personnel Management</a></li>
+<li class="menu-2295 menu-path-node-24  odd "><a href="../agency/department-energy%3Fview=public.html" title="">Department of Energy</a></li>
+<li class="menu-2305 menu-path-node-11  even "><a href="../agency/department-state-and-usaid%3Fview=public.html" title="">Department of State</a></li>
+<li class="menu-2302 menu-path-node-20  odd "><a href="../agency/small-business-administration%3Fview=public.html" title="">Small Business Administration</a></li>
+<li class="menu-2311 menu-path-node-17  even "><a href="../agency/environmental-protection-agency%3Fview=public.html" title="">Environmental Protection Agency</a></li>
+<li class="menu-2310 menu-path-node-18  odd "><a href="../agency/department-transportation%3Fview=public.html" title="">Department of Transportation</a></li>
+<li class="menu-2307 menu-path-node-14  even "><a href="../agency/social-security-administration%3Fview=public.html" title="">Social Security Administration</a></li>
+<li class="menu-2313 menu-path-node-21  odd "><a href="../agency/department-health-and-human-services%3Fview=public.html" title="">Department of Health and Human Services</a></li>
+<li class="menu-2304 menu-path-node-12  even "><a href="../agency/department-treasury%3Fview=public.html" title="">Department of the Treasury</a></li>
+<li class="menu-2346 menu-path-node-11  odd "><a href="../agency/department-state-and-usaid%3Fview=public.html" title="U.S. Agency for International Development">U.S. Agency for International Development</a></li>
+<li class="menu-2309 menu-path-node-19  even "><a href="../agency/department-homeland-security%3Fview=public.html" title="">Department of Homeland Security</a></li>
+<li class="menu-2308 menu-path-node-15  odd last"><a href="../agency/department-veterans-affairs%3Fview=public.html" title="">Department of Veterans Affairs</a></li>
+</ul></li>
+<li class="menu-2290 menu-path-clear-goals  odd "><a href="../clear_goals.1.html" title="">Goals</a></li>
+<li class="menu-7052 menuparent  menu-path-node-27432  even  initiatives"><a href="../initiative/freeze-footprint.html" title="Read about efforts to reduce the usage footprint of real properties">Initiatives</a><ul><li class="menu-7062 menu-path-node-27432 first odd "><a href="../initiative/freeze-footprint.html" title="Learn more about our efforts to freeze the footprint usage of real property ">Freeze the Footprint</a></li>
+<li class="menu-10555 menu-path-node-123336  even "><a href="../initiative/reduce-footprint.html">Reduce the Footprint</a></li>
+<li class="menu-7072 menu-path-node-3406-view  odd "><a href="3406/view%3Fview=public.html#supporting-info" title="Sustainability">Sustainability</a></li>
+<li class="menu-3862 menu-path-permitsperformancegov-  even "><a href="http://www.permits.performance.gov/" title="Permitting Dashboard">Permitting Dashboard</a></li>
+<li class="menu-7082 menu-path-usaspendinggov-  odd "><a href="http://www.usaspending.gov/" title="USASpending.gov">USASpending.gov</a></li>
+<li class="menu-7092 menu-path-paymentaccuracygov-  even last"><a href="http://www.paymentaccuracy.gov/" title="PaymentAccuracy.gov">PaymentAccuracy.gov</a></li>
+</ul></li>
+<li class="menu-536 menu-path-node-23832  odd last"><a href="../federalprograminventory.html" title="">Programs</a></li>
+</ul>
+  </div>
+</div>
+  </div>
+        <div class="menu-right-main-nav"><ul class="links nice-menu"><li class="menu-2328 first"><a href="../api.1.html">API</a></li>
+<li class="menu-1351"><a href="../about.html" title="">About</a></li>
+<li class="menu-1352 last"><a href="../faq.html">FAQ</a></li>
+</ul></div>      </div>
+        <div id="site-subheader" class="">
+                </div>
+  
+    
+  
+    <!-- Homepage Slideshow -->
+    
+     <!-- Blue Box / Title / Breadcrumb / Secondary Menu -->
+        <div class="header">
+      <p id="breadcrumbs" class="breadcrumb-container">
+        <span class="element-invisible">You are here</span>Home      </p>
+    </div>
+            <!-- Main Content Area -->
+    <div id="main" class="column grid-16 ">
+
+      <div class="tabs"><h2 class="element-invisible">Primary tabs</h2><ul class="tabs primary"><li class="active"><a href="../content/pg1-retirement-claims-processing-improvements.html" class="active">View<span class="element-invisible">(active tab)</span></a></li>
+<li><a href="408/showcompare.html">Show Changes</a></li>
+</ul></div>            <div class="clear"></div>
+                        <div id="main-content" class="region clearfix">
+          
+            <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    
+<style>
+    .ui-tooltip, .arrow:after {
+        background: white;
+        border: thin solid #eaeaea;
+        width: 200px;
+    }
+    .ui-tooltip {
+        padding: 10px 20px;
+        color: black;
+        border-radius: 20px;
+        font: 12px/20px Helvetica, Arial, Sans-Serif;
+        box-shadow: 0 0 7px white;
+    }
+    .arrow {
+        width: 70px;
+        height: 16px;
+        overflow: hidden;
+        position: absolute;
+        left: 50%;
+        margin-left: -35px;
+        bottom: -16px;
+    }
+    .arrow.top {
+        top: -16px;
+        bottom: auto;
+    }
+    .arrow.left {
+        left: 20%;
+    }
+    .arrow:after {
+        content: "";
+        position: absolute;
+        left: 20px;
+        top: -20px;
+        width: 25px;
+        height: 25px;
+        box-shadow: 6px 5px 9px -9px black;
+        -webkit-transform: rotate(45deg);
+        -moz-transform: rotate(45deg);
+        -ms-transform: rotate(45deg);
+        -o-transform: rotate(45deg);
+        tranform: rotate(45deg);
+    }
+    .arrow.top:after {
+        bottom: -20px;
+        top: auto;
+    }
+</style>
+<div id="node-408" class="node node-priority-goal node-promoted clearfix agency-overview" about="/content/pg1-retirement-claims-processing-improvements" typeof="sioc:Item foaf:Document">
+<div class="header">    <div class="official-website-container"></div>
+    <div class="logo-search-container"></div>
+    <div class="main-nav-container"></div>
+
+</div>
+<div class="clear"></div>
+<div class="agency-head-mission-wrapper">
+    <div class="float-left narrow-container" role="complementary">
+        <div class="agency-head-wrapper" id="agency-head-carousel">
+            <div class="viewport">
+                <ul class="overview">
+
+                                        <li><div class="thumbnail-wrapper">
+                                                <div class="thumbnail"><img src="https://s3.amazonaws.com/app_performance_prod_ahwdtloxcxcy/s3fs-public/pg_goal_leader_thumbnail/Kenneth%20Zawodny_0.jpg" alt="" style="width:100px"/></div>
+                                                <div class="frame-wrapper">
+                            <div class="frame"><img src="../sites/all/themes/performance/images/agency-head-frame.png" alt="" /></div>
+                            <div class="skirt"></div>
+                        </div>
+                        <div class="clear"></div>
+                    </div>
+                        <div class="name">Kenneth Zawodny, Jr.</div>
+                        <div class="title">Associate Director, Retirement Services</div>
+                        <div class="title">Retirement Services</div>
+                    </li>
+
+                                    </ul>
+            </div>
+                    </div>
+        
+    </div>
+    <div class="mission-container" role="main">
+        <div class="float-left text ">         
+            <span class="ct-label">FY 14-15: Agency Priority Goal</span>
+            <h1>PG1 Retirement claims processing improvements</h1>
+            <div class="mission_mobile"><h2>Priority Goal</h2></div>
+            <div class="teaser_themes_wrapper">
+                <div class="mission_title_mobile">PG1 Retirement claims processing improvements</div>
+                <!--<div class="teaser collapsed">
+                    <span class="mission"></span>
+                                                        </div>-->
+                <div class="">
+                    <span class="mission"></span>
+                                     
+                    <p>Reduce Federal retirement processing time by making comprehensive improvements and move toward electronic processing of all retirement applications. Starting July 1, 2014, process 90 percent of cases in 60 days or less. By the end of FY 2015, increase the use of services on-line by 25 percent (from a baseline of 367,000 annuitants), and increase the percentage of complete cases received from agencies to 95 percent or greater (from a baseline of 89 percent) with the long term goal of 100 percent of cases received as complete.In addition, by FY 2015, OPM will develop capabilities to receive electronic retirement applications.</p>
+                                    </div>
+                <div id="themes_container">
+                    <div class="themes_wrapper">
+                                                <img title="<strong>What are Themes?</strong><br />Themes list the issue or policy areas that are used to group similar goals and objectives." src="../sites/all/themes/performance/images/header_info.png" alt="info" class="i_icon">
+                        <span class="agency_tags_label">Themes:</span>
+                    </div>
+                    <div id="tags_container">
+                                                                            <span class="agency_tags">General Government                                    </span>
+                                                                        </div>
+                </div>
+            </div>
+        </div>
+                <div class="float-left logo">
+            <img
+                    src="https://s3.amazonaws.com/app_performance_prod_ahwdtloxcxcy/s3fs-public/agency_logo/Office_Personnel_Mgmt_Seal_sm_0.png"
+                    alt=""/><br />
+            <a href="http://www.opm.gov" target="_blank">
+                OPM.gov
+            </a>
+        </div>
+                <div class="clear"></div>
+    </div>
+</div>
+<div class="float-left wide-container">
+<div class="spacer"></div>
+<div id="share_icons">
+    <a id="facebook-social-icon" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2F%3A443%2Fnode%2F408">Facebook</a>
+            <a id="twitter-social-icon" target="_blank" href="https://twitter.com/intent/tweet?original_referer=https%3A%2F%2F%3A443%2Fnode%2F408">Twitter</a>
+            <a id="linkdin-social-icon" target="_blank" href="http://www.linkedin.com/cws/share?url=https%3A%2F%2F%3A443%2Fnode%2F408">Linkdin</a>
+            <a id="mail-social-icon" href="mailto:username@example.com?subject=Sharing an URL from performance.gov&body=%0A%20Hello%2C%0A%0A%20You%20are%20receiving%20this%20email%20because%20the%20sender%20opted%20to%20share%20the%20resource%28s%29%20found%20in%20Performance.gov%20with%20you.%0A%0A%20Please%20use%20the%20following%20URL%20to%20access%20the%20shared%20link%3A%20https%3A%2F%2F%3A443%2Fnode%2F408%0A%0A%20If%20you%20need%20more%20information%20or%20help%2C%20contact%20us%20at%20http%3A%2F%2Fwww.performance.gov%2Ffeedback%0A%0A%20Thanks%20You%0A%20-%20Performance.gov%20Team%0A%0A%20%5BThis%20is%20a%20system%20generated%20message%5D">Mail</a>
+            <a id="rss-social-icon" target="_blank" href="../performance_rssfeed/408">RSS</a>    <div id="xml-export-icon"><a href="../priority_goal_xml_download/408">XML</a></div>
+    <div id="csv-export-icon"><a href="../priority_goal_csv_download/408">CSV</a></div>
+</div>
+
+    <div id="tabs">
+        <ul>
+        <li class="blue_tab_item">
+            <div class="overview_wrapper blue_tab">
+                 <a href="408.1.html#overview">Overview</a>
+                 <img title="Select here to see a summary of this Agency Priority Goal." src="../sites/all/themes/performance/images/info.png" alt="info" class="i_icon">
+            </div>   
+        </li>
+        <li class="blue_tab_item">
+            <div class="strategies_wrapper blue_tab">
+                <a href="408.1.html#strategies">Strategies</a>
+                <img title="Select here to see the key approaches the agency plans to use to achieve this goal." src="../sites/all/themes/performance/images/info.png" alt="info" class="i_icon">
+            </div>
+        </li>
+        <li class="blue_tab_item">
+            <div class="progress_wrapper blue_tab">
+                <a href="408.1.html#progressUpdate">Progress Update</a>
+                <img title="Select here to see the current status of the goal." src="../sites/all/themes/performance/images/info.png" alt="info" class="i_icon">
+            </div>
+        </li>
+        <li class="blue_tab_item">
+            <div class="next_steps_wrapper blue_tab">
+              <a href="408.1.html#prognext">Next Steps</a>
+              <img title="Select here to see the planned activities the agency is pursuing to achieve this goal." src="../sites/all/themes/performance/images/info.png" alt="info" class="i_icon">
+            </div> 
+        </li>
+        <li class="blue_tab_item">
+            <div class="indicators_wrapper blue_tab">
+                <a href="408.1.html#indicators">Indicators</a>
+                <img title="Select here to find the performance and other measures the agency is using to manage their progress toward the Priority Goal." src="../sites/all/themes/performance/images/info.png" alt="info" class="i_icon">
+            </div>
+        </li>
+                    <li class="blue_tab_item">
+                <div class="indicators_wrapper blue_tab">
+                    <a href="408.1.html#otherContributors">Contributing Programs & Other Factors</a>
+                </div>
+            </li>
+                <li class="blue_tab_item">
+            <div class="related_goals_wrapper blue_tab">
+                <a href="408.1.html#relgoals">Related Goals</a>
+                                <img title="Select here to learn about other goals related to this agency priority goal." src="../sites/all/themes/performance/images/info.png" alt="info" class="i_icon">
+            </div>
+        </li>
+    </ul>
+    <div id="overview">
+        <div class="overview-wrapper" role="complementary">
+            <h2>Goal Overview</h2>
+            <!--<div class="teaser collapsed">
+                                            </div>-->
+            <div class="">
+                <p>The Office of Personnel Management (OPM) is responsible for the administration of the Federal Retirement Program covering over 2.7 million active employees and nearly 2.6 million annuitants. This responsibility is shared with agency partners who counsel their employees and administer the initial retirement application process, and submit the employee’s application, with all supporting documentation, to OPM’s Retirement Services.   OPM remains committed to improving all areas of retirement case related production by refining and implementing Lean Six Sigma activities, providing needed training and development, and diverting resources to areas needing concentrated efforts. In order to make comprehensive improvements to retirement claims processing, OPM will continue to focus on the following four pillars: People; Productivity and Process Improvement; Partnerships with Agencies; and Partial, Progressive IT Improvements.</p>
+<p> </p>
+                            </div>
+        </div>
+    </div>
+    <div id="strategies">
+        <div class="overview-wrapper" role="complementary">
+            <h2>Strategies</h2>
+            <!--<div class="teaser collapsed">
+                                            </div>-->
+            <div class="">
+                <ol style="list-style-type: upper-roman;"><li>People
+<ul><li>Maintain appropriate Legal Administrative Specialists (LAS) staffing levels to back fill individuals who retire; and</li>
+<li>Maintain appropriate Customer Service Specialists (CSS) staffing levels to back fill individuals who retire.</li>
+</ul></li>
+<li>Productivity and Process Improvement
+<ul><li>Implement Lean Six Sigma Process Improvement Plan; and</li>
+<li>Effectively use of overtime.</li>
+</ul></li>
+<li>Partnering with Agencies
+<ul><li>Work with OPM-HRS to communicate RS strategies and updates in Chief Human Capital Officers Council meetings;</li>
+<li>Maintain 90 percent or greater accuracy and completeness of incoming claims</li>
+<li>Provide continued feedback to agencies on claims deficiencies</li>
+</ul></li>
+<li>Partial, Progressive Information Technology Improvements
+<ul><li>Acquire, Customize, and begin to integrate Case Management System;</li>
+<li>Pursue long-term data flow strategy;</li>
+<li>Explore short-term strategy to leverage work agencies do now;</li>
+<li>Review and upgrade systems used by LAS;</li>
+<li>Develop capability to receive electronic retirement applications; and</li>
+<li>Implement the RS Strategic IT Vision through incremental and strategic automation of the process in areas such as retirement calculator.</li>
+</ul></li>
+</ol><ul><li>The claims inventory is defined as all new pending claims under the Civil Service Retirement System (CSRS) and Federal Employees Retirement System (FERS), including all non-disability claims and disability claims after a determination has been made that disability retirement under CSRS or FERS is warranted. Other specialty claims and processes, such as Service Credit issues, Court Ordered Benefits, disability retirement determinations or lump sum payments to Federal employees who died while still employed (Death in Service) are not included in this definition. While these claims are important and are tracked separately, they are fundamentally different from the vast majority of our cases.</li>
+<li>Of the nearly 2.6 million retirees and survivors, more than 500,000 users have active Services-On-Line (SOL) accounts. In FY 2013, more than 352,000 users accessed SOL to conduct retirement business. SOL is our on-line tool to process standard post retirement activities such as address changes and other account maintenance functions.  OPM is already gathering e-mail addresses of new retirees through the application process, but is also involved in numerous outreach activities to bring awareness to and encourage retirees to use Services-On-Line.</li>
+</ul>                            </div>
+        </div>
+    </div>
+
+    <div id="progressUpdate">
+        <div class="overview-wrapper" role="complementary">
+            <h2>Progress Update</h2>
+            <div>
+                <p>OPM processed 70 percent of pending claims within 60 days in FY 2015, and 79 percent within 60 days in FY 2014, below the target of 90 percent.  The overall average processing time for retirement claims was 56.2 days in FY 2015, with an average of 42.3 days for claims processed in less than 60 days and 88.6 days for claims processed in more than 60 days.  OPM typically receives a surge of retirement claims at the beginning of the calendar year. In FY 2015, the surge included approximately 30,000 new claims, exceeding projections and stretching from January into February. In previous years, OPM has hired additional staff at the beginning of the fiscal year to offset the increased workload. Due to resource constraints, OPM was not able to use this approach in FY 2015.</p>
+<p> </p>
+<p>Of the 1.9 million annuitants, more than 513,000 unique users accessed Services Online in FY 2015, an increase of nearly 40 percent from the baseline of 367,000, exceeding the target of 25 percent.  As of the end of FY 2015, an average of 87.7 percent of retirement applications submissions that OPM received were considered complete. This is an increase over the FY 2014 rate of 84 percent, but short of the target of 95 percent. Data is posted on the OPM website: <a href="http://www.opm.gov/about-us/budget-performance/strategic-plans/agency-audit-monthly-update.pdf">http://www.opm.gov/about-us/budget-performance/strategic-plans/agency-au...</a></p>
+<p> </p>
+<p>Additional highlights are described below.</p>
+<p> </p>
+<ul><li>OPM’s claims processing accuracy rate was 94.0 percent as of August 2015, using a weighted average (FY 2015 target was 95 percent).This rate remains unchanged from the FY 2014 rate of 94 percent.</li>
+<li>OPM achieved a FY 2015 call handling rate of 72.0 percent. In FY 2015, OPM received approximately 1.9 million retirement program customer service calls, approximately 200,000 additional calls when compared with FY 2014. In FY 2015, OPM handled an additional 96,000 calls when compared with FY 2014. Due to high call volumes, however, the overall call handling rate decreased from the FY 2014 rate of 76 percent.</li>
+<li>In FY 2015, four individuals from the United States Postal Service (USPS) came to Boyers for six weeks during the surge to provide assistance on the front end processes. In FY 2016, four individuals from USPS and seven from the Defense Finance and Accounting Services (DFAS) will be coming to Boyers for four to six weeks during the surge to once again provide assistance on the front end process.</li>
+<li>In FY 2015, OPM delivered six webinars that received more than 20,000 views.  Because the webcasts are hosted online, they continue to provide training to benefits officers on key topics related to retirement. The webinars are available at: <em><a href="https://www.opm.gov/retirement-services/benefits-officers-center/training/">https://www.opm.gov/retirement-services/benefits-officers-center/training/</a></em>.</li>
+<li>The 2015 Annual Training Survey was emailed to more than 1,100 HR specialists, and 228 respondents completed the survey. Of the respondents, 38.7 percent have watched a Webcast in the last 12 months, 45.4 percent have received their training from Benefits Officers Training and Development, and 39.7 percent prefer in person training.  Seventeen percent of respondents would like to receive training in retirement benefits and 13.5 percent would like Social Security training.</li>
+<li>OPM expanded agency human resources and payroll office access to the Retirement Data Repository via Data Viewer.</li>
+</ul><p> </p>
+<p>OPM will continue to focus on improving retirement claims processing, and has set a new retirement services case processing Agency Priority Goal for 2016-2017.</p>
+            </div>
+        </div>
+    </div>
+
+    <div id="prognext">
+        <div class="overview-wrapper" role="complementary">
+            <h2>Next Steps</h2>
+            <div>
+                <span class='body-no-data'>No Data Available</span>            </div>
+        </div>
+    </div>
+        
+    <div id="indicators">
+                <div class="overview-wrapper" role="complementary">
+                            <a class="expand-all" href="408.1.html#" onclick="$('.collapse-all').show();$('.expand-all').hide()" style="display: inline;"><b>Expand All</b></a>
+<!--                 <a class="collapse-all" href="#" onclick="$('.expand-all').show();$('.collapse-all').hide()" style="display: inline;"><b>Collapse All</b></a> -->
+            <h2>Performance Indicators</h2>
+                            <div id="apg_pi_accordion0" class="accordion_header accordion_collapsed" tabindex="0" aria-controls="Performance Indicator Panel1">
+                    <h3>Claims Inventory</h3>
+                </div>
+                <div class="accordion_content" aria-labeledby="Performance Indicator Tab1" aria-hidden="true">
+
+                    <div class="accordion_tabs">
+    <!--                     <ul>
+                            <li><a href="#indicators-overview">Overview</a></li>
+                            <li><a href="#indicators-explanation">Date & Explanation</li>
+                            <li><a href="#indicators-details">Indicator Details</a></li>
+                        </ul> -->
+                        <div class="overview">
+                            <div class="data" id="overview-content">
+                                <p><table border="0" cellpadding="0" cellspacing="4"><tr><td>
+<p>The claims inventory is defined as all new pending claims under the Civil Service Retirement System and Federal Employees Retirement System, including all non-disability claims and disability claims after a determination has been made that disability retirement under Civil Service Retirement System or Federal Employees Retirement System is warranted.</p>
+<p> </p>
+</td>
+</tr></table></p>
+                            </div>
+                        </div>
+                        <div class="explanation">
+                            <div class="data" id="explanation-content">
+                                <table>
+                                    <caption>Indicator target and actual value information</caption>
+                                    <tr>
+                                        <th>Fiscal Year Quarter</th>
+                                        <th>Period Ending (Month, Year)</th>
+                                        <th>Target Value</th>
+                                        <th>Actual Value</th>
+                                        <th>Explanation of Actual</th>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2012-Q2</td>
+                                        <td>January, 2012</td>
+                                        <td> 61378</td>
+                                        <td> 61108</td>
+                                        <td></td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2012-Q2</td>
+                                        <td>February, 2012</td>
+                                        <td> 58678</td>
+                                        <td> 57570</td>
+                                        <td></td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2012-Q2</td>
+                                        <td>March, 2012</td>
+                                        <td> 55378</td>
+                                        <td> 52274</td>
+                                        <td></td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2012-Q3</td>
+                                        <td>April, 2012</td>
+                                        <td> 55078</td>
+                                        <td> 51016</td>
+                                        <td></td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2012-Q3</td>
+                                        <td>May, 2012</td>
+                                        <td> 54578</td>
+                                        <td> 49473</td>
+                                        <td></td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2012-Q3</td>
+                                        <td>June, 2012</td>
+                                        <td> 54078</td>
+                                        <td> 48323</td>
+                                        <td></td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2012-Q4</td>
+                                        <td>July, 2012</td>
+                                        <td> 50978</td>
+                                        <td> 44679</td>
+                                        <td></td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2012-Q4</td>
+                                        <td>August, 2012</td>
+                                        <td> 47478</td>
+                                        <td> 41787</td>
+                                        <td></td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2012-Q4</td>
+                                        <td>September, 2012</td>
+                                        <td> 42978</td>
+                                        <td> 41176</td>
+                                        <td></td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2013-Q1</td>
+                                        <td>October, 2012</td>
+                                        <td> 38478</td>
+                                        <td> 37086</td>
+                                        <td></td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2013-Q1</td>
+                                        <td>November, 2012</td>
+                                        <td> 33978</td>
+                                        <td> 31704</td>
+                                        <td></td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2013-Q1</td>
+                                        <td>December, 2012</td>
+                                        <td> 29478</td>
+                                        <td> 26402</td>
+                                        <td></td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2013-Q2</td>
+                                        <td>January, 2013</td>
+                                        <td> 38978</td>
+                                        <td> 36062</td>
+                                        <td></td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2013-Q2</td>
+                                        <td>February, 2013</td>
+                                        <td> 33078</td>
+                                        <td> 41103</td>
+                                        <td></td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2013-Q2</td>
+                                        <td>March, 2013</td>
+                                        <td> 26578</td>
+                                        <td> 36603</td>
+                                        <td></td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2013-Q3</td>
+                                        <td>April, 2013</td>
+                                        <td> 23078</td>
+                                        <td> 30080</td>
+                                        <td></td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2013-Q3</td>
+                                        <td>May, 2013</td>
+                                        <td> 26210</td>
+                                        <td> 26210</td>
+                                        <td></td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2013-Q3</td>
+                                        <td>June, 2013</td>
+                                        <td> 25542</td>
+                                        <td> 25542</td>
+                                        <td></td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2013-Q4</td>
+                                        <td>July, 2013</td>
+                                        <td> 24442</td>
+                                        <td> 25601</td>
+                                        <td></td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2013-Q4</td>
+                                        <td>August, 2013</td>
+                                        <td>23342</td>
+                                        <td> 22750</td>
+                                        <td></td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2013-Q4</td>
+                                        <td>September, 2013</td>
+                                        <td>22242</td>
+                                        <td> 17719</td>
+                                        <td></td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2014-Q1</td>
+                                        <td>October, 2013</td>
+                                        <td> 19142</td>
+                                        <td> 14176</td>
+                                        <td></td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2014-Q1</td>
+                                        <td>November, 2013</td>
+                                        <td> 16042</td>
+                                        <td> 14134</td>
+                                        <td></td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2014-Q1</td>
+                                        <td>December, 2013</td>
+                                        <td> 12942</td>
+                                        <td>12637</td>
+                                        <td></td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2014-Q2</td>
+                                        <td>January, 2014</td>
+                                        <td> 23242</td>
+                                        <td> 21296</td>
+                                        <td></td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2014-Q2</td>
+                                        <td>February, 2014</td>
+                                        <td> 23642</td>
+                                        <td> 23554</td>
+                                        <td></td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2014-Q2</td>
+                                        <td>March, 2014</td>
+                                        <td> 19642</td>
+                                        <td> 18573</td>
+                                        <td></td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2014-Q3</td>
+                                        <td>April, 2014</td>
+                                        <td>16842</td>
+                                        <td> 16618</td>
+                                        <td><p>OPM completed enough claims to reduce the backlog.</p>
+</td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2014-Q3</td>
+                                        <td>May, 2014</td>
+                                        <td> 14642</td>
+                                        <td>14551</td>
+                                        <td><p>OPM completed enough claims to reduce the backlog.</p>
+</td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2014-Q3</td>
+                                        <td>June, 2014</td>
+                                        <td> 14542</td>
+                                        <td> 12391</td>
+                                        <td><p>OPM completed enough claims to reduce the backlog.</p>
+</td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2014-Q4</td>
+                                        <td>July, 2014</td>
+                                        <td> 14442</td>
+                                        <td> 13620</td>
+                                        <td><p>OPM completed enough claims to reduce the backlog.</p>
+</td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2014-Q4</td>
+                                        <td>August, 2014</td>
+                                        <td> 13842</td>
+                                        <td> 13097</td>
+                                        <td><p>OPM completed enough claims to reduce the backlog.</p>
+</td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2014-Q4</td>
+                                        <td>September, 2014</td>
+                                        <td> 13142</td>
+                                        <td> 12767</td>
+                                        <td><p>OPM has achieved a steady state related to the pending claims inventory. This was accomplished by relying on strategies outlined within the Retirement Services Strategic Plan.</p>
+</td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2015-Q1</td>
+                                        <td>October, 2014</td>
+                                        <td> 12442</td>
+                                        <td> 14137</td>
+                                        <td><p>OPM achieved a steady state for claims inventory. Now focusing on processing 90 percent of pending claims within 60 days.</p>
+</td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2015-Q1</td>
+                                        <td>November, 2014</td>
+                                        <td> 12242</td>
+                                        <td> 14039</td>
+                                        <td><p>OPM achieved a steady state for claims inventory. Now focusing on processing 90 percent of pending claims within 60 days.</p>
+</td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2015-Q1</td>
+                                        <td>December, 2014</td>
+                                        <td> 11342</td>
+                                        <td> 11669</td>
+                                        <td><p>OPM achieved a steady state for claims inventory. Now focusing on processing 90 percent of pending claims within 60 days.</p>
+</td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2015-Q2</td>
+                                        <td>January, 2015</td>
+                                        <td> 21642</td>
+                                        <td> 22636</td>
+                                        <td><p>In January, OPM typically receives a high volume of new retirement claims. OPM anticipates this surge and prepares for it accordingly by allocating staff and associated resources. As OPM had reached a steady state of claims, the agency continues to focus its attention on processing 90 percent of claims within 60 days. The goal is also to reduce the claims inventory to return to a steady state following the surge.</p>
+</td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2015-Q2</td>
+                                        <td>February, 2015</td>
+                                        <td> 21542</td>
+                                        <td> 24014</td>
+                                        <td><p>The claims inventory is elevated due to the annual surge of retirement claims in January. OPM is focused on returning the inventory to a steady state and anticipates a high inventory at this point in the annual cycle. </p>
+</td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2015-Q2</td>
+                                        <td>March, 2015</td>
+                                        <td> 16942</td>
+                                        <td> 20594</td>
+                                        <td><p>OPM remains diligent in reducing the claims inventory by using tactics such as the reallocation of staff and resources to address the surge that is typical at this point in the fiscal year.  OPM reduced the inventory from 20,594 in March to 15,374 in May.</p>
+</td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2015-Q3</td>
+                                        <td>April, 2015</td>
+                                        <td> 14042 </td>
+                                        <td>18226</td>
+                                        <td><p>The claims inventory remains elevated due to the annual surge of retirement claims in January. OPM is focused on returning the inventory to a steady state. In April, OPM processed 8,660 pending claims, reducing the inventory by 2,368.</p>
+</td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2015-Q3</td>
+                                        <td>May, 2015</td>
+                                        <td> 12042</td>
+                                        <td>15374</td>
+                                        <td><p>OPM processed 10,697 pending claims in May, reducing the inventory by 2,852. </p>
+</td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2015-Q3</td>
+                                        <td>June, 2015</td>
+                                        <td> 11542</td>
+                                        <td> 14511</td>
+                                        <td><p>OPM processed 7,783 pending claims in June, reducing the inventory by 863.With the inventory decreasing to a steady state, OPM can continue to focus on processing 90 percent of pending claims within 60 days.</p>
+</td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2015-Q4</td>
+                                        <td>July, 2015</td>
+                                        <td>  11442</td>
+                                        <td> 16455</td>
+                                        <td><p>OPM processed 7,918 pending claims in July. The claims inventory was above the target due to the surge of retirement claims in January.</p>
+</td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2015-Q4</td>
+                                        <td>August, 2015</td>
+                                        <td> 11242</td>
+                                        <td> 16350</td>
+                                        <td><p>OPM processed 7,446 pending claims in August, reducing the inventory by 105. The claims inventory was above the target due to the surge of retirement claims in January.</p>
+</td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2015-Q4</td>
+                                        <td>September, 2015</td>
+                                        <td> 11042</td>
+                                        <td>  14706</td>
+                                        <td><p>OPM processed 7,944 pending claims in September, reducing the inventory by 1,644. The claims inventory was above the target due to the surge of retirement claims in January.</p>
+</td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2016-Q1</td>
+                                        <td>October, 2015</td>
+                                        <td> </td>
+                                        <td> </td>
+                                        <td></td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2016-Q1</td>
+                                        <td>November, 2015</td>
+                                        <td> </td>
+                                        <td> </td>
+                                        <td></td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2016-Q1</td>
+                                        <td>December, 2015</td>
+                                        <td> </td>
+                                        <td> </td>
+                                        <td></td>
+                                    </tr>
+                                                                    </table>
+                            </div>
+                        </div>
+                        <div class="details">
+                            <div class="data" id="details-content">
+                                <div class='data-items'><span>Indicator Statement:</span> <p>Claims Inventory</p>
+</div>                                <div class='data-items'><span>Indicator Overview:</span> <table border="0" cellpadding="0" cellspacing="4"><tr><td>
+<p>The claims inventory is defined as all new pending claims under the Civil Service Retirement System and Federal Employees Retirement System, including all non-disability claims and disability claims after a determination has been made that disability retirement under Civil Service Retirement System or Federal Employees Retirement System is warranted.</p>
+<p> </p>
+</td>
+</tr></table></div>                                <div class='data-items'><span>Unit Of Measurement:</span> Number</div>                                <div class='data-items'><span>Indicator Reporting Frequency:</span> Monthly</div>                                <div class='data-items'><span>Indicator Data Timeliness:</span> <p>Data is extracted from existing information systems.  The measure is calculated monthly without lag time.</p>
+</div>                                <div class='data-items'><span>Indicator Direction:</span> DECREASING</div>                                                            </div>
+                        </div>
+                    </div>
+                    <div id="container0">
+                        <div>
+                                                            <div class="field-graph">
+                                    
+            <script>
+            jQuery(function ($) {
+                $("#container0").highcharts({
+                    "chart": {
+                        "type": "column",
+                        "height": 350,
+                        "width": 530,
+                        "marginBottom": 115,
+                        "marginTop": 35,
+                        "marginLeft": 100,
+                        "marginRight": 5,
+                        "style": {
+                            "overflow": "visible"
+                        }
+                    },
+                    "credits":{
+                        "enabled": false,
+                    },
+                    "plotOptions": {
+                        "series": {
+                            "stacking": "normal",
+                        }
+                    },
+                    "toolbar": {
+                        "itemStyle": {
+                            "color": "#ff0000",
+                            "cursor": "pointer",
+                            "position": "absolute",
+                            "right": "100px"
+                        }
+                    },
+                    "xAxis": {
+                        "tickmarkPlacement": "on",
+                        "categories": [1325394000000,1328072400000,1330578000000,1333252800000,1335844800000,1338523200000,1341115200000,1343793600000,1346472000000,1349064000000,1351742400000,1354338000000,1357016400000,1359694800000,1362114000000,1364788800000,1367380800000,1370059200000,1372651200000,1375329600000,1378008000000,1380600000000,1383278400000,1385874000000,1388552400000,1391230800000,1393650000000,1396324800000,1398916800000,1401595200000,1404187200000,1406865600000,1409544000000,1412136000000,1414814400000,1417410000000,1420088400000,1422766800000,1425186000000,1427860800000,1430452800000,1433131200000,1435723200000,1438401600000,1441080000000,1443672000000,1446350400000,1448946000000],
+                        "tickInterval": 4,
+                        "type":"datetime",
+                        "labels": {
+                            "formatter": function(){
+                                return Highcharts.dateFormat("%b %y" ,this.value -1);
+                            },
+                            "rotation": -90,
+                            "align": "right",
+                            "style": {
+                                "font":"normal 11px Verdana, sans-serif",
+                            },
+                            "y":25,
+                            "x":5,
+                        }
+                    },
+                    "series": [{
+                        "name": "Actual Values",
+                        "type": "column",
+                        "data": [61108,57570,52274,51016,49473,48323,44679,41787,41176,37086,31704,26402,36062,41103,36603,30080,26210,25542,25601,22750,17719,14176,14134,12637,21296,23554,18573,16618,14551,12391,13620,13097,12767,14137,14039,11669,22636,24014,20594,18226,15374,14511,16455,16350,14706,0,0,0],
+                        "pointWidth":15,
+                        "color": "#3999d0",
+                        "borderColor": "#8BB6D9",
+                        "shadow":false
+                    }],
+                    "title": {
+                        "text": "",
+                        "style": {
+                            "margin": "10px 100px 0 0",
+                        }
+                    },
+                    "tooltip": {
+                        "formatter": function() {
+                            this.y += "";
+                            var   x = this.y.split();
+                            var  x1 = x[0];
+                            var  x2 = x.length > 1 ? "." + x[1] : "";
+                            var rgx = /(\d+)(\d{3})/;
+                            while (rgx.test(x1)) {
+                                x1 = x1.replace(rgx, "$1" + "," + "$2");
+                            }
+    
+                            return "<b>"+ this.series.name +"</b><br/>"
+                            +"Time Period: "+
+                            Highcharts.dateFormat("%b %Y" ,this.x) +
+                            "<br/>"+"Value: "+
+                            (x1 + x2) + "";
+                        } 
+                    },
+                    "yAxis": 
+    {
+        "title": 
+    {
+        "text": "Number",
+        "useHTML": true,
+        "rotation": -90,
+        "offset":80,
+        "style":{
+            "width": "285px",
+            "font-size": "11px"
+        }
+    },
+        "labels": 
+    {
+        "formatter": function() {
+            if(typeof(scale) != "undefined") {
+                this.value = this.value/scale;
+            }
+            this.value+= "";
+            x = this.value.split(".");
+            var x1 = x[0];
+            var x2 = x.length > 1 ? "." + x[1] : "";
+       
+            var rgx = /(\d+)(\d{3})/;
+            while (rgx.test(x1)) {
+                x1 = x1.replace(rgx, "$1" + "," + "$2");
+            }
+            var y = x1+ x2;
+            if(this.value > 1000000)
+                return this.value/1000000;
+            else
+                return y;
+        }
+    },
+        "gridLineColor":"#dff1ff",
+        "maxPadding":.1
+    },
+                    "legend": {
+                        "symbolPadding": 30,
+                        "verticalAlign":"bottom",
+                        "shadow": true,
+                        "y":5,
+                        "x":20,
+                        "align": "left",
+                        "borderWidth": 0
+                    },
+                    "labels": {
+                        "items": [{
+                            "html": "",
+                            "style": {
+                                "left":"-40px",
+                                "top": "150px"
+                            }
+                        }]
+                    },
+                    "exporting": {
+                        "enabled": true,
+                    }
+                });
+            });
+        </script>
+                                    </div>
+                                                    </div>
+                    </div>
+                </div>
+                                <div id="apg_pi_accordion1" class="accordion_header accordion_collapsed" tabindex="0" aria-controls="Performance Indicator Panel2">
+                    <h3>Ratio of complete retirement submissions received from agencies</h3>
+                </div>
+                <div class="accordion_content" aria-labeledby="Performance Indicator Tab2" aria-hidden="true">
+
+                    <div class="accordion_tabs">
+    <!--                     <ul>
+                            <li><a href="#indicators-overview">Overview</a></li>
+                            <li><a href="#indicators-explanation">Date & Explanation</li>
+                            <li><a href="#indicators-details">Indicator Details</a></li>
+                        </ul> -->
+                        <div class="overview">
+                            <div class="data" id="overview-content">
+                                <p><p>Increase the number of retirement records OPM receives that are complete and do not require development actions. The application audit process was revised in March 2012.  Audits are now conducted on a monthly basis. Audit definitions were expanded in October 2013 to include more error conditions.</p>
+</p>
+                            </div>
+                        </div>
+                        <div class="explanation">
+                            <div class="data" id="explanation-content">
+                                <table>
+                                    <caption>Indicator target and actual value information</caption>
+                                    <tr>
+                                        <th>Fiscal Year Quarter</th>
+                                        <th>Period Ending (Month, Year)</th>
+                                        <th>Target Value</th>
+                                        <th>Actual Value</th>
+                                        <th>Explanation of Actual</th>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2012-Q4</td>
+                                        <td>September, 2012</td>
+                                        <td>81</td>
+                                        <td>85</td>
+                                        <td><p>The goal was reached as the number of cases that were complete and required no development action was 85%.</p>
+</td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2013-Q1</td>
+                                        <td>October, 2012</td>
+                                        <td>81</td>
+                                        <td>89</td>
+                                        <td><p>The goal was reached as the number of cases that were complete and required no development action was 89%</p>
+</td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2013-Q1</td>
+                                        <td>November, 2012</td>
+                                        <td>81</td>
+                                        <td>87</td>
+                                        <td><p>The goal was reached as the number of cases that were complete and required no development action was 87%.The goal was reached as the number of cases that were complete and required no development action was 87%.</p>
+</td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2013-Q1</td>
+                                        <td>December, 2012</td>
+                                        <td>81</td>
+                                        <td>90</td>
+                                        <td><p>The goal was reached as the number of cases that were complete and required no development action was 90%.</p>
+</td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2013-Q2</td>
+                                        <td>January, 2013</td>
+                                        <td>81</td>
+                                        <td>82</td>
+                                        <td><p>The goal was reached as the number of cases that were complete and required no development action was 82%.</p>
+</td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2013-Q2</td>
+                                        <td>February, 2013</td>
+                                        <td>81</td>
+                                        <td>91</td>
+                                        <td><p>The goal was reached as the number of cases that were complete and required no development action was 91%.</p>
+</td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2013-Q2</td>
+                                        <td>March, 2013</td>
+                                        <td>81</td>
+                                        <td>93</td>
+                                        <td><p>The goal was reached as the number of cases that were complete and required no development action was 93%.</p>
+</td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2013-Q3</td>
+                                        <td>April, 2013</td>
+                                        <td>81</td>
+                                        <td>95</td>
+                                        <td><p>The goal was reached as the number of cases that were complete and required no development action was 95%.</p>
+</td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2013-Q3</td>
+                                        <td>May, 2013</td>
+                                        <td>81</td>
+                                        <td>98</td>
+                                        <td><p>The goal was reached as the number of cases that were complete and required no development action was 98%.</p>
+</td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2013-Q3</td>
+                                        <td>June, 2013</td>
+                                        <td>81</td>
+                                        <td>87</td>
+                                        <td><p>The goal was reached as the number of cases that were complete and required no development action was 87%.</p>
+</td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2013-Q4</td>
+                                        <td>July, 2013</td>
+                                        <td>81</td>
+                                        <td>91</td>
+                                        <td><p>The goal was reached as the number of cases that were complete and required no development action was 91%.</p>
+</td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2013-Q4</td>
+                                        <td>August, 2013</td>
+                                        <td>81</td>
+                                        <td>89</td>
+                                        <td><p>The goal was reached as the number of cases that were complete and required no development action was 89%.</p>
+</td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2013-Q4</td>
+                                        <td>September, 2013</td>
+                                        <td>81</td>
+                                        <td>90</td>
+                                        <td><p>The goal was reached as the number of cases that were complete and required no development action was 90%.</p>
+</td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2014-Q1</td>
+                                        <td>October, 2013</td>
+                                        <td>92</td>
+                                        <td>83</td>
+                                        <td><p>On October 1, 2013, the error definitions were expanded to include 19 additional error conditions that had not previously been charged as errors. The number of cases that were complete and required no development action was 83%.</p>
+</td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2014-Q1</td>
+                                        <td>November, 2013</td>
+                                        <td>92</td>
+                                        <td>84</td>
+                                        <td><p>The number of cases that were complete and required no development action was 84%.</p>
+</td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2014-Q1</td>
+                                        <td>December, 2013</td>
+                                        <td>92</td>
+                                        <td>82</td>
+                                        <td><p>The number of cases that were complete and required no development action was 82%.</p>
+</td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2014-Q2</td>
+                                        <td>January, 2014</td>
+                                        <td>92</td>
+                                        <td>81</td>
+                                        <td><p>The number of cases that were complete and required no development action was 81%.</p>
+</td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2014-Q2</td>
+                                        <td>February, 2014</td>
+                                        <td>92</td>
+                                        <td>83</td>
+                                        <td><p>The number of cases that were complete and required no development action was 83%.</p>
+</td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2014-Q2</td>
+                                        <td>March, 2014</td>
+                                        <td>92</td>
+                                        <td>82</td>
+                                        <td><p>The number of cases that were complete and required no development action was 82%.</p>
+</td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2014-Q3</td>
+                                        <td>April, 2014</td>
+                                        <td>92</td>
+                                        <td>83</td>
+                                        <td><p>The number of cases that were complete and required no development action was 83%.</p>
+</td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2014-Q3</td>
+                                        <td>May, 2014</td>
+                                        <td>92</td>
+                                        <td>85</td>
+                                        <td><p>The number of cases that were complete and required no development action was 85%.</p>
+</td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2014-Q3</td>
+                                        <td>June, 2014</td>
+                                        <td>92</td>
+                                        <td>86</td>
+                                        <td><p>The number of cases that were complete and required no development action was 86%.</p>
+</td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2014-Q4</td>
+                                        <td>July, 2014</td>
+                                        <td>88</td>
+                                        <td>92</td>
+                                        <td><p>The number of cases that were complete and required no development action was 88%.</p>
+</td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2014-Q4</td>
+                                        <td>August, 2014</td>
+                                        <td>92</td>
+                                        <td>86</td>
+                                        <td><p>The number of cases that were complete and required no development action was 86%.</p>
+</td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2014-Q4</td>
+                                        <td>September, 2014</td>
+                                        <td>92</td>
+                                        <td>87</td>
+                                        <td><p>On October 1, 2013, the error definitions were expanded to include 19 additional error conditions that had not previously been changed as errors. Rather than change the FY 2014 target, OPM used FY 2014 to establish a new baseline. Although the expanded definition brought down the error rate, it ultimately leads to a greater number of complete application submissions. Given this expanded definition and the result; OPM adjusted the FY 2015 target to 85 percent. In September 2014, 87% of retirement package submissions were complete and required no development action.</p>
+</td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2015-Q1</td>
+                                        <td>October, 2014</td>
+                                        <td>85</td>
+                                        <td>87</td>
+                                        <td><p>87% of retirement package submissions were complete and required no development action. 5,132 complete retirement claims were submitted out of the 5,883 reviewed.</p>
+</td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2015-Q1</td>
+                                        <td>November, 2014</td>
+                                        <td>85</td>
+                                        <td>89</td>
+                                        <td><p>89% of retirement package submissions were complete and required no development action. 6,237 complete retirement claims were submitted out of the 6,996 reviewed.</p>
+</td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2015-Q1</td>
+                                        <td>December, 2014</td>
+                                        <td>85</td>
+                                        <td>85</td>
+                                        <td><p>85% of retirement package submissions were complete and required no development action. 3,632 complete retirement claims were submitted out of the 4.282 reviewed.</p>
+</td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2015-Q2</td>
+                                        <td>January, 2015</td>
+                                        <td>85</td>
+                                        <td>88</td>
+                                        <td><p>88 percent of retirement package submissions were complete and required no development action. Of the 4,965 retirement submissions reviewed, 4,353 were complete.</p>
+</td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2015-Q2</td>
+                                        <td>February, 2015</td>
+                                        <td>85</td>
+                                        <td>87</td>
+                                        <td><p>87 percent of retirement package submissions were complete and required no development action. Of the 8,571 retirement submissions reviewed, 7,500 were complete.</p>
+</td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2015-Q2</td>
+                                        <td>March, 2015</td>
+                                        <td>85</td>
+                                        <td>86</td>
+                                        <td><p>86 percent of retirement package submissions were complete and required no development action. Of the 10,968 retirement submissions reviewed, 9,425 were complete.</p>
+</td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2015-Q3</td>
+                                        <td>April, 2015</td>
+                                        <td>85</td>
+                                        <td>88.5</td>
+                                        <td><p>Of the 5,063 retirement submissions reviewed, 4,479, or 88.5 percent, were complete and required no development action.</p>
+</td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2015-Q3</td>
+                                        <td>May, 2015</td>
+                                        <td>85</td>
+                                        <td>89</td>
+                                        <td><p>Of the 3,194 retirement submissions reviewed, 2,843, or 89 percent, were complete and required no development action.</p>
+</td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2015-Q3</td>
+                                        <td>June, 2015</td>
+                                        <td>85</td>
+                                        <td>88.7</td>
+                                        <td><p>Of the 5,057 retirement submissions reviewed, 4,487, or 89 percent, were complete and required no development action.</p>
+</td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2015-Q4</td>
+                                        <td>July, 2015</td>
+                                        <td>85</td>
+                                        <td>86.4</td>
+                                        <td><p>Of the 3,791 retirement submissions reviewed, 3,276, or 86.4 percent, were complete and required no development action.</p>
+</td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2015-Q4</td>
+                                        <td>August, 2015</td>
+                                        <td>85</td>
+                                        <td>89.1</td>
+                                        <td><p>Of the 4,887 retirement submissions reviewed, 4,356, or 89.1 percent, were complete and required no development action.</p>
+</td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2015-Q4</td>
+                                        <td>September, 2015</td>
+                                        <td>85</td>
+                                        <td>90.3</td>
+                                        <td><p>Of the 4,263 retirement submissions reviewed, 3,851, or 90.3 percent, were complete and required no development action.</p>
+</td>
+                                    </tr>
+                                                                    </table>
+                            </div>
+                        </div>
+                        <div class="details">
+                            <div class="data" id="details-content">
+                                <div class='data-items'><span>Indicator Statement:</span> <p>Ratio of complete retirement submissions received from agencies</p>
+</div>                                <div class='data-items'><span>Indicator Overview:</span> <p>Increase the number of retirement records OPM receives that are complete and do not require development actions. The application audit process was revised in March 2012.  Audits are now conducted on a monthly basis. Audit definitions were expanded in October 2013 to include more error conditions.</p>
+</div>                                <div class='data-items'><span>Unit Of Measurement:</span> Percentage</div>                                <div class='data-items'><span>Indicator Reporting Frequency:</span> Monthly</div>                                <div class='data-items'><span>Indicator Data Timeliness:</span> <p>The percentage of new claims with errors is reported monthly on the OPM website and a detailed report is provided to the Agency Benefits Officers for each agency and Chief Human Capital Officers.</p>
+<p> </p>
+</div>                                <div class='data-items'><span>Indicator Direction:</span> INCREASING</div>                                                            </div>
+                        </div>
+                    </div>
+                    <div id="container1">
+                        <div>
+                                                            <div class="field-graph">
+                                    
+            <script>
+            jQuery(function ($) {
+                $("#container1").highcharts({
+                    "chart": {
+                        "type": "column",
+                        "height": 350,
+                        "width": 530,
+                        "marginBottom": 115,
+                        "marginTop": 35,
+                        "marginLeft": 100,
+                        "marginRight": 5,
+                        "style": {
+                            "overflow": "visible"
+                        }
+                    },
+                    "credits":{
+                        "enabled": false,
+                    },
+                    "plotOptions": {
+                        "series": {
+                            "stacking": "normal",
+                        }
+                    },
+                    "toolbar": {
+                        "itemStyle": {
+                            "color": "#ff0000",
+                            "cursor": "pointer",
+                            "position": "absolute",
+                            "right": "100px"
+                        }
+                    },
+                    "xAxis": {
+                        "tickmarkPlacement": "on",
+                        "categories": [1346472000000,1349064000000,1351742400000,1354338000000,1357016400000,1359694800000,1362114000000,1364788800000,1367380800000,1370059200000,1372651200000,1375329600000,1378008000000,1380600000000,1383278400000,1385874000000,1388552400000,1391230800000,1393650000000,1396324800000,1398916800000,1401595200000,1404187200000,1406865600000,1409544000000,1412136000000,1414814400000,1417410000000,1420088400000,1422766800000,1425186000000,1427860800000,1430452800000,1433131200000,1435723200000,1438401600000,1441080000000],
+                        "tickInterval": 4,
+                        "type":"datetime",
+                        "labels": {
+                            "formatter": function(){
+                                return Highcharts.dateFormat("%b %y" ,this.value -1);
+                            },
+                            "rotation": -90,
+                            "align": "right",
+                            "style": {
+                                "font":"normal 11px Verdana, sans-serif",
+                            },
+                            "y":25,
+                            "x":5,
+                        }
+                    },
+                    "series": [{
+                        "name": "Actual Values",
+                        "type": "column",
+                        "data": [85,89,87,90,82,91,93,95,98,87,91,89,90,83,84,82,81,83,82,83,85,86,92,86,87,87,89,85,88,87,86,88.5,89,88.7,86.4,89.1,90.3],
+                        "pointWidth":15,
+                        "color": "#3999d0",
+                        "borderColor": "#8BB6D9",
+                        "shadow":false
+                    }],
+                    "title": {
+                        "text": "",
+                        "style": {
+                            "margin": "10px 100px 0 0",
+                        }
+                    },
+                    "tooltip": {
+                        "formatter": function() {
+                            this.y += "";
+                            var   x = this.y.split();
+                            var  x1 = x[0];
+                            var  x2 = x.length > 1 ? "." + x[1] : "";
+                            var rgx = /(\d+)(\d{3})/;
+                            while (rgx.test(x1)) {
+                                x1 = x1.replace(rgx, "$1" + "," + "$2");
+                            }
+    
+                            return "<b>"+ this.series.name +"</b><br/>"
+                            +"Time Period: "+
+                            Highcharts.dateFormat("%b %Y" ,this.x) +
+                            "<br/>"+"Value: "+
+                            (x1 + x2) + " %";
+                        } 
+                    },
+                    "yAxis": 
+    {
+        "ceiling": 100,
+        "floor": 0,
+        "title": 
+    {
+        "text": "Percentage %",
+        "useHTML": true,
+        "rotation": -90,
+        "offset":80,
+        "style":{
+            "width": "285px",
+            "font-size": "11px"
+        }
+    },
+        "labels": 
+    {
+        "formatter": function() {
+            if(typeof(scale) != "undefined") {
+                this.value = this.value/scale;
+            }
+            this.value+= "";
+            x = this.value.split(".");
+            var x1 = x[0];
+            var x2 = x.length > 1 ? "." + x[1] : "";
+       
+            var rgx = /(\d+)(\d{3})/;
+            while (rgx.test(x1)) {
+                x1 = x1.replace(rgx, "$1" + "," + "$2");
+            }
+            var y = x1+ x2;
+            if(this.value > 1000000)
+                return this.value/1000000;
+            else
+                return y;
+        }
+    },
+        "gridLineColor":"#dff1ff",
+        "maxPadding":.1
+    },
+                    "legend": {
+                        "symbolPadding": 30,
+                        "verticalAlign":"bottom",
+                        "shadow": true,
+                        "y":5,
+                        "x":20,
+                        "align": "left",
+                        "borderWidth": 0
+                    },
+                    "labels": {
+                        "items": [{
+                            "html": "",
+                            "style": {
+                                "left":"-40px",
+                                "top": "150px"
+                            }
+                        }]
+                    },
+                    "exporting": {
+                        "enabled": true,
+                    }
+                });
+            });
+        </script>
+                                    </div>
+                                                    </div>
+                    </div>
+                </div>
+                                <div id="apg_pi_accordion2" class="accordion_header accordion_collapsed" tabindex="0" aria-controls="Performance Indicator Panel3">
+                    <h3>90 percent of claims within 60 days</h3>
+                </div>
+                <div class="accordion_content" aria-labeledby="Performance Indicator Tab3" aria-hidden="true">
+
+                    <div class="accordion_tabs">
+    <!--                     <ul>
+                            <li><a href="#indicators-overview">Overview</a></li>
+                            <li><a href="#indicators-explanation">Date & Explanation</li>
+                            <li><a href="#indicators-details">Indicator Details</a></li>
+                        </ul> -->
+                        <div class="overview">
+                            <div class="data" id="overview-content">
+                                <p><p>Percent of pending annuity claims processed within 60 days.</p>
+</p>
+                            </div>
+                        </div>
+                        <div class="explanation">
+                            <div class="data" id="explanation-content">
+                                <table>
+                                    <caption>Indicator target and actual value information</caption>
+                                    <tr>
+                                        <th>Fiscal Year Quarter</th>
+                                        <th>Period Ending (Month, Year)</th>
+                                        <th>Target Value</th>
+                                        <th>Actual Value</th>
+                                        <th>Explanation of Actual</th>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2014-Q3</td>
+                                        <td>May, 2014</td>
+                                        <td>90</td>
+                                        <td>76.6</td>
+                                        <td><p>Reflects the percentage of pending claims processed in 60 days or less.</p>
+</td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2014-Q3</td>
+                                        <td>June, 2014</td>
+                                        <td>90</td>
+                                        <td>77.3</td>
+                                        <td><p>Reflects the percentage of pending claims processed in 60 days or less.</p>
+</td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2014-Q4</td>
+                                        <td>July, 2014</td>
+                                        <td>90</td>
+                                        <td>77.9</td>
+                                        <td><p>Reflects the percentage of pending claims processed in 60 days or less.</p>
+</td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2014-Q4</td>
+                                        <td>August, 2014</td>
+                                        <td>90</td>
+                                        <td>78.5</td>
+                                        <td><p>Reflects the percentage of pending claims processed in 60 days or less.</p>
+</td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2014-Q4</td>
+                                        <td>September, 2014</td>
+                                        <td>90</td>
+                                        <td>78.8</td>
+                                        <td><p>Reflects the percentage of pending claims processed in 60 days or less.</p>
+</td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2015-Q1</td>
+                                        <td>October, 2014</td>
+                                        <td>90</td>
+                                        <td>83.2</td>
+                                        <td><p>Of the 8,511 total pending claims (cumulative fiscal year to date), 7,079 were processed within 60 days.  Claims that are outside of OPM's control - i.e. claims where OPM is waiting on other entities (e.g. Social Security, National Personnel Record Center, other Federal Agencies, court decisions, etc…) artificially inflates the processing time. OPM continues to search for process improvements with these types of claims.</p>
+</td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2015-Q1</td>
+                                        <td>November, 2014</td>
+                                        <td>90</td>
+                                        <td>83.4</td>
+                                        <td><p>Of the 14,355 total pending claims (cumulative fiscal year to date), 11,970 were processed within 60 days. See further explanation in the October 2014 Explanation of Actual section.</p>
+</td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2015-Q1</td>
+                                        <td>December, 2014</td>
+                                        <td>90</td>
+                                        <td>83.7</td>
+                                        <td><p>Of the 20,802 total pending claims (cumulative fiscal year to date), 17,404 were processed within 60 days. See further explanation in the October 2014 Explanation of Actual section.</p>
+</td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2015-Q2</td>
+                                        <td>January, 2015</td>
+                                        <td>90</td>
+                                        <td>80.2</td>
+                                        <td><p>Of the 28,464 total pending claims (cumulative fiscal year to date), 22,808 were processed within 60 days. See further explanation in the October 2014 Explanation of Actual section.</p>
+</td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2015-Q2</td>
+                                        <td>February, 2015</td>
+                                        <td>90</td>
+                                        <td>80.6</td>
+                                        <td><p>Of the 36,305 total pending claims (cumulative fiscal year to date), 29,241 were processed within 60 days. See further explanation in the October 2014 Explanation of Actual section.</p>
+</td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2015-Q2</td>
+                                        <td>March, 2015</td>
+                                        <td>90</td>
+                                        <td>81.6</td>
+                                        <td><p>Of the 45,203 total pending claims (cumulative fiscal year to date), 36,891 were processed within 60 days. Claims that are outside of OPM’s control - i.e. claims where OPM is waiting on other entities (e.g. Social Security, National Personnel Records Center, other Federal Agencies, court decisions, etc…) artificially inflate the processing time. OPM continues to search for process improvements with these types of claims, coordinating with other agencies as necessary.  For example, OPM meets biweekly with both the U.S. Postal Service and National Personnel Records Center to address common issues attendant to retirement processing. </p>
+</td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2015-Q3</td>
+                                        <td>April, 2015</td>
+                                        <td>90</td>
+                                        <td>72.6</td>
+                                        <td><p>Of the 53,863 total pending claims (cumulative fiscal year to date), OPM processed 39,115 within 60 days. In April, OPM processed 2,224 of 8,660 cases, or 25.7 percent, within 60 days.</p>
+</td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2015-Q3</td>
+                                        <td>May, 2015</td>
+                                        <td>90</td>
+                                        <td>68</td>
+                                        <td></td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2015-Q3</td>
+                                        <td>June, 2015</td>
+                                        <td>90</td>
+                                        <td>68.7</td>
+                                        <td><p>Of the 72,343 total pending claims (cumulative fiscal year to date), OPM processed 49,688 within 60 days. In June, OPM processed 5,795 of 7,783 cases, or 74.5 percent, within 60 days. On average, cases processed in 60 days or less took 42 days to complete.  On average, cases taking longer than 60 day to process took 87 days to complete.  Quite often, the delay occurred due to the need for additional information from the losing agency or the retiree to make an election.  Overall, the average processing time is 56 days. Claims that are outside of OPM’s control - i.e. claims where OPM is waiting on other entities (e.g. Social Security, National Personnel Records Center, other Federal Agencies, court decisions, etc…) artificially inflate the processing time. OPM continues to search for process improvements with these types of claims, coordinating with other agencies as necessary.  For example, OPM meets biweekly with both the U.S. Postal Service and National Personnel Records Center to address common issues attendant to retirement processing. OPM typically receives a surge of retirement claims at the beginning of the calendar year. In FY 2015, the surge included approximately 30,000 new claims, exceeding projections and stretching from January into February. In previous years, OPM has hired additional staff at the beginning of the fiscal year to offset the increased workload. Due to resource constraints, OPM was not able to use this approach in FY 2015.</p>
+</td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2015-Q4</td>
+                                        <td>July, 2015</td>
+                                        <td>90</td>
+                                        <td>69.0</td>
+                                        <td><p>Of the 80,261 total pending claims (cumulative fiscal year to date), OPM processed 55,394 within 60 days. In July, OPM processed 5,706 of 7,918 cases, or 72.1 percent, within 60 days. On average, cases processed in 60 days or less took 42 days to complete.  On average, cases taking longer than 60 day to process took 88 days to complete.  OPM typically receives a surge of retirement claims at the beginning of the calendar year. In FY 2015, the surge included approximately 30,000 new claims, exceeding projections and stretching from January into February. In previous years, OPM has hired additional staff at the beginning of the fiscal year to offset the increased workload. Due to resource constraints, OPM was not able to use this approach in FY 2015.</p>
+</td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2015-Q4</td>
+                                        <td>August, 2015</td>
+                                        <td>90</td>
+                                        <td>69.6</td>
+                                        <td><p>Of the 87,707 total pending claims (cumulative fiscal year to date), OPM processed 61,019 within 60 days. In August, OPM processed 5,625 of 7,446 cases, or 75.5 percent, within 60 days. On average, cases processed in 60 days or less took 42 days to complete.  On average, cases taking longer than 60 day to process took 88 days to complete.  OPM typically receives a surge of retirement claims at the beginning of the calendar year. In FY 2015, the surge included approximately 30,000 new claims, exceeding projections and stretching from January into February. In previous years, OPM has hired additional staff at the beginning of the fiscal year to offset the increased workload. Due to resource constraints, OPM was not able to use this approach in FY 2015.</p>
+</td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>2015-Q4</td>
+                                        <td>September, 2015</td>
+                                        <td>90</td>
+                                        <td>70.1</td>
+                                        <td><p>Of the 95,651 total pending claims (cumulative fiscal year to date), OPM processed 67,029 within 60 days. In September, OPM processed 6,010 of 7,944 cases, or 75.7 percent, within 60 days. On average, cases processed in 60 days or less took 42 days to complete.  On average, cases taking longer than 60 day to process took 89 days to complete.  OPM typically receives a surge of retirement claims at the beginning of the calendar year. In FY 2015, the surge included approximately 30,000 new claims, exceeding projections and stretching from January into February. In previous years, OPM has hired additional staff at the beginning of the fiscal year to offset the increased workload. Due to resource constraints, OPM was not able to use this a</p>
+</td>
+                                    </tr>
+                                                                    </table>
+                            </div>
+                        </div>
+                        <div class="details">
+                            <div class="data" id="details-content">
+                                <div class='data-items'><span>Indicator Statement:</span> <p>90 percent of claims within 60 days</p>
+</div>                                <div class='data-items'><span>Indicator Overview:</span> <p>Percent of pending annuity claims processed within 60 days.</p>
+</div>                                <div class='data-items'><span>Unit Of Measurement:</span> Percent</div>                                <div class='data-items'><span>Indicator Reporting Frequency:</span> Monthly</div>                                <div class='data-items'><span>Indicator Data Timeliness:</span> <p>Data is extracted from existing information systems.  The measure is calculated monthly without lag time.</p>
+</div>                                <div class='data-items'><span>Indicator Direction:</span> INCREASING</div>                                                            </div>
+                        </div>
+                    </div>
+                    <div id="container2">
+                        <div>
+                                                            <div class="field-graph">
+                                    
+            <script>
+            jQuery(function ($) {
+                $("#container2").highcharts({
+                    "chart": {
+                        "type": "column",
+                        "height": 350,
+                        "width": 530,
+                        "marginBottom": 115,
+                        "marginTop": 35,
+                        "marginLeft": 100,
+                        "marginRight": 5,
+                        "style": {
+                            "overflow": "visible"
+                        }
+                    },
+                    "credits":{
+                        "enabled": false,
+                    },
+                    "plotOptions": {
+                        "series": {
+                            "stacking": "normal",
+                        }
+                    },
+                    "toolbar": {
+                        "itemStyle": {
+                            "color": "#ff0000",
+                            "cursor": "pointer",
+                            "position": "absolute",
+                            "right": "100px"
+                        }
+                    },
+                    "xAxis": {
+                        "tickmarkPlacement": "on",
+                        "categories": [1398916800000,1401595200000,1404187200000,1406865600000,1409544000000,1412136000000,1414814400000,1417410000000,1420088400000,1422766800000,1425186000000,1427860800000,1430452800000,1433131200000,1435723200000,1438401600000,1441080000000],
+                        "tickInterval": 1,
+                        "type":"datetime",
+                        "labels": {
+                            "formatter": function(){
+                                return Highcharts.dateFormat("%b %y" ,this.value -1);
+                            },
+                            "rotation": -90,
+                            "align": "right",
+                            "style": {
+                                "font":"normal 11px Verdana, sans-serif",
+                            },
+                            "y":25,
+                            "x":5,
+                        }
+                    },
+                    "series": [{
+                        "name": "Actual Values",
+                        "type": "column",
+                        "data": [76.6,77.3,77.9,78.5,78.8,83.2,83.4,83.7,80.2,80.6,81.6,72.6,68,68.7,69,69.6,70.1],
+                        "pointWidth":15,
+                        "color": "#3999d0",
+                        "borderColor": "#8BB6D9",
+                        "shadow":false
+                    }],
+                    "title": {
+                        "text": "",
+                        "style": {
+                            "margin": "10px 100px 0 0",
+                        }
+                    },
+                    "tooltip": {
+                        "formatter": function() {
+                            this.y += "";
+                            var   x = this.y.split();
+                            var  x1 = x[0];
+                            var  x2 = x.length > 1 ? "." + x[1] : "";
+                            var rgx = /(\d+)(\d{3})/;
+                            while (rgx.test(x1)) {
+                                x1 = x1.replace(rgx, "$1" + "," + "$2");
+                            }
+    
+                            return "<b>"+ this.series.name +"</b><br/>"
+                            +"Time Period: "+
+                            Highcharts.dateFormat("%b %Y" ,this.x) +
+                            "<br/>"+"Value: "+
+                            (x1 + x2) + "";
+                        } 
+                    },
+                    "yAxis": 
+    {
+        "title": 
+    {
+        "text": "Percent",
+        "useHTML": true,
+        "rotation": -90,
+        "offset":80,
+        "style":{
+            "width": "285px",
+            "font-size": "11px"
+        }
+    },
+        "labels": 
+    {
+        "formatter": function() {
+            if(typeof(scale) != "undefined") {
+                this.value = this.value/scale;
+            }
+            this.value+= "";
+            x = this.value.split(".");
+            var x1 = x[0];
+            var x2 = x.length > 1 ? "." + x[1] : "";
+       
+            var rgx = /(\d+)(\d{3})/;
+            while (rgx.test(x1)) {
+                x1 = x1.replace(rgx, "$1" + "," + "$2");
+            }
+            var y = x1+ x2;
+            if(this.value > 1000000)
+                return this.value/1000000;
+            else
+                return y;
+        }
+    },
+        "gridLineColor":"#dff1ff",
+        "maxPadding":.1
+    },
+                    "legend": {
+                        "symbolPadding": 30,
+                        "verticalAlign":"bottom",
+                        "shadow": true,
+                        "y":5,
+                        "x":20,
+                        "align": "left",
+                        "borderWidth": 0
+                    },
+                    "labels": {
+                        "items": [{
+                            "html": "",
+                            "style": {
+                                "left":"-40px",
+                                "top": "150px"
+                            }
+                        }]
+                    },
+                    "exporting": {
+                        "enabled": true,
+                    }
+                });
+            });
+        </script>
+                                    </div>
+                                                    </div>
+                    </div>
+                </div>
+                            
+                    </div>
+            </div>
+            <div id="otherContributors">
+            <div class="overview-wrapper" role="complementary">
+                <h2>Contributing Programs & Other Factors</h2>
+                <div>
+                    <p>Retirement Services with support from the Chief Information Officer and Congressional, Legislative and Intergovernmental Affairs</p>
+                </div>
+            </div>
+        </div>
+        <div id="relgoals">
+        <div class="overview-wrapper" role="complementary">
+                                            <b><a id="expand" href="408.1.html#" onclick="custExpandAll();">Expand All</a></b>
+                                                    <h2>Strategic Goals </h2>
+                                                <div id="apg_sg_accordion0" class="accordion_header accordion_collapsed">
+                    <h3>Strategic Goal: </h3>
+                    <p>SG7 Improved Retirement Benefit Service</p>
+                </div>
+                <div class="accordion_content accordion_first_layer">
+                    <div class="normal_copy"><p><b>Statement</b>: <p>Ensure that Federal retirees receive timely, appropriate, transparent, seamless, and accurate retirement benefits.</p>
+</p></div>
+                    <div class="overview-wrapper" role="complementary">
+                                                    <h3>Strategic Objectives </h3>
+                                                                        <div id="apg_sg_so_accordion0" class="accordion_header accordion_collapsed">
+                            <h4><a href="../content/sg0701-prepare-federal-workforce-retirement-entry-duty-across-every-stage-employee-life-2%3Fview=public.html">SG07.01 Prepare the Federal workforce for retirement from entry-on-duty across every stage of the employee life-cycle </a></h4>
+                        </div>
+                        <div class="accordion_content accordion_second_layer">
+                            <div>
+                                <p><span class="acc_content_label">Statement:</span><p>Increase the percentage of all retirement data from agencies according to the required standard.</p>
+<p>Increase the percentage of retirement applications prepared through information systems that meet established standards and have been certified by OPM.</p>
+</p>
+                                <p><span class="acc_content_label">Description:</span><ul><li>Establishing shared responsibility among OPM offices and agencies to ensure consistent information, tools, and counseling to employees.</li>
+<li>Establishing government-wide data elements and standards spanning the employee life-cycle for management and receipt of timely and accurate employee data required for retirement.</li>
+<li>Establishing and enforcing standards for information systems used for management of retirement counseling and application preparation, and application transmittal.</li>
+<li>Promulgating policy harmonization and standards across Government and issue requirement for all agencies and payroll centers to provide data in an appropriate format.</li>
+<li>Continuing agency audits to improve quality of retirement submissions.</li>
+<li>Engaging employees across the employee life cycle in preparation for retirement.</li>
+</ul></p>
+                            </div>
+                            <p class="learn-more"><a href="../content/sg0701-prepare-federal-workforce-retirement-entry-duty-across-every-stage-employee-life-2%3Fview=public.html">Learn More</a></p>
+                            <div class="overview-wrapper" role="complementary">
+                                                                                            </div>
+                        </div>
+                                                <div id="apg_sg_so_accordion1" class="accordion_header accordion_collapsed">
+                            <h4><a href="../content/sg0702-advance-21st-century-customer-focused-retirement-processing-system-claims-0%3Fview=public.html">SG07.02 Advance the 21st century customer-focused retirement processing system for claims adjudication in a timely and accurate manner </a>                                <div class="star_wrapper">
+                                                                                      <img title="Indicates Agency Priority Goal." src="../sites/all/themes/performance/images/star.png" alt="*">
+                                                </div>
+                            </h4>
+                        </div>
+                        <div class="accordion_content accordion_second_layer">
+                            <div>
+                                <p><span class="acc_content_label">Statement:</span><p>Exceed established targets on processing retirement and survivor claims accurately as published in the Annual Performance Report.</p>
+<p>Improve the level of customer satisfaction as measured by customers satisfied with overall retirement services.</p>
+<p>Exceed the targets established to reduce improper payments in the retirement program as outlined in the annual Agency Financial Report.</p>
+</p>
+                                <p><span class="acc_content_label">Description:</span><ul><li>Investing in information technology tools and solutions such as the development of a full case management and workflow capability to facilitate payment of accurate and timely benefits payments.</li>
+<li>Using performance measures to ensure quality customer service.</li>
+<li>Strengthening quality assurance processes, policies, and procedures.</li>
+<li>Ensuring continued focus on addressing and reducing improper payments.</li>
+<li>Using all tools available including the CARE Team, the LAS survey and the Customer Service Survey to identify customer service trends and prioritize areas where change is needed</li>
+<li>Delivering optimal customer service experiences by improving processes.</li>
+<li>Implementing best practices for receipt and use of electronic data.</li>
+<li>Issuing data standards for agencies and payroll providers and investing in the capability to receive data in appropriate standards.</li>
+<li>Issuing data standards for electronic application.</li>
+</ul></p>
+                            </div>
+                            <p class="learn-more"><a href="../content/sg0702-advance-21st-century-customer-focused-retirement-processing-system-claims-0%3Fview=public.html">Learn More</a></p>
+                            <div class="overview-wrapper" role="complementary">
+                                                                                            </div>
+                        </div>
+                                                <div id="apg_sg_so_accordion2" class="accordion_header accordion_collapsed">
+                            <h4><a href="../content/sg0703-improve-opm-service-federal-agency-benefit-officers-0%3Fview=public.html">SG07.03 Improve OPM service to Federal agency benefit officers </a></h4>
+                        </div>
+                        <div class="accordion_content accordion_second_layer">
+                            <div>
+                                <p><span class="acc_content_label">Statement:</span><p>Train and certify agency benefit/retirement officers who have not been trained on retirement services</p>
+</p>
+                                <p><span class="acc_content_label">Description:</span><ul><li>Developing an agency benefit officers’ service delivery model emphasizing shared responsibility for benefits/retirement among employees, OPM and agencies.</li>
+<li>Defining standards for agency benefit officers, measuring their results, and recognizing them for exceptional customer service.</li>
+<li>Develop training certification for agency benefit/retirement officers on retirement services.</li>
+</ul></p>
+                            </div>
+                            <p class="learn-more"><a href="../content/sg0703-improve-opm-service-federal-agency-benefit-officers-0%3Fview=public.html">Learn More</a></p>
+                            <div class="overview-wrapper" role="complementary">
+                                                                                            </div>
+                        </div>
+                                            </div>
+                    <div class="overview-wrapper" role="complementary">
+                                                    <h3>Agency Priority Goals </h3>
+                                                                        <div id="apg_sg_pg_accordion0" class="accordion_header accordion_collapsed">
+                            <h4><a href="../content/pg1-retirement-claims-processing-improvements%3Fview=public.html">FY14-15 PG1 Retirement claims processing improvements</a></h4>
+                        </div>
+                        <div class="accordion_content accordion_second_layer">
+                            <p><span class="acc_content_label">Statement:</span><p>Reduce Federal retirement processing time by making comprehensive improvements and move toward electronic processing of all retirement applications. Starting July 1, 2014, process 90 percent of cases in 60 days or less. By the end of FY 2015, increase the use of services on-line by 25 percent (from a baseline of 367,000 annuitants), and increase the percentage of complete cases received from agencies to 95 percent or greater (from a baseline of 89 percent) with the long term goal of 100 percent of cases received as complete.In addition, by FY 2015, OPM will develop capabilities to receive electronic retirement applications.</p>
+</p>
+                            <p><span class="acc_content_label">Description:</span><p>The Office of Personnel Management (OPM) is responsible for the administration of the Federal Retirement Program covering over 2.7 million active employees and nearly 2.6 million annuitants. This responsibility is shared with agency partners who counsel their employees and administer the initial retirement application process, and submit the employee’s application, with all supporting documentation, to OPM’s Retirement Services.   OPM remains committed to improving all areas of retirement case related production by refining and implementing Lean Six Sigma activities, providing needed training and development, and diverting resources to areas needing concentrated efforts. In order to make comprehensive improvements to retirement claims processing, OPM will continue to focus on the following four pillars: People; Productivity and Process Improvement; Partnerships with Agencies; and Partial, Progressive IT Improvements.</p>
+<p> </p>
+</p>
+                            <p class="learn-more"><a href="../content/pg1-retirement-claims-processing-improvements%3Fview=public.html">Learn More</a></p>
+                        </div>
+                                            </div>
+                </div>
+                            </div>
+
+            <div class="overview-wrapper" role="complementary">
+                                    <h2>Strategic Objectives </h2>
+                                                <div id="apg_so_accordion0" class="accordion_header accordion_collapsed">
+                    <h3>Strategic Objective: </h3>
+                    <p><a href="../content/sg0702-advance-21st-century-customer-focused-retirement-processing-system-claims-0%3Fview=public.html">SG07.02 Advance the 21st century customer-focused retirement processing system for claims adjudication in a timely and accurate manner </a></p>
+                </div>
+                <div class="accordion_content accordion_first_layer">
+                    <div>
+                        <p><span class="acc_content_label">Statement:</span><p>Exceed established targets on processing retirement and survivor claims accurately as published in the Annual Performance Report.</p>
+<p>Improve the level of customer satisfaction as measured by customers satisfied with overall retirement services.</p>
+<p>Exceed the targets established to reduce improper payments in the retirement program as outlined in the annual Agency Financial Report.</p>
+</p>
+                        <p><span class="acc_content_label">Description:</span><ul><li>Investing in information technology tools and solutions such as the development of a full case management and workflow capability to facilitate payment of accurate and timely benefits payments.</li>
+<li>Using performance measures to ensure quality customer service.</li>
+<li>Strengthening quality assurance processes, policies, and procedures.</li>
+<li>Ensuring continued focus on addressing and reducing improper payments.</li>
+<li>Using all tools available including the CARE Team, the LAS survey and the Customer Service Survey to identify customer service trends and prioritize areas where change is needed</li>
+<li>Delivering optimal customer service experiences by improving processes.</li>
+<li>Implementing best practices for receipt and use of electronic data.</li>
+<li>Issuing data standards for agencies and payroll providers and investing in the capability to receive data in appropriate standards.</li>
+<li>Issuing data standards for electronic application.</li>
+</ul></p>
+                    </div>
+                    <p class="learn-more"><a href="../content/sg0702-advance-21st-century-customer-focused-retirement-processing-system-claims-0%3Fview=public.html">Learn More</a></p>
+                    <div class="overview-wrapper" role="complementary">
+                                                    <h3>Agency Priority Goals</h3>
+                                                                        <div id="apg_so_pg_accordion0" class="accordion_header accordion_collapsed">
+                            <h4><a href="../content/pg1-retirement-claims-processing-improvements%3Fview=public.html">FY14-15 PG1 Retirement claims processing improvements</a></h4>
+                        </div>
+                        <div class="accordion_content accordion_second_layer">
+                            <p><span class="acc_content_label">Statement:<span class="acc_content_label"><p>Reduce Federal retirement processing time by making comprehensive improvements and move toward electronic processing of all retirement applications. Starting July 1, 2014, process 90 percent of cases in 60 days or less. By the end of FY 2015, increase the use of services on-line by 25 percent (from a baseline of 367,000 annuitants), and increase the percentage of complete cases received from agencies to 95 percent or greater (from a baseline of 89 percent) with the long term goal of 100 percent of cases received as complete.In addition, by FY 2015, OPM will develop capabilities to receive electronic retirement applications.</p>
+</p>
+                            <p><span class="acc_content_label">Description:<span class="acc_content_label"><p>The Office of Personnel Management (OPM) is responsible for the administration of the Federal Retirement Program covering over 2.7 million active employees and nearly 2.6 million annuitants. This responsibility is shared with agency partners who counsel their employees and administer the initial retirement application process, and submit the employee’s application, with all supporting documentation, to OPM’s Retirement Services.   OPM remains committed to improving all areas of retirement case related production by refining and implementing Lean Six Sigma activities, providing needed training and development, and diverting resources to areas needing concentrated efforts. In order to make comprehensive improvements to retirement claims processing, OPM will continue to focus on the following four pillars: People; Productivity and Process Improvement; Partnerships with Agencies; and Partial, Progressive IT Improvements.</p>
+<p> </p>
+</p>
+                            <p class="learn-more"><a href="../content/pg1-retirement-claims-processing-improvements%3Fview=public.html">Learn More</a></p>
+                        </div>
+                                            </div>
+                </div>
+                            </div>
+        </div>
+    </div>
+
+
+<div class="agency-reports-wrapper" role="complementary">
+    <div class="agency-report">
+                <div class="float-left thumbnail">
+            <a href="http://www.opm.gov/gpra/opmgpra/  " target="_blank"><img src="https://s3.amazonaws.com/app_performance_prod_ahwdtloxcxcy/s3fs-public/report_thumbnail/OPM_ReportCover.png" alt="" /></a>
+        </div>
+                        <div class="float-left download">
+            <a href="http://www.opm.gov/gpra/opmgpra/  " target="_blank">
+                <img src="../sites/all/themes/performance/images/download-icon.png" alt="" /><br />
+                Download<br />
+                Featured Report
+            </a>
+        </div>
+                                            <div class="float-left links">
+                        <a href="http://www.opm.gov/about-us/budget-performance/" target="_blank">Agency Plans and Reports</a><br />
+                    </div>
+                                    <div class="float-left links">
+                        <a href="http://www.opm.gov/about-us/budget-performance/strategic-plans/2014-2018-strategic-plan.pdf" target="_blank">Agency Strategic Plan</a><br />
+                        <!-- <a href="http://www.google.com/" target="_blank">Agency Program Inventory</a> -->
+                    </div>
+                                    <div class="clear"></div>
+    </div>
+</div>
+    </div>
+<div class="clear"></div>
+</div>
+  </div>
+</div>
+  </div>
+      </div>
+    </div>
+    
+    <!-- Left Sidebar -->
+      
+    <!-- Right Sidebar -->
+      </div>
+  <!-- Footer -->
+  <div id="footer" role="footer" class="container-16">
+        <div id="footer-region">   <div class="region region-footer">
+    <div id="block-block-5" class="block block-block">
+
+    
+  <div class="content">
+    <ul class="top-row"><li><a href="../content/accessibility.html">Accessibility</a></li>
+<li><a href="../content/privacy-policy.html">Privacy Policy</a></li>
+</ul><p>&nbsp;</p>
+<ul class="bottom-row"><li><a class="usa_spend" href="http://www.usaspending.gov" target="_blank"><img alt="usaspending.gov" src="../sites/all/themes/performance/images/usaspending_logo17.png"></a></li>
+<li><a class="wh" href="http://www.whitehouse.gov" target="_blank"><img alt="whitehouse.gov" src="../sites/all/themes/performance/images/whitehouse17.png"></a></li>
+<li><a class="usa" href="http://www.usa.gov" target="_blank"><img alt="usa.gov" src="../sites/all/themes/performance/images/usagov_logo.png"></a></li>
+<li><a class="data" href="http://www.data.gov" target="_blank"><img alt="data.gov" src="../sites/all/themes/performance/images/datagov_logo.png"></a></li>
+</ul>  </div>
+</div>
+<div id="block-block-21" class="block block-block">
+
+    
+  <div class="content">
+    <div id="survey_target"></div>
+<noscript>
+  <iframe src="https://survey.usa.gov/surveys/221"></iframe>
+</noscript>
+<script  type="text/javascript" src="https://survey.usa.gov/widget/221/invitation.js?target_id=survey_target&stylesheet=https://www.performance.gov/sites/all/themes/performance/styles/survey.css&jquery=jq172"></script>
+
+<script id="_fed_an_js_tag" type="text/javascript" src="../sites/all/libraries/fed_analytics/federated-analytics.all.min.js%3Fagency=GSA"></script>
+
+<script>
+jQuery(document).ready( function() {
+   jQuery(function ($) {
+       $('input[id=edit-removenode]').hide();
+  });
+});
+</script>  </div>
+</div>
+<div id="block-block-82" class="block block-block">
+
+    
+  <div class="content">
+    <script> 
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ 
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), 
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) 
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga'); 
+
+  ga('send', 'pageview');
+  ga('create', 'UA-86562364-1', 'auto'); 
+
+</script>  </div>
+</div>
+  </div>
+ </div>
+      </div>
+</div>
+  
+</body>
+</html>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.performance.gov/rssfeedtest/3316" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>RSS Feed</title>
+    <link>https://www.performance.gov/rssfeedtest/3316</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.performance.gov/performance_rssfeed/3316?content_year_filter=All&amp;type_1=All" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Enforce Environmental Laws to Achieve Compliance.  </title>
+    <link>https://www.performance.gov/Enforce%20Environmental%20Laws%20to%20Achieve%20Compliance.%20%20</link>
+    <description>&lt;p&gt;Pursue vigorous civil and criminal enforcement that targets the most serious water, air, and chemical hazards in communities to achieve compliance.   Assure strong, consistent, and effective enforcement of federal environmental laws nationwide.  Use Next Generation Compliance strategies and tools to improve compliance and reduce pollution.&lt;/p&gt;
+</description>
+     <pubDate>04/22/2016 10:13:30</pubDate>
+ <dc:creator>3316</dc:creator>
+ <guid isPermaLink="false">3316</guid>
+  </item>
+  </channel>
+</rss>

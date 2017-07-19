@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?><data><Agency_Priority_Goal><Agency_ID>13</Agency_ID><Agency_Name>Office of Personnel Management</Agency_Name><Agency_Priority_Goal_ID>43552</Agency_Priority_Goal_ID><Fiscal_Year>FY16-17</Fiscal_Year><APG_Header>Cybersecurity Monitoring</APG_Header><APG_Statement>
+	
+		
+			
+			Continue enhancing the security of OPM's information systems by strengthening authentication and expanding the implementation of continuous monitoring.
+
+			OPM will increase the use of multi-factor strong authentication in multiple ways.&amp;nbsp; While OPM enforces Personal Identity Verification (PIV) authentication for its internal users, OPM targets PIV usage for OPM services at 50 percent of Federal users by the end of FY 2016.&amp;nbsp; By the end of FY 2017, OPM will enforce multi-factor authentication for 100 percent of all PIV-enabled users and 80 percent of non-PIV-enabled users.
+
+			OPM will increase its security posture by expanding the Information Security Continuous Monitoring (ISCM) capabilities throughout FY 2015.&amp;nbsp; Leveraging the Continuous Diagnostic and Mitigation (CDM) program, OPM will expand continuous diagnostic capabilities by increasing the network sensor capacity, automating sensor collections, and prioritizing risk alerts.&amp;nbsp; By the end of the second quarter of FY 2016, OPM will have acquired, implemented, and refined the four (4) CDM controls including vulnerability management, secure configuration management, hardware asset management, and software asset management.&amp;nbsp; These tools will increase OPM’s ability to identify and respond to security issues.&amp;nbsp; By the end of FY 2016, 95 percent&amp;nbsp;of OPM’s assets will be visible in the CDM dashboard.&amp;nbsp; In FY 2017, OPM will use the benchmarking results to identify and prioritize the implementation of other ISCM controls.
+
+			OPM will continue to pursue a number of additional actions as outlined in its Cybersecurity Monitoring goal.
+			
+		
+	
+
+</APG_Statement><APG_Overview>
+	
+		
+			
+			OPM stores more Personally Identifiable Information (PII) and other sensitive records than almost any other Federal agency. &amp;nbsp;This is a tremendous trust placed in the agency by the millions of current and former Federal employees, and one that OPM must continually earn through constant vigilance.
+
+			The prior breaches of OPM data make clear that cybersecurity must remain a priority for all agencies, but especially OPM.&amp;nbsp; As President Obama has said, “Both state and non-state actors are sending everything they’ve got at trying to breach these systems…And this problem is not going to go away.&amp;nbsp; It is going to accelerate.&amp;nbsp; And that means that we have to be as nimble, as aggressive, and as well-resourced as those who are trying to break into these systems.”
+
+			&amp;nbsp;In a world of evolving threats, there is no such thing as “total cybersecurity.” &amp;nbsp;But the actions outlined by OPM, and continued collaboration with Federal partners, Congress, and outside experts, will ensure that OPM has the tools it needs to safeguard its systems and protect our nation’s citizens and the men and women that serve the Federal Government.
+
+			This goal aligns with Administration cybersecurity priorities. The goal was established in coordination with OMB policies and guidance, to include the Cybersecurity Strategy and Implementation Plan (CSIP), the Fiscal Year 2015-2016 Guidance on Federal Information Security and Privacy Management Requirements, and the Cybersecurity CAP goal.
+			
+		
+	
+
+</APG_Overview><Goal_Leaders><Goal_Leader><goal_leader_name>David DeVries</goal_leader_name><goal_leader_title>Chief Information Officer</goal_leader_title><goal_leader_org>Office of the Chief Information Officer</goal_leader_org></Goal_Leader></Goal_Leaders><next_steps>
+1.&amp;nbsp; Expanding information security continuous monitoring – The agency will continue to aim for 100 percent implementation of tools by mitigating issues with the software management tool and utilizing the tool in its full capacity. OPM is also attending meetings with DHS and preparing for Phase 2 of CDM: Privileged Management.
+
+
+2.&amp;nbsp;&amp;nbsp;Multi Factor Authentication&amp;nbsp;– OPM will utilize the inventory created in Q3 as part of its planning efforts for multi-factor authentication by non-OPM users. OPM establish a plan detailing how it will meet its target in Q1 FY 2017.
+
+&amp;nbsp;
+3.&amp;nbsp; Reviewing encryption of databases – OPM will develop the necessary encryption of High Value Asset databases to meet the target for the related measure. OPM will develop a better understanding of the requirements and level of effort needed for encrypting each system.
+
+
+4.&amp;nbsp; Migrating to a new IT environment – OPM will continue to work on its data center consolidation initiative and prepare for systems migration. This planning effort includes the analysis and development of Analyses of Alternatives for some High Value Asset systems, preparation for the migration of a pilot system, and continued implementation of security controls. &amp;nbsp;OPM’s primary objective continues to be the fielding of a modern network that will improve the security of agency infrastructure and IT systems. The migration process to the new environment will adhere to the OPM System Development Lifecycle (SDLC), derived from Federal standards to manage OCIO Portfolios, Programs and Projects.
+
+
+5.&amp;nbsp; Ensuring compliance with the Federal Information Security Management Act (FISMA) – OPM will continue to tie IT program managers to performance standards to ensure a continued focus on FISMA matters.&amp;nbsp;OPM will adhere to its updated policies and processes to ensure consistent review of systems prior to authorization to operate, and centralize agency IT security management and accountability into the OCIO.&amp;nbsp;The agency will leverage the Plan of Actions and Milestones Management Review Board to help manage and improve its processes and work with the OIG to improve collaboration and to ensure the effective remediation of audit findings in a timely manner.
+
+</next_steps><progress_update>OPM continued its Continuous Diagnostic and Mitigation (CDM) implementation plan. As reported in Q3, all CDM tools for Phase 1 have been fully implemented and the agency is preparing for Phase 2. The configuration of the Phase 1 tools progressed while OPM awaited requirements from DHS on the Federal Dashboard. OPM worked with its integrator to resolve issues with the Archer dashboard and data feeds. Once completed, the OPM dashboard will display real-time status from the sensors provided by the CDM toolset.&amp;nbsp; In Q4, OPM reached its target of 95 percent of its network covered by CDM Phase 1. OPM has started the configuration of the Archer Federal Compliance module, which will be used to manage Assessment and Authorization activities and reporting.
+
+During Q4, OPM transferred Identity Management implementation responsibilities to its cybersecurity team. This decision was predicated on bringing the necessary skillset, experience and expertise from within the cybersecurity team to bear on this important project. The cybersecurity team began its planning effort for this implementation.
+
+OPM continued to work on addressing Federal Information Security Management Act (FISMA) findings and ensuring systems have active Authority to Operate (ATOs). OPM improved its overall ATO process and is performing assessments on systems that have expired ATOs. As of Q4, OPM reached 64 percent, exceeding its target of 50 percent and plans to have current ATOs for all systems by December 31, 2016..
+
+During Q4, OPM’s Office of the Chief Information Officer (OCIO) continued to work with the Office of the Inspector General (OIG) on closing FISMA findings and made progress since Q3. In addition, The cybersecurity team has established a Plan of Actions and Milestones (POA&amp;amp;M) Management Review Board that will provide consistent management decisions on the creation, review, update, closure and cancellation of POA&amp;amp;Ms.&amp;nbsp;
+
+&amp;nbsp;
+
+On August 25, the OPM Investment Review Board approved the Infrastructure as a Service Analysis of Alternatives, which recommended that OPM consolidate the nine data centers that it currently operates to two strategic locations in Macon, GA and Boyers, PA. The Analysis of Alternatives was developed as part of OPM’s effort to comply with the Office of Management and Budget’s Federal Data Center Optimization Initiative and OIG’s recommendation that OPM conduct an Analysis of Alternatives to determine the best future-state model for OPM’s IT infrastructure. The agency has started the data center consolidation effort and is nearing completion on the shutdown of one data center. During this consolidation, OPM continues to plan and prepare for system migrations.
+</progress_update><themes><theme>General Government</theme></themes><contributing_programs_and_other_factors>This goal impacts all organizations within OPM, as well as most Federal agencies and the public.&amp;nbsp; OPM organizations and Federal agencies will be required to contribute resources to support system changes related to this goal.&amp;nbsp;&amp;nbsp; The Department of Homeland Security has a large role in this as they are leading the Continuous Diagnostic and Mitigation (CDM) initiative by providing funding and resources. &amp;nbsp;OMB and Congress will also need to support this effort by approving funding required to complete the project and provide ongoing support.
+</contributing_programs_and_other_factors></Agency_Priority_Goal><Strategic_Goals></Strategic_Goals><Strategic_Objectives></Strategic_Objectives><Indicators></Indicators></data>

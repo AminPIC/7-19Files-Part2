@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?><data><Strategic_Objective><Agency_Code>29</Agency_Code><Agency_Acronym>VA</Agency_Acronym><Strategic_Objective_ID>1020</Strategic_Objective_ID><Strategic_Objective_Header>Evolve VA Information Technology Capabilities to Meet Emerging Customer Service / Empowerment Expectations of Both VA Customers and Employees</Strategic_Objective_Header><Themes><Theme>General Government</Theme><Theme>Management</Theme></Themes><Strategic_Objective_Statement>Evolve VA Information Technology Capabilities to Meet Emerging Customer Service / Empowerment Expectations of Both VA Customers and Employees
+</Strategic_Objective_Statement><Strategic_Objective_Overview>Summary:
+
+The explosion of information capabilities available to all citizens via the Internet and mobile computing has forever changed how individuals communicate with each other and with providers of goods and services. Information “on demand” is now a core expectation; so is the ability to transact both work and personal business “anytime, anywhere.” These trends have resulted in tremendous changes to what individuals expect in terms of customer service as well as how they expect to manage their own work life and career. For VA this presents huge challenges and opportunities in terms of how it delivers services to Veterans and eligible beneficiaries and how it empowers its employees to perform their duties. New and emerging IT capabilities must be delivered that:
+
+
+	Enable each Veteran to manage his/her relationship with VA in a unified manner, with both the Veteran and the VA employees serving them able to access and maintain a holistic view of the Veteran’s complete profile along with services entitled, available, and provided.
+	Enable Veterans and eligible beneficiaries, VA employees and trusted partners with the ability to access authorized VA-maintained information “anytime, anywhere.”
+	Enable VA employees with the flexibility to take advantage of emerging technologies to increase alternative work arrangements such as telework.
+
+
+Inherent in these capabilities is recognizing the need to continually evaluate and address concurrently emerging information security challenges. Safeguarding Federal computer systems and supporting critical IT infrastructure has been an ongoing Federal concern. Increased information sharing and use of mobile computing also serve to highlight the need to strengthen information security.
+
+Strategies:
+
+VA will implement an enterprise shared services strategy to offer broader service-based capabilities instead of point solutions.
+
+VA will support and enhance enterprise-wide information sharing through the implementation of a Customer Data Integration (CDI) environment to identify, develop, designate and enforce authoritative information sources and services.
+
+VA will continue its efforts on the Ruthless Reduction Task Force (RRTF) to identify and eliminate redundancies within VA’s IT environment.
+
+VA will implement its Unified Communications Strategy to further leverage common services and reduce its IT footprint through the convergence of our facility voice, contact center, video, audio conferencing, and collaboration environments into a single platform and operational model.
+
+VA will accelerate the implementation of our wireless infrastructure.
+
+VA will develop and implement strategies to support “bring your own device” and “use your own device” to support the increasingly mobile workforces and Veteran population.
+
+VA will continue to implement and extend the Continuous Readiness in Information Security Program (CRISP) operating model, including security management, contingency planning, configuration management, segregation of duties, and access controls for protecting VA sensitive information.
+
+VA will continue to implement the use of Personal Identity Verification (PIV) Only Authentication (POA) for access to VA computer systems as mandated by Federal identification standards (Homeland Security Presidential Directive [HSPD] -12).
+
+VA will pursue cost-effective system modernization to enhance operational and management processes and improve oversight.
+</Strategic_Objective_Overview><Strategic_Objective_Lead_Office></Strategic_Objective_Lead_Office><Strategic_Objective_Progress_Update>Final Assessment: &amp;nbsp;VA, in consultation with the Office of Management and Budget, highlighted this objective as a focus area for improvement.
+
+Achievements: &amp;nbsp;In FY 2015, VA launched various information technology initiatives that centered on improving Veteran outcomes. &amp;nbsp;For example, Veterans can now access seven new mobile apps[1]: &amp;nbsp;Move Coach Mobile, Exposure Ed, Mobile Blue Button, Summary of Care, Launchpad, Airborne Hazards, and Open Burn Pit Registry. &amp;nbsp;Veterans using MyHealtheVet can now: receive appointment email reminders; view the last 45 days of shipped VA prescriptions to include actual pill images; and receive email notifications when their VA prescriptions are shipped. &amp;nbsp;Veterans can now navigate between MyHealtheVet and eBenefits without additional sign on requirements. &amp;nbsp;In eBenefits, Veterans can now edit Basic Personal Data and view dependent data, information on Open Burn Pit Registry, and ancillary benefits available.
+
+&amp;nbsp;
+
+VA also led several efforts to improve administration and corporate outcomes. &amp;nbsp;VA initiated a heightened security awareness effort that includes: &amp;nbsp;a layered defense strategy to detect and prevent attempts to compromise sensitive information; 100 percent continuous monitoring of all operational systems; Personal Identity Verification (PIV) enforcement for remote access users via RESCUE (VA’s remote access portal) at 100 percent; and PIV compliance for all Windows-based users at 80 percent by means of technical controls; and/or managerial direction for VA internal access, with the remaining 20 percent being direct patient-facing caregivers.
+
+&amp;nbsp;
+
+In addition, VBMS[2] delivered releases that provided VA workforce and Veterans Service Organizations enhanced search, work queue information, and work flow for processing claims. &amp;nbsp;VA providers and MyHealtheVet coordinators can now utilize their PIV card to access the MyHealtheVet Provider Secure Messaging portal. &amp;nbsp;VA customers accessing the National Service Desk experience faster resolution of system outages in production and testing environments. &amp;nbsp;Up to 10,500 clinicians are able to use iPads after the creation of the Mobile Application Environment/Mobile Device Management and 176 medical centers have wireless capability for clinician use. &amp;nbsp;Workload has been reduced by 32 percent for IT project managers to produce data for the streamlined Project Management Accountability System Milestone Review templates. &amp;nbsp;Also, VA and customers can now track nearly 700 active VA IT systems and associated technical, business and stakeholder attributes in the VA Systems Inventory serving as a framework to organize system related information, establish relationships to other critical VA information repositories, and create a common site picture of the systems environment. &amp;nbsp;VA also initiated the development of an enterprise system divestiture capability and an application investment rationalization process to reduce sustainment costs related to these systems in order to enable redirection of funds to provide high value benefits and services to Veterans. &amp;nbsp;An enterprise shared services strategy was developed for four key areas including identification, ownership, change management and funding.
+
+&amp;nbsp;
+
+Challenges: &amp;nbsp;VA’s Office of Information and Technology delivered a significant number of technology solutions and enhancements to improve health care and benefits delivery in
+
+FY 2015.&amp;nbsp; VA’s commitment to protecting Veteran information and VA data requires a comprehensive, enterprise cyber security strategy in which Veterans, VA, and VA’s partners cooperate resulting in continuous improvement, eliminating the information technology material weakness, and institutionalizing capabilities to drive outcomes.
+
+&amp;nbsp;
+
+Additionally, VA will continue to focus on strengthening controls that ensure accessibility of the Agency’s external and internal facing websites, applications, and eforms.
+
+&amp;nbsp;
+
+
+
+
+[1] https://mobile.va.gov/appstore/all
+
+
+
+[2] http://vbaw.vba.va.gov/VBMS/
+
+
+</Strategic_Objective_Progress_Update></Strategic_Objective><Strategic_Goals><Strategic_Goal><id>1018</id><strategic_goal_header>Manage and Improve VA Operations to Deliver Seamless and Integrated Support</strategic_goal_header><strategic_goal_statement>Manage and Improve VA Operations to Deliver Seamless and Integrated Support
+</strategic_goal_statement><strategic_goal_overview>VA will strengthen its business operations in targeted areas to ensure it is able to optimally and effectively serve Veterans and eligible beneficiaries. We are in a prolonged period of rapid technological and cultural change, as well as economic and emerging National Security threats. We must become nimble and responsive to change, giving ourselves maneuverability, space, and options in our response to shifting conditions. Our policies, processes, and approaches must allow us to expand and contract rapidly with minimal disruption to our business, benefits, services, and resources.
+We must focus on developing cost-effective and integrated solutions to increase productivity and look for opportunities to divest, eliminate redundancies, and improve efficiency. We must integrate business support processes, Veteran-facing services and technology Department-wide.
+</strategic_goal_overview><themes><theme>National Defense</theme><theme>General Government</theme><theme>Management</theme></themes></Strategic_Goal></Strategic_Goals><Agency_Priority_Goals></Agency_Priority_Goals></data>

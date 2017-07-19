@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.performance.gov/rssfeedtest/36722" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>RSS Feed</title>
+    <link>https://www.performance.gov/rssfeedtest/36722</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.performance.gov/performance_rssfeed/36722?content_year_filter=All&amp;type_1=All" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Improve DoD Energy Performance</title>
+    <link>https://www.performance.gov/Improve%20DoD%20Energy%20Performance</link>
+    <description>&lt;p&gt;As the single largest consumer of energy in the nation, DoD accounts for approximately one percent of national demand. &lt;/p&gt;
+&lt;p&gt;Executive order 13693 mandates a 2.5% annual reduction in facilities energy intensity as measured in British Thermal Units per gross square foot beginning in Fiscal Year 2016.  Improving facility energy performance on DoD installations will lower energy costs, improve mission effectiveness, improve energy resilience, and reduce reliance on fossil fuels.&lt;/p&gt;
+&lt;p&gt;Energy is a fundamental enabler of military capability.  In the context of operational missions, understanding the implications of energy use in systems and weapons platforms allows DoD to improve combat effectiveness.  Specifically, the Department can assess the energy supportability of systems and concepts through scenario-based analyses that include realistic threats and logistics constraints. &lt;/p&gt;
+&lt;p&gt;By September 30, 2025, DoD will improve its &lt;em&gt;&lt;strong&gt;facility energy &lt;/strong&gt;&lt;/em&gt;performance by reducing average building energy intensity by 25% from the 2015 baseline: 1) By September 30, 2017, the DoD will improve its facility energy performance by reducing average facility energy intensity by 5% from a 2015 baseline.  2)  By September 30, 2018, the DoD will improve its facility energy performance by reducing average facility energy intensity by 7.5% from 2015 baseline. &lt;/p&gt;
+&lt;p&gt;By September 2018, DoD will institutionalize &lt;strong&gt;&lt;em&gt;operational energy &lt;/em&gt;&lt;/strong&gt;considerations in the force development process: 1) By September 30, 2016 DoD will ensure all acquisition programs that use operational energy and are designated as Joint Requirements Oversight Council (JROC) Interest Items by the Joint Staff have an Energy Supportability Analysis (ESA)-informed Energy Key Performance Parameter (eKPP); 2) By September 30, 2017, DoD will include operational energy constraints and limitations analyses in all Title 10 war games; and 3) By September 30, 2018, ensure ESAs are used in all acquisition programs that use operational energy and were established in FY 2016 and later.&lt;/p&gt;
+</description>
+     <pubDate>10/07/2016 10:21:31</pubDate>
+ <dc:creator>36722</dc:creator>
+ <guid isPermaLink="false">36722</guid>
+  </item>
+  </channel>
+</rss>

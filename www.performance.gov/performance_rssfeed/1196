@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.performance.gov/rssfeedtest/1196" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>RSS Feed</title>
+    <link>https://www.performance.gov/rssfeedtest/1196</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.performance.gov/performance_rssfeed/1196?content_year_filter=All&amp;type_1=All" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Expand the base of lenders for small business exporters</title>
+    <link>https://www.performance.gov/Expand%20the%20base%20of%20lenders%20for%20small%20business%20exporters</link>
+    <description>&lt;p&gt;Expand small business access to export financing by increasing the number of lenders providing export financing solutions from 430 to 555 and the number of small business exporters receiving financing through SBA loan programs from 1,346 to 1,480 by FY2015.&lt;/p&gt;
+</description>
+     <pubDate>01/08/2016 09:34:17</pubDate>
+ <dc:creator>1196</dc:creator>
+ <guid isPermaLink="false">1196</guid>
+  </item>
+  </channel>
+</rss>

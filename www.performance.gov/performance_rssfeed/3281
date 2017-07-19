@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.performance.gov/rssfeedtest/3281" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>RSS Feed</title>
+    <link>https://www.performance.gov/rssfeedtest/3281</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.performance.gov/performance_rssfeed/3281?content_year_filter=All&amp;type_1=All" rel="self" type="application/rss+xml" />
+      <item>
+    <title>MG04.02 Implement enabling successful practices and initiatives that strengthen IT leadership and governance </title>
+    <link>https://www.performance.gov/MG04.02%20Implement%20enabling%20successful%20practices%20and%20initiatives%20that%20strengthen%20IT%20leadership%20and%20governance%20</link>
+    <description>&lt;p&gt;Achieving agreed completion milestones for systems and initiatives planned and funded for the next 4 years that has been prioritized and approved through Governance.&lt;/p&gt;
+</description>
+     <pubDate>03/18/2016 10:56:51</pubDate>
+ <dc:creator>3281</dc:creator>
+ <guid isPermaLink="false">3281</guid>
+  </item>
+  </channel>
+</rss>

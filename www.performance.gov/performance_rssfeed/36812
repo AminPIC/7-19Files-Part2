@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.performance.gov/rssfeedtest/36812" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>RSS Feed</title>
+    <link>https://www.performance.gov/rssfeedtest/36812</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.performance.gov/performance_rssfeed/36812?content_year_filter=All&amp;type_1=All" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Secure safe and healthy workplaces, particularly in high-risk industries.</title>
+    <link>https://www.performance.gov/Secure%20safe%20and%20healthy%20workplaces%2C%20particularly%20in%20high-risk%20industries.</link>
+    <description>&lt;p&gt;By September 30, 2017, increase the number of abated workplace hazards associated with falls by 0.5 percent per year compared to FY 2015 through inspections at workplaces covered by the Occupational Safety and Health Administration, and reduce worker fatality rates in mining by two percent per year based on a rolling five-year average per 200,000 hours worked through its enhanced enforcement regime, educational outreach and training and cooperation with industry stakeholders.***&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;***This is a tentative target. OSHA expects two rulemakings to affect the number of hazards abated related to falls in FY 2016 – the final rule on Occupational Injury and Illness Recording and Reporting Requirements—Northern American Industry Classification System (NAICS) Update and Reporting Revisions, issued in September 2014, and the forthcoming final rule on Walking and Working Surfaces and Personal Protective Equipment (Fall Protection Systems).  OSHA will continue to analyze data related to this measure and may revise the target based on the results of the analysis.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+</description>
+     <pubDate>12/13/2016 10:42:45</pubDate>
+ <dc:creator>36812</dc:creator>
+ <guid isPermaLink="false">36812</guid>
+  </item>
+  </channel>
+</rss>

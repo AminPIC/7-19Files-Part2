@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?><data><Agency_Priority_Goal><Agency_ID>24</Agency_ID><Agency_Name>Department of Energy</Agency_Name><Agency_Priority_Goal_ID>45492</Agency_Priority_Goal_ID><Fiscal_Year>FY16-17</Fiscal_Year><APG_Header>High Performance Computing</APG_Header><APG_Statement>High Performance Computing:&amp;nbsp; Contributes to implementation of the President’s Executive Order establishing the National Strategic Computing Initiative including accelerating delivery of a capable exascale computing system that integrates hardware and software capability to deliver approximately 100 times the performance of current 10 petaflop systems across a range of applications representing government needs, and establishes a viable path forward for future High Performance Computing systems even after the limits of current semiconductor technologies are reached.
+
+
+	By Q2 FY 2016, establish a multiyear exascale research program plan in support of DOE’s contribution to the President’s high performance computing initiative
+	By the end of FY 2017, identify software technology investments needed to accelerate delivery of a capable exascale system
+	By Q1 FY2017 establish a plan for DOE’s contribution to research of new progressive technologies that perform beyond Moore’s Law
+
+</APG_Statement><APG_Overview>Contribute to implementation of the President’s Executive Order establishing the National Strategic Computing Initiative including accelerating delivery of a capable exascale computing system that integrates hardware and software capability to deliver approximately 100 times the performance of current 10 petaflop systems across a range of applications representing government needs, and establishes a viable path forward for future High Performance Computing systems even after the limits of current semiconductor technologies are reached.
+</APG_Overview><Goal_Leaders><Goal_Leader><goal_leader_name>Dr. Franklin (Lynn) M. Orr</goal_leader_name><goal_leader_title>Under Secretary for Science and Energy</goal_leader_title><goal_leader_org>Office of Science, U.S. Department of Energy</goal_leader_org></Goal_Leader><Goal_Leader><goal_leader_name>Patricia Dehmer</goal_leader_name><goal_leader_title>Deputy Director for Science Programs, Office of Science</goal_leader_title><goal_leader_org>Office of Science, U.S. Department of Energy</goal_leader_org></Goal_Leader><Goal_Leader><goal_leader_name>Lieutenant General Frank G. Klotz</goal_leader_name><goal_leader_title>Under Secretary for Nuclear Security and Administrator for the National Nuclear Security Administration</goal_leader_title><goal_leader_org>NNSA</goal_leader_org></Goal_Leader></Goal_Leaders><next_steps>Strategy #2 Milestones
+
+FY17Q1:&amp;nbsp; Initiate ASCAC review of the draft plan for a research program into technologies “beyond Moore’s Law”.
+
+FY17Q3:&amp;nbsp; ASCAC completes review of the draft plan completed.
+
+FY17Q4:&amp;nbsp; Incorporate ASCAC review comments into a final plan.
+
+&amp;nbsp;
+
+Strategy #3 Milestones
+
+FY17Q1: Initiate reviews of “capable” ECI software stack technologies.
+
+FY17Q2: Brief ASCAC on “capable” ECI software stack technologies.
+
+FY17Q3: Interagency Review of interim analysis “capable” ECI software stack technologies.
+
+FY17Q4: Identify ECI software stack technology investments needed to deliver “capable” exascale by FY 2023.
+</next_steps><progress_update>Strategy #1: By Q2 FY 2016 establish a multiyear exascale research program plan in support of DOE’s contribution to the President’s high performance computing initiative.&amp;nbsp;
+
+STATUS: &amp;nbsp;This measure has been completed. &amp;nbsp;The multiyear exascale research program plan in support of DOE’s contribution to the President’s National Strategic Computing Initiative (NSCI) has been incorporated into the NSCI Implementation Plan.&amp;nbsp; The NSCI Implementation Plan was submitted to the co-chairs of the NSCI Executive Council on October 26, 2015.
+
+&amp;nbsp;
+
+Strategy #2: By Q4 FY 2017 establish a plan for DOE’s contribution to research new progressive technologies that perform beyond Moore’s Law.
+
+STATUS: &amp;nbsp;Q4 FY16 Milestone: Initiate Interagency discussion and consideration of the draft plan for a research program into technologies “beyond Moore’s Law”.
+
+Result:&amp;nbsp;Milestone met. SC briefed the National Strategic Computing Initiative Working Group, the Quantum Information Systems Working Group, and OMB in September 2016.
+
+&amp;nbsp;
+
+Strategy #3: By Q4 FY 2017 identify software technology investments needed to accelerate delivery of a capable exascale system.
+
+STATUS: Q4 FY16 Milestone: Finalize gathering of application requirements&amp;nbsp; Result: Milestone met. SC completed a series of application requirements workshops that spanned our mission space before the end of September 2016.
+</progress_update><themes><theme>Energy</theme><theme>General Science, Space, and Technology</theme></themes><contributing_programs_and_other_factors>
+	Office of Science (SC) and National Nuclear Security Administration (NNSA) are the principal organizations within the Department of Energy responsible for achieving this Agency Priority Goal.
+
+</contributing_programs_and_other_factors></Agency_Priority_Goal><Strategic_Goals></Strategic_Goals><Strategic_Objectives><Strategic_Objective><id>5222</id><objective_header>Scientific Discoveries</objective_header><objective_statement>Deliver the scientific discoveries and major scientific tools that transform our understanding of nature and strengthen the connection between advances in fundamental science and technology innovation
+</objective_statement><objective_overview>The Department of Energy manages a portfolio of basic research that spans exploring the origins of the cosmos to addressing emerging challenges in energy, environment, and national security. The scale and complexity of this research portfolio provide a competitive advantage to the nation as multidisciplinary teams of scientists, using some of the most advanced scientific instruments in the world, are able to respond quickly to national priorities and evolving opportunities at the frontiers of science.
+</objective_overview></Strategic_Objective></Strategic_Objectives><Indicators></Indicators></data>

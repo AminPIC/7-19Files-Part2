@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.performance.gov/rssfeedtest/36762" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>RSS Feed</title>
+    <link>https://www.performance.gov/rssfeedtest/36762</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.performance.gov/performance_rssfeed/36762?content_year_filter=All&amp;type_1=All" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Strengthen environmental protection through business process improvements enabled by joint governance and technology.</title>
+    <link>https://www.performance.gov/Strengthen%20environmental%20protection%20through%20business%20process%20improvements%20enabled%20by%20joint%20governance%20and%20technology.</link>
+    <description>&lt;p&gt;By September 30, 2017, reduce burden by one million hours, add five new functionalities to the E-Enterprise Portal, and begin development on two projects selected through E-Enterprise Leadership Council joint governance.&lt;/p&gt;
+</description>
+     <pubDate>12/13/2016 10:47:31</pubDate>
+ <dc:creator>36762</dc:creator>
+ <guid isPermaLink="false">36762</guid>
+  </item>
+  </channel>
+</rss>

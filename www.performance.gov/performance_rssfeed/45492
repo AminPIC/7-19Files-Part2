@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.performance.gov/rssfeedtest/45492" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>RSS Feed</title>
+    <link>https://www.performance.gov/rssfeedtest/45492</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.performance.gov/performance_rssfeed/45492?content_year_filter=All&amp;type_1=All" rel="self" type="application/rss+xml" />
+      <item>
+    <title>High Performance Computing</title>
+    <link>https://www.performance.gov/High%20Performance%20Computing</link>
+    <description>&lt;p&gt;&lt;strong&gt;High Performance Computing:&lt;/strong&gt;  Contributes to implementation of the President’s Executive Order establishing the National Strategic Computing Initiative including accelerating delivery of a capable exascale computing system that integrates hardware and software capability to deliver approximately 100 times the performance of current 10 petaflop systems across a range of applications representing government needs, and establishes a viable path forward for future High Performance Computing systems even after the limits of current semiconductor technologies are reached.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;By Q2 FY 2016, establish a multiyear exascale research program plan in support of DOE’s contribution to the President’s high performance computing initiative&lt;/li&gt;
+&lt;li&gt;By the end of FY 2017, identify software technology investments needed to accelerate delivery of a capable exascale system&lt;/li&gt;
+&lt;li&gt;By Q1 FY2017 establish a plan for DOE’s contribution to research of new progressive technologies that perform beyond Moore’s Law&lt;/li&gt;
+&lt;/ul&gt;</description>
+     <pubDate>01/23/2017 10:23:56</pubDate>
+ <dc:creator>45492</dc:creator>
+ <guid isPermaLink="false">45492</guid>
+  </item>
+  </channel>
+</rss>

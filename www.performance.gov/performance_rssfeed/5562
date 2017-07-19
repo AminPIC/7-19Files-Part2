@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.performance.gov/rssfeedtest/5562" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>RSS Feed</title>
+    <link>https://www.performance.gov/rssfeedtest/5562</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.performance.gov/performance_rssfeed/5562?content_year_filter=All&amp;type_1=All" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Ensure equitable educational opportunities</title>
+    <link>https://www.performance.gov/Ensure%20equitable%20educational%20opportunities</link>
+    <description>&lt;p&gt;By Sept. 30, 2015, the number of high schools with persistently low graduation rates&lt;a href=&quot;http://www.performance.gov/content/ensure-equitable-educational-opportunities-0#_ftn1&quot; title=&quot;&quot;&gt;&lt;sup&gt;[1]&lt;/sup&gt;&lt;/a&gt; will decrease by 5 percent annually. The national high school graduation rate will increase to 83 percent, as measured by the Adjusted Cohort Graduation Rate, and disparities in the national high school graduation rate among minority students, students with disabilities, English learners, and students in poverty will decrease.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;u&gt;[1]&lt;/u&gt; Consistent with the ESEA Flexibility definition, &lt;em&gt;persistently low graduation rate&lt;/em&gt; is defined as a less than 60 percent graduation rate. Persistently low graduation rate high schools are defined as regular and vocational high schools with an average minimum cohort size of 65 or more, and an average ACGR of 60 percent or less over two years.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+</description>
+     <pubDate>01/08/2016 09:29:30</pubDate>
+ <dc:creator>5562</dc:creator>
+ <guid isPermaLink="false">5562</guid>
+  </item>
+  </channel>
+</rss>

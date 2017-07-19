@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.performance.gov/rssfeedtest/3300" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>RSS Feed</title>
+    <link>https://www.performance.gov/rssfeedtest/3300</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.performance.gov/performance_rssfeed/3300?content_year_filter=All&amp;type_1=All" rel="self" type="application/rss+xml" />
+      <item>
+    <title>SG07.02 Advance the 21st century customer-focused retirement processing system for claims adjudication in a timely and accurate manner </title>
+    <link>https://www.performance.gov/SG07.02%20Advance%20the%2021st%20century%20customer-focused%20retirement%20processing%20system%20for%20claims%20adjudication%20in%20a%20timely%20and%20accurate%20manner%20</link>
+    <description>&lt;p&gt;Exceed established targets on processing retirement and survivor claims accurately as published in the Annual Performance Report.&lt;/p&gt;
+&lt;p&gt;Improve the level of customer satisfaction as measured by customers satisfied with overall retirement services.&lt;/p&gt;
+&lt;p&gt;Exceed the targets established to reduce improper payments in the retirement program as outlined in the annual Agency Financial Report.&lt;/p&gt;
+</description>
+     <pubDate>03/18/2016 10:53:54</pubDate>
+ <dc:creator>3300</dc:creator>
+ <guid isPermaLink="false">3300</guid>
+  </item>
+  </channel>
+</rss>

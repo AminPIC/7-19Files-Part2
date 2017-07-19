@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.performance.gov/rssfeedtest/37342" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>RSS Feed</title>
+    <link>https://www.performance.gov/rssfeedtest/37342</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.performance.gov/performance_rssfeed/37342?content_year_filter=All&amp;type_1=All" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Reduce the Disability Hearings Pending</title>
+    <link>https://www.performance.gov/Reduce%20the%20Disability%20Hearings%20Pending</link>
+    <description>&lt;p&gt;By the end of fiscal year (FY) 2017, we will improve customer service in the hearings process by reducing the wait time for a hearing decision. In FY 2016, we will decide 99% of cases that begin the fiscal year at 430 days old or older (our 252,000 oldest cases). 25% decided by Q1 50% decided by Q2 75% decided by Q3 99% decided by Q4 In FY 2017, we will decide 99% of cases that begin the fiscal year at 365 days old or older.&lt;/p&gt;
+</description>
+     <pubDate>12/13/2016 10:46:28</pubDate>
+ <dc:creator>37342</dc:creator>
+ <guid isPermaLink="false">37342</guid>
+  </item>
+  </channel>
+</rss>

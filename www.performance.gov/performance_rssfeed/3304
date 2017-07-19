@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.performance.gov/rssfeedtest/3304" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>RSS Feed</title>
+    <link>https://www.performance.gov/rssfeedtest/3304</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.performance.gov/performance_rssfeed/3304?content_year_filter=All&amp;type_1=All" rel="self" type="application/rss+xml" />
+      <item>
+    <title>SG08.03 Provide guidance, tools and training to help agencies attain human capital management goals and meet OPM requirements </title>
+    <link>https://www.performance.gov/SG08.03%20Provide%20guidance%2C%20tools%20and%20training%20to%20help%20agencies%20attain%20human%20capital%20management%20goals%20and%20meet%20OPM%20requirements%20</link>
+    <description>&lt;p&gt;80% or greater of participants assess the quality of training provided by Agency Compliance and Evaluation staff at no less than 4 out of 5 points on a scale of 1-5.&lt;/p&gt;
+&lt;p&gt;Increase in the percentage of HR specialists and agency benefit officers trained and certified by HR University.&lt;/p&gt;
+&lt;p&gt;Increase in the percentage of applicable HR information systems across the Federal government are certified to align with OPM policy and guidance for equitable treatment.&lt;/p&gt;
+</description>
+     <pubDate>03/18/2016 10:55:14</pubDate>
+ <dc:creator>3304</dc:creator>
+ <guid isPermaLink="false">3304</guid>
+  </item>
+  </channel>
+</rss>

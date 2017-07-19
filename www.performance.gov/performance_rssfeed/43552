@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.performance.gov/rssfeedtest/43552" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>RSS Feed</title>
+    <link>https://www.performance.gov/rssfeedtest/43552</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.performance.gov/performance_rssfeed/43552?content_year_filter=All&amp;type_1=All" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Cybersecurity Monitoring</title>
+    <link>https://www.performance.gov/Cybersecurity%20Monitoring</link>
+    <description>&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;4&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;p&gt;Continue enhancing the security of OPM&#039;s information systems by strengthening authentication and expanding the implementation of continuous monitoring.&lt;/p&gt;
+&lt;p&gt;OPM will increase the use of multi-factor strong authentication in multiple ways.  While OPM enforces Personal Identity Verification (PIV) authentication for its internal users, OPM targets PIV usage for OPM services at 50 percent of Federal users by the end of FY 2016.  By the end of FY 2017, OPM will enforce multi-factor authentication for 100 percent of all PIV-enabled users and 80 percent of non-PIV-enabled users.&lt;/p&gt;
+&lt;p&gt;OPM will increase its security posture by expanding the Information Security Continuous Monitoring (ISCM) capabilities throughout FY 2015.  Leveraging the Continuous Diagnostic and Mitigation (CDM) program, OPM will expand continuous diagnostic capabilities by increasing the network sensor capacity, automating sensor collections, and prioritizing risk alerts.  By the end of the second quarter of FY 2016, OPM will have acquired, implemented, and refined the four (4) CDM controls including vulnerability management, secure configuration management, hardware asset management, and software asset management.  These tools will increase OPM’s ability to identify and respond to security issues.  By the end of FY 2016, 95 percent of OPM’s assets will be visible in the CDM dashboard.  In FY 2017, OPM will use the benchmarking results to identify and prioritize the implementation of other ISCM controls.&lt;/p&gt;
+&lt;p&gt;OPM will continue to pursue a number of additional actions as outlined in its Cybersecurity Monitoring goal.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;</description>
+     <pubDate>12/13/2016 10:44:18</pubDate>
+ <dc:creator>43552</dc:creator>
+ <guid isPermaLink="false">43552</guid>
+  </item>
+  </channel>
+</rss>

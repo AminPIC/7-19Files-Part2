@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.performance.gov/rssfeedtest/45482" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>RSS Feed</title>
+    <link>https://www.performance.gov/rssfeedtest/45482</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.performance.gov/performance_rssfeed/45482?content_year_filter=All&amp;type_1=All" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Energy Policy</title>
+    <link>https://www.performance.gov/Energy%20Policy</link>
+    <description>&lt;p&gt;&lt;strong&gt;Energy Policy:&lt;/strong&gt;  To enable cost-competitive, clean energy technologies and resilient energy infrastructure consistent with the Climate Action Plan,  Quadrennial Energy Review (QER), and Quadrennial Technology Review (QTR)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Efficiency Standards&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Issue final energy standards that meet the Climate Action Plan goal of 3 GT total cumulative CO&lt;sub&gt;2&lt;/sub&gt; reduction by 2030&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Loans Guarantees&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Issue new conditional loan guarantee commitments, as appropriate, of up to $8.5 billion for advanced fossil energy and $4.5 billion for renewable energy and efficient electricity technologies that include distributed energy and storage systems by the end of FY2017&lt;/li&gt;
+&lt;li&gt;Solicit additional applications, and as appropriate, issue new conditional loan commitments to increase fuel efficient vehicle and advance vehicle component manufacturing   &lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Quadrennial Energy Review (QER)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Issue semi-annual implementation reports on &lt;em&gt;Transforming U.S. Energy Infrastructures in a Time of Rapid Change&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Develop and issue the second installment of the QER on the electricity system as a whole by the end of CY 2016&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;QTR&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Develop a clean energy technology R&amp;amp;D portfolio reflecting the analysis and assessments of the QTR for the President’s FY 2017 Budget &lt;/li&gt;
+&lt;/ul&gt;</description>
+     <pubDate>01/23/2017 10:22:45</pubDate>
+ <dc:creator>45482</dc:creator>
+ <guid isPermaLink="false">45482</guid>
+  </item>
+  </channel>
+</rss>

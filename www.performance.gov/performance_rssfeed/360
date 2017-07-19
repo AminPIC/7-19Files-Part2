@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.performance.gov/rssfeedtest/360" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>RSS Feed</title>
+    <link>https://www.performance.gov/rssfeedtest/360</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.performance.gov/performance_rssfeed/360?content_year_filter=All&amp;type_1=All" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Improve environmental outcomes and enhance service to the regulated community and the public. </title>
+    <link>https://www.performance.gov/Improve%20environmental%20outcomes%20and%20enhance%20service%20to%20the%20regulated%20community%20and%20the%20public.%20</link>
+    <description>&lt;p&gt;By September 30, 2015 reduce reporting burdens to EPA by one million hours through streamlined regulations, provide real-time environmental data to at least two communities, and establish a new portal to service the regulated community and public.&lt;/p&gt;
+</description>
+     <pubDate>01/08/2016 09:56:37</pubDate>
+ <dc:creator>360</dc:creator>
+ <guid isPermaLink="false">360</guid>
+  </item>
+  </channel>
+</rss>

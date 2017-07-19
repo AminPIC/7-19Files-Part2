@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.performance.gov/rssfeedtest/1025" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>RSS Feed</title>
+    <link>https://www.performance.gov/rssfeedtest/1025</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.performance.gov/performance_rssfeed/1025?content_year_filter=All&amp;type_1=All" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Improve Veteran Virtual Access to VA Benefits and Services</title>
+    <link>https://www.performance.gov/Improve%20Veteran%20Virtual%20Access%20to%20VA%20Benefits%20and%20Services</link>
+    <description>&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;4&quot;&gt;&lt;tr&gt;&lt;td&gt;
+			Improve client and stakeholder awareness of, and access to, Veterans benefits and health care services. By September 30, 2015, VA will increase the use of virtual service options by increasing the percent of claims received electronically, by increasing the number of accredited Veterans service officers registered on the Stakeholder Enterprise Portal, by increasing the number of registered eBenefits users, and by increasing the percent of patients who access VA health care using a virtual format such as video telehealth or online services.
+&lt;p&gt;			Indicators:&lt;/p&gt;
+&lt;ol&gt;&lt;li&gt;
+				Increase the annual percent of disability compensation claims received virtually/electronically from a baseline of 2 percent in FY 2013, to 12 percent in FY 2014 and 20 percent in FY 2015.
+				&lt;/li&gt;
+&lt;li&gt;
+				Increase the number of accredited Veterans advocates who are registered users on the Stakeholder Enterprise Portal (SEP) from a baseline of 1,000 in FY 2013, to 2,000 in FY 2014 and 3,500 in FY 2015.
+				&lt;/li&gt;
+&lt;li&gt;
+				Increase the number of registered eBenefits users to 3.8 million in FY 2014 and 5 million in FY 2015.
+				&lt;/li&gt;
+&lt;li&gt;
+				Increase the percent of patients who access VA health care using a virtual format (e.g., video, smart phone, or online services) from 23 percent baseline utilization in FY 2013, to 30 percent in FY 2014 and 35 percent in FY 2015.
+				&lt;/li&gt;
+&lt;/ol&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;</description>
+     <pubDate>01/08/2016 09:50:30</pubDate>
+ <dc:creator>1025</dc:creator>
+ <guid isPermaLink="false">1025</guid>
+  </item>
+  </channel>
+</rss>

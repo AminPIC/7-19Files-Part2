@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.performance.gov/rssfeedtest/40322" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>RSS Feed</title>
+    <link>https://www.performance.gov/rssfeedtest/40322</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.performance.gov/performance_rssfeed/40322?content_year_filter=All&amp;type_1=All" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Increase enrollment in high-quality state preschool programs</title>
+    <link>https://www.performance.gov/Increase%20enrollment%20in%20high-quality%20state%20preschool%20programs</link>
+    <description>&lt;p&gt;Increase the percentage of children, especially children from low-income families, enrolled in high-quality preschool programs.  By September 30, 2017, the percentage of four-year old children enrolled in state preschool programs will increase to 33% (representing the 2015-16 school year, increasing from 29.1% in 2013-14 school year). By September 30, 2017, the number of state preschool programs meeting high-quality benchmarks will increase to 19 states (representing the 2015-16 school year, increasing from 15 in 2013-14 school year).&lt;/p&gt;
+</description>
+     <pubDate>12/13/2016 10:43:15</pubDate>
+ <dc:creator>40322</dc:creator>
+ <guid isPermaLink="false">40322</guid>
+  </item>
+  </channel>
+</rss>

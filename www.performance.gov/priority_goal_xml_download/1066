@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" ?><data><Agency_Priority_Goal><Agency_ID>7</Agency_ID><Agency_Name>Department of Commerce</Agency_Name><Agency_Priority_Goal_ID>1066</Agency_Priority_Goal_ID><Fiscal_Year>FY14-15</Fiscal_Year><APG_Header>Improve Forecasting Accuracy and Lead Times for Severe Weather</APG_Header><APG_Statement>By September 30, 2015, the Department of Commerce will improve its overall weather forecast model accuracy to 9 days which will enable more accurate, consistent, longer lead time for specific weather event forecasts and warnings.
+</APG_Statement><APG_Overview>Major weather events demonstrate the importance of hazard preparedness and response in the United States. &amp;nbsp;Improved weather forecast accuracy, combined with enhanced decision support services, allow emergency management and the American public more time to prepare for high-impact weather events.&amp;nbsp; This enables protection of life and property and enhancement of the U.S. economy.
+
+&amp;nbsp;
+
+A key way to measure improvements in model performance is to examine how far into the future Numerical Weather Prediction (NWP) guidance demonstrates skill. &amp;nbsp;Model output ceases to have useful skill at predicting the weather at longer forecast lengths. &amp;nbsp;Large scale weather patterns that affect the local weather that each of us experience on a daily basis, are driven by features in the mid-levels of the atmosphere. &amp;nbsp;During the past 20 years, the National Oceanic and Atmospheric Administration’s (NOAA’s) National Weather Service (NWS) has seen its ability to provide useful predictions of future high-impact weather events extend from 6 days to 8 days.
+
+This goal focuses on improving the Global Forecast System model 2013 that currently has useful skill at forecasting the mid-levels of the atmosphere across the globe out to 8.0 days. Upon completion of forecasting upgrades over the next two years, the NWS expects to extend this out to 9 days.
+
+Improving global weather prediction facilitates improvements to regional, local scale models that provide accurate information about the formation and movement of high impact storms in the right place at the right time.&amp;nbsp; Knowing with a good level of confidence that the storm is coming 5 days in advance enables for significantly improved response.&amp;nbsp; Evacuations from hurricanes require 3 full days, and thus accurate, consistent forecasts 4-7 days in advance are invaluable to people who have to make these critical decisions.&amp;nbsp; Increased lead time means lives saved and property protected.&amp;nbsp; NWS will also continue efforts to support the use of improved weather forecast data by emergency managers through better impact-based decision support services. &amp;nbsp;Achieving this priority goal will allow NWS to predict farther into the future and enable the American public to make the right choices when extreme weather threatens.
+</APG_Overview><Goal_Leaders><Goal_Leader><goal_leader_name>Dr. Kathryn D. Sullivan</goal_leader_name><goal_leader_title>Under Secretary of Commerce for Oceans and Atmosphere</goal_leader_title><goal_leader_org>National Oceanic and Atmospheric Administration (NOAA)</goal_leader_org></Goal_Leader><Goal_Leader><goal_leader_name>Dr. Louis W. Uccellini</goal_leader_name><goal_leader_title>National Goal Deputy, Assistant Administrator for Weather Services</goal_leader_title><goal_leader_org>National Oceanic and Atmospheric Administration (NOAA)</goal_leader_org></Goal_Leader></Goal_Leaders><next_steps></next_steps><progress_update>Executive Summary
+
+&amp;nbsp;The FY 2014-15 NOAA’s National Weather Service (NWS) Agency Priority Goal focused on using Disaster Relief Appropriations Act of 2013 funding to accelerate enhancement and development of a comprehensive suite of weather prediction tools with a goal of achieving weather forecast accuracy of 9 days.&amp;nbsp; This was a stretch goal for NOAA and we did not meet the 9 days of forecast accuracy by the end of FY 2015.&amp;nbsp; Achievement of the 9 days weather forecast accuracy goal was contingent upon an upgraded Weather and Climate Operational Supercomputing System (WCOSS). During the period of performance the days of forecast accuracy improved from approximately 8 days to an estimated 8.2 days. &amp;nbsp;Validation and verification will confirm the actual number of days by Q2 FY2016. &amp;nbsp;WCOSS augmentation&amp;nbsp;was delayed due to supply chain availability beyond NWS’ control.&amp;nbsp;
+
+The goal of 9 days of weather forecast accuracy was based on the use of deterministic models as represented by the Global Forecast System (GFS).&amp;nbsp; Under “Next Steps” below, NWS has proposed for the next reporting period a new APG which bases improvements on ensemble models as represented by the Global Ensemble Forecast System (GEFS).&amp;nbsp; Use of ensemble weather forecast model guidance provides more useful&amp;nbsp; forecast information that quantifies uncertainty used to communicate risk for more informed decision making in response to incoming extreme weather events.&amp;nbsp; &amp;nbsp; &amp;nbsp;
+
+&amp;nbsp;
+
+Final Progress Update Details
+
+NWS met 7 of 11 planned milestones towards the above efforts including key milestones such as upgrading the Global Forecast System, Hurricane Weather Research and Forecasting model, and storm surge graphics and training materials.
+
+Achievement of the 9 days weather forecast accuracy goal was contingent upon an upgraded Weather and Climate Operational Supercomputing System.&amp;nbsp; WCOSS augmentation was delayed due to supply chain availability beyond NWS’ control.&amp;nbsp; WCOSS will be augmented to 2,800 Terra Floating Point Operations per Second (TFLOPS) in FY 2016 Q1.&amp;nbsp;
+
+In FY 2015 Q4, NWS improved its storm surge capability to include improved graphics and training to NWS forecasters and partners.&amp;nbsp; This Storm Surge Watch and Warning Service will enable NWS to provide improved support for emergency management and evacuation during landfalling hurricanes.&amp;nbsp; Specific milestones completed in FY 2015 Q4 include:
+
+
+	300 targeted forecasters at 21 coastal Weather Forecast Offices completed the training on the use of the improved storm surge tools;
+
+	
+		An additional 125 forecasters including interns and personnel at non-coastal WFOs also completed this training.
+	
+	
+
+
+Delayed milestones that will not be completed during the period of performance include:
+
+
+	Final Operating Capability for Multiple-Radar/Multiple-Sensor tool
+
+	
+		In FY 2014 Q4, NWS successfully implemented the Multiple-Radar/Multiple-Sensor (MRMS) system into operations.&amp;nbsp; MRMS quickly harnesses the tremendous amount of weather and water data from multiple sources and intelligently integrates the information to provide a detailed, current 3 dimensional weather picture.&amp;nbsp;
+		While this tool is complete, the milestone will be complete when full operational back up capability is achieved on the One-NWS network, an integrated Information Technology system.
+	
+	
+	Deployment and Installation of 15 hurricane buoys
+	
+		NWS developed the next generation coastal weather buoy system or Self-Contained Ocean Observing Payload (SCOOP) for its hurricane buoy network in the Gulf of Mexico, Caribbean, and Atlantic Ocean.
+		As of FY 2015 Q4, 13 of 15 buoys have been deployed.&amp;nbsp; The United States Coast Guard is scheduled to deploy the remaining 2 buoys in FY 2016 Q1.
+	
+	
+	Upgraded Weather and Climate Operational Supercomputing System (WCOSS) to 2,800 TFLOPS
+	
+		In FY 2014, NOAA revised its acquisition strategy for the WCOSS to avoid increased supply chain risk.&amp;nbsp; WCOSS augmentation is on track for FY 2016 Q1.
+	
+	
+	Global Ensemble Forecast System Upgrade
+	
+		In 2014, the Agency Priority Goal was re-baselined and this milestone, originally scheduled for FY 2014 Q2, was rescheduled to FY 2015 Q4. &amp;nbsp;The GEFS upgrade was delayed due to steep learning curve of the new WCOSS and availability of critical personnel.&amp;nbsp;
+		This implementation was delayed into FY 2016 due to the cumulative effect of various issues, including software delivery delay from developers, and availability of critical personnel, who were otherwise engaged in the WCOSS upgrade to 2,800 TFLOPS, to implement parallel testing on WCOSS and distribute outputs to expert evaluators.&amp;nbsp;
+		The National Centers for Environmental Prediction are currently reviewing project progress and are developing a revised schedule.&amp;nbsp;
+	
+	
+
+
+Lessons Learned
+
+As part of organizational learning, NWS learned the importance of careful planning of implementation schedules, the planning and learning associated with operational transition of new technologies, and negotiation of contracts and contract strategies in the face of volatility in supply chains.
+
+Additionally NWS has proposed an FY 2016-17 Agency Priority Goal, “By September 30, 2017, the Department of Commerce will improve the useful lead time of its weather forecast model guidance to 9.5 days which will enable more accurate, consistent, forecasts and warnings for high-impact and extreme weather events.” This will be achieved using the GEFS. This new APG’s impact is to enable improved forecasting accuracy and lead times for high-impact events and extreme weather.
+</progress_update><themes><theme>General Science, Space, and Technology</theme></themes><contributing_programs_and_other_factors>National Centers for Environmental Prediction / Environmental Modeling Center (NCEP/EMC)
+
+&amp;nbsp;
+
+National Centers for Environmental Prediction / National Center for Operations (NCEP/NCO)
+
+&amp;nbsp;
+
+Office of Oceanic Atmospheric Research / Earth System Research Laboratory (OAR/ESRL)
+
+&amp;nbsp;
+
+R&amp;amp;D High Performance Computing and Communications Program (HPCC)
+</contributing_programs_and_other_factors></Agency_Priority_Goal><Strategic_Goals></Strategic_Goals><Strategic_Objectives><Strategic_Objective><id>1089</id><objective_header>Improve preparedness, response, and recovery from weather and water events by building a Weather-Ready Nation. (NOAA, Census)</objective_header><objective_statement>Improve preparedness, response, and recovery from weather and water events by building a Weather-Ready Nation. (NOAA, Census)
+</objective_statement><objective_overview>Weather affects almost every endeavor in the Nation.  Major industries and small businesses alike depend on weather, water, and climate information to make informed decisions and plan for the future.  Extreme events are becoming the norm.  Winter storms, flooding, drought, hurricanes, wildfires, extreme temperatures, and tornados can cost lives and billions of dollars in damage.  The steep increases in damaging weather-related events and associated societal impacts highlight the growing importance of weather, water, and climate information.  Urbanization, migration to coastal communities, and a growing population also increasingly put people and businesses at greater risk.
+ 
+A Weather-Ready Nation is about building community preparedness in the face of increasing vulnerability to extreme weather and water events.  The Department will continue its critical role in protecting the lives, property, and the economy by providing valuable weather, water, and climate products and services.  This role will be expanded to embrace collaboration and seek new ways to create value beyond traditional forecasting activities.  Delivering enhanced weather, water, and climate information will help communities and businesses to be ready, responsive, and resilient.  Refining how the information is shared and ultimately used will make the U.S. that much more weather ready.
+</objective_overview></Strategic_Objective></Strategic_Objectives><Indicators></Indicators></data>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.performance.gov/rssfeedtest/466" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>RSS Feed</title>
+    <link>https://www.performance.gov/rssfeedtest/466</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.performance.gov/performance_rssfeed/466?content_year_filter=All&amp;type_1=All" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Vulnerable People</title>
+    <link>https://www.performance.gov/Vulnerable%20People</link>
+    <description>&lt;p&gt;Vulnerable People: Protect vulnerable populations by increasing the number of investigations and litigation matters concerning child exploitation, human trafficking, and non-compliant sex offenders; and by improving programs to prevent victimization, identify victims, and provide services.&lt;/p&gt;
+&lt;p&gt;By September 30, 2015, working with federal, state, local, and tribal partners, protect potential victims from abuse and exploitation through three sets of key indicators:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Open investigations concerning non-compliant sex offenders (4% over average of FYs 2012, 2013), sexual exploitation of children (3% over average of FYs 2011, 2012, 2013), and human trafficking (2% over FY 2013).&lt;/li&gt;
+&lt;li&gt;Open litigation matters concerning sexual exploitation of children and human trafficking (5% increase over baseline (TBD))&lt;/li&gt;
+&lt;li&gt;Percent of children recovered within 72 hours of issuance of an AMBER alert (90%)&lt;/li&gt;
+&lt;/ul&gt;</description>
+     <pubDate>01/08/2016 09:54:16</pubDate>
+ <dc:creator>466</dc:creator>
+ <guid isPermaLink="false">466</guid>
+  </item>
+  </channel>
+</rss>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.performance.gov/rssfeedtest/420" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>RSS Feed</title>
+    <link>https://www.performance.gov/rssfeedtest/420</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.performance.gov/performance_rssfeed/420?content_year_filter=All&amp;type_1=All" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Climate Change</title>
+    <link>https://www.performance.gov/Climate%20Change</link>
+    <description>&lt;p&gt;Enable economic growth concurrent with significant reductions in national emissions trajectories through 2020 and the longer term by supporting the development and implementation of low emission development strategies (LEDS). By the end of 2015, U.S. bilateral assistance under LEDS will reach at least 25 countries (from the previous baseline of 22 countries) and will result in the achievement of at least 45 major individual country milestones, each reflecting a significant, measureable improvement in that country’s development or implementation of LEDS.  Also by the end of 2015, at least 1,200 additional developing country government officials and practitioners (from a baseline of 0) will strengthen their LEDS capacity through participation in the LEDS Global Partnership and that capacity will be meaningfully applied to 25 countries (from a baseline of 0).&lt;/p&gt;
+</description>
+     <pubDate>02/09/2017 09:42:43</pubDate>
+ <dc:creator>420</dc:creator>
+ <guid isPermaLink="false">420</guid>
+  </item>
+  </channel>
+</rss>

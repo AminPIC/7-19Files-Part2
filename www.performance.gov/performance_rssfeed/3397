@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.performance.gov/rssfeedtest/3397" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>RSS Feed</title>
+    <link>https://www.performance.gov/rssfeedtest/3397</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.performance.gov/performance_rssfeed/3397?content_year_filter=All&amp;type_1=All" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Benchmark and Improve Mission-Support Operations</title>
+    <link>https://www.performance.gov/Benchmark%20and%20Improve%20Mission-Support%20Operations</link>
+    <description>&lt;p&gt;Improve administrative efficiency and increase the adoption of effective management practices by establishing cost and quality benchmarks of mission-support operations and giving agency decision-makers better data to compare options, allocate resources, and improve processes.&lt;/p&gt;
+</description>
+     <pubDate>01/18/2017 20:54:53</pubDate>
+ <dc:creator>3397</dc:creator>
+ <guid isPermaLink="false">3397</guid>
+  </item>
+  </channel>
+</rss>

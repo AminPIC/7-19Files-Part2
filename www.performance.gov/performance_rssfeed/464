@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.performance.gov/rssfeedtest/464" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>RSS Feed</title>
+    <link>https://www.performance.gov/rssfeedtest/464</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.performance.gov/performance_rssfeed/464?content_year_filter=All&amp;type_1=All" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Violent Crime</title>
+    <link>https://www.performance.gov/Violent%20Crime</link>
+    <description>&lt;p&gt;Violent Crime:  Protect our Communities by Reducing Gun Violence by using smart prevention and investigative strategies in order to prevent violent acts from occurring.&lt;/p&gt;
+&lt;p&gt;By September, 30, 2015, the Department of Justice will:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Increase the number of records  submitted to the National Instant Criminal Background Check System (NICS) Index by states and federal agencies by 10%;&lt;/li&gt;
+&lt;li&gt;Increase the number of records entered into the National Integrated Ballistic Information Network (NIBIN) by 3%; and&lt;/li&gt;
+&lt;li&gt;Increase the number of NIBIN “hits”, that is, the linkage of two or more separate crime scene investigations, based upon comparisons of the markings made on fired ammunition recovered from crime scenes by 3%.&lt;/li&gt;
+&lt;/ul&gt;</description>
+     <pubDate>01/08/2016 09:52:11</pubDate>
+ <dc:creator>464</dc:creator>
+ <guid isPermaLink="false">464</guid>
+  </item>
+  </channel>
+</rss>

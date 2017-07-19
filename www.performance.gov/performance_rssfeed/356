@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.performance.gov/rssfeedtest/356" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>RSS Feed</title>
+    <link>https://www.performance.gov/rssfeedtest/356</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.performance.gov/performance_rssfeed/356?content_year_filter=All&amp;type_1=All" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Improve public health protection for persons served by small drinking water systems, which account for more than 97% of public water systems in the U.S., by strengthening the technical, managerial, and financial capacity of those systems.</title>
+    <link>https://www.performance.gov/Improve%20public%20health%20protection%20for%20persons%20served%20by%20small%20drinking%20water%20systems%2C%20which%20account%20for%20more%20than%2097%25%20of%20public%20water%20systems%20in%20the%20U.S.%2C%20by%20strengthening%20the%20technical%2C%20managerial%2C%20and%20financial%20capacity%20of%20those%20systems.</link>
+    <description>&lt;p&gt;By September 30, 2015, EPA will engage with an additional ten states (for a total of 30 states) and three tribes to improve small drinking water system capability to provide safe drinking water, an invaluable resource.&lt;/p&gt;
+</description>
+     <pubDate>01/08/2016 09:55:16</pubDate>
+ <dc:creator>356</dc:creator>
+ <guid isPermaLink="false">356</guid>
+  </item>
+  </channel>
+</rss>

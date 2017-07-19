@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.performance.gov/rssfeedtest/45952" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>RSS Feed</title>
+    <link>https://www.performance.gov/rssfeedtest/45952</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.performance.gov/performance_rssfeed/45952?content_year_filter=All&amp;type_1=All" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Increased Food Security and Diet Quality</title>
+    <link>https://www.performance.gov/Increased%20Food%20Security%20and%20Diet%20Quality</link>
+    <description>&lt;p&gt;USDA will increase food security and diet quality among America’s children through provision of nutritious food and support for healthy choices. By September 30, 2017, USDA will reduce the number of children in food insecure households by 10 percent from baseline-- 15.8 million (2013) to 14.2 million (measured annually by USDA Economic Research Service study) and, increase the average Healthy Eating Index (HEI) for all children (between ages 2 and 18) to 55 (based on USDA analysis of national nutrition survey data).&lt;/p&gt;
+</description>
+     <pubDate>12/13/2016 10:42:28</pubDate>
+ <dc:creator>45952</dc:creator>
+ <guid isPermaLink="false">45952</guid>
+  </item>
+  </channel>
+</rss>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.performance.gov/rssfeedtest/63371" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>RSS Feed</title>
+    <link>https://www.performance.gov/rssfeedtest/63371</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.performance.gov/performance_rssfeed/63371?content_year_filter=All&amp;type_1=All" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Reduce the annual adult combustible tobacco consumption in the United States.</title>
+    <link>https://www.performance.gov/Reduce%20the%20annual%20adult%20combustible%20tobacco%20consumption%20in%20the%20United%20States.</link>
+    <description>&lt;p&gt;By December 31, 2017, reduce the annual adult combustible tobacco consumption in the United States from 1,216 cigarette equivalents per capita to 1,127 cigarette equivalents per capita, which will represent an approximate 7% decrease from the 2014 baseline.&lt;/p&gt;
+</description>
+     <pubDate>01/03/2017 11:29:55</pubDate>
+ <dc:creator>63371</dc:creator>
+ <guid isPermaLink="false">63371</guid>
+  </item>
+  </channel>
+</rss>

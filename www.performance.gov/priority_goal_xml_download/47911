@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" ?><data><Agency_Priority_Goal><Agency_ID>7</Agency_ID><Agency_Name>Department of Commerce</Agency_Name><Agency_Priority_Goal_ID>47911</Agency_Priority_Goal_ID><Fiscal_Year>FY16-17</Fiscal_Year><APG_Header>Advance technologies put into practice</APG_Header><APG_Statement>By September 30, 2017, the Department of Commerce will transition twelve (12) research and development (R&amp;amp;D) capabilities to applications (from TRL&amp;nbsp;8 to TRL&amp;nbsp;9) to improve efficiency, accuracy, or precision of forecasts to reduce adverse effects of environmental events on people and property
+</APG_Statement><APG_Overview>National Oceanic Atmospheric Administration (NOAA) is an agency that enriches and safeguards life through science. Our reach is the surface of the sun to the depths of the ocean floor as we work to keep citizens informed of the changing environment around them. Often what limits the ability to make predictions is the complexity and interconnectedness of large-scale physical and ecological systems. In order to reach this goal, NOAA will develop a suite of state-of-the-art models, and transition them to operational settings. These models will integrate physical and biological observations. They will provide Earth system predictions at varying geographic scales across time from minutes to decades to meet the needs of specific users. The twelve transitions refine the models being developed as well as create new models by moving new capabilities from a research and development (R&amp;amp;D) environment to an operations environment. This allows for more accurate, reliable, usable, sustainable, and precise forecasts, which provides for the protection of life and property and the enhancement to the national economy. Operationalizing these forecasts will allow people to make decisions that they would otherwise not be able to make, to take action and avoid the adverse impacts of the events being forecasted.&amp;nbsp;
+
+This goal captures NOAA’s intent to increase the number and pace of advancing scientific and technological capabilities that transition from R&amp;amp;D to applications. Without expeditiously transitioning new capabilities from R&amp;amp;D, we cannot “ensure communities and businesses have the necessary information, products, services to prepare for, and prosper in, a changing environment” (Department of Commerce Strategic Goal #3). Improving our capacity to use the results of federal R&amp;amp;D in socially and economically valuable applications is a priority of the NOAA Administrator, the Secretary of Commerce, and the Administration.
+
+The goal is to transition a targeted number of discrete NOAA R&amp;amp;D products to operations in a NOAA service (e.g. new forecast models enter the National Weather Service (NWS) operations) or to the public or commercial sectors (e.g. new technologies licensed to a private firm). It is important to note that this goal is not specific to NOAA’s weather, climate, oceans, and coasts missions. Rather, it cross-cuts these NOAA functions and is intended to accelerate the application of R&amp;amp;D results as a NOAA-wide priority for increased organizational excellence.
+
+To standardize reporting, NOAA will use Technical Readiness Levels (TRLs) similar to those applied at National Aeronautics and Space Administration (NASA) and other federal agencies to track system maturity. TRLs are a systematic project measurement system that describes or tracks progress of projects from research to operation, application, commercial product or service, or other use. It allows the consistent comparison of maturity between different types of R&amp;amp;D projects. A project achieves a readiness level once it has accomplished all elements described within a readiness level. A complete transition is a capability that has progressed from TRL 8 to TRL 9. TRL 8 is defined as a completed and operational system, process, product, service or tool. TRL 9 is defined as a system, process, product, service or tool deployed by NOAA and routinely in operations.
+</APG_Overview><Goal_Leaders><Goal_Leader><goal_leader_name>Under Secretary of Commerce for Oceans and Atmosphere, and Administrator</goal_leader_name><goal_leader_title>Dr. Kathryn Sullivan</goal_leader_title><goal_leader_org>National Oceanic and Atmospheric Administration</goal_leader_org></Goal_Leader><Goal_Leader><goal_leader_name>Craig McLean</goal_leader_name><goal_leader_title>Assistant Administrator, Oceanic and Atmospheric Research (OAR)</goal_leader_title><goal_leader_org>National Oceanic and Atmospheric Administration</goal_leader_org></Goal_Leader></Goal_Leaders><next_steps>Some of the next steps include:
+
+FY2017 Q1
+
+
+	Incorporate U.S. Department of Transportation (DOT) Clarus road weather observations into Meteorological Assimilation Data Ingest System (MADIS).
+	Install MRMS (Multiple Radar Multi Sensor System) FOC (Final Operating Capacity) software.
+	Install Midterm Operating Capability to improve accuracy of severe weather forecasts and warnings.
+	Develop 5.0 requirements with NOAA Tsunami Warning Centers to ensure implementation and acceptance by operations.
+
+
+FY2017 Q2
+
+
+	National Air Quality Forecasting Capability (NAQFC) model coupled with a NCEP global aerosol transport model.
+
+
+FY2017 Q4
+
+
+	NOAA SIFT (Short-term Inundation Forecasting for Tsunamis) version 5.0.
+	Parameterizations for air-sea fluxes and boundary layer for use in the operational hurricane forecast model (HWRF).
+	Lake Erie HAB forecast Initial Operating Capability (IOC) and Final Operating Capability (FOC).
+	Delmarva Coastal Bays NLM-Lagoon Ecosystem Model (NLM-LEM).
+
+
+Delayed Indefinitely
+
+
+	Interactive radiological interface to run HYSPLIT (Hybrid Single Particle Lagrangian Integrated Trajectory Model) integrated with measurement data.
+
+</next_steps><progress_update>In FY2016Q4, OAR completed:
+
+
+	Ground-based Global Positioning System - Meteorology (GPS-Met) transitioned to a commercial provider.
+	Transition experimental High Resolution Rapid Refresh (HRRR) version 2 into NWS operations; and
+	Transition experimental Rapid Refresh (RAP) version 3 into operations to improve the accuracy of the NWS operational model.
+	Engage end-users at 3rd modeling workshop to identify additional needs for the Delmarva Coastal Bays NLM-Lagoon Ecosystem Model (NLM-LEM)
+
+
+Three transition milestones are delayed from Q4 FY2016 to FY2017. In the final testing phase, new&amp;nbsp;requirements were identified and will be used to refine the products before final delivery. Based on the iterative processes between the transition partners, it was decided that two transitions required more time than originally scheduled.&amp;nbsp;They are:&amp;nbsp;
+
+
+	FY17 Q1 - Incorporate U.S. Department of Transportation (DOT) Clarus road weather observations into Meteorological Assimilation Data Ingest System (MADIS).&amp;nbsp;
+	FY17 Q2 - Incorporate National Air Quality Forecasting Capability (NAQFC) model with NWS operational global aerosol transport model to improve forecasting accuracy of smoke and dust plumes originating outside the continental U.S.
+
+
+Transition to operations for the third delayed transition cannot occur until NOAA has adequately tested the model with routinely-updated EPA data. Obtaining these data requires a Memorandum of Agreement (MOA) with EPA, which was delayed and only signed last week by DOC and the EPA. The milestone for this transition has been modified to reflect that delay. The delayed milestone is:
+
+
+	Indefinite Delay - Integrate a radiological interface to run Hybrid Single Particle Lagrangian Integrated Trajectory model (HYSPLIT) with measurement data to improve accuracy of plume dispersion forecasts by NWS operations.&amp;nbsp;&amp;nbsp;
+
+
+NOAA does not anticipate meeting all 12 transitions by the end of the FY2017. Currently, four transitions are scheduled for Q4 FY17. Despite increased management and leadership oversight, technical, personnel, and resource allocation decisions likely will delay at least one of those transitions (Hurricane Weather Forecast Model), and perhaps others. &amp;nbsp;&amp;nbsp;
+</progress_update><themes><theme>Natural Resources and Environment</theme></themes><contributing_programs_and_other_factors>NOAA:
+
+
+	Oceanic &amp;amp; Atmospheric Research/Atlantic Oceanographic and Meteorological Laboratory
+	Oceanic &amp;amp; Atmospheric Research/Air Resources Laboratory
+	Oceanic &amp;amp; Atmospheric Research/Earth System Research Laboratory/Global Systems Division
+	Oceanic &amp;amp; Atmospheric Research/Earth System Research Laboratory/Physical Sciences Division
+	Oceanic &amp;amp; Atmospheric Research/Great Lakes Environmental Research Laboratory
+	Oceanic &amp;amp; Atmospheric Research/National Severe Storms Laboratory
+	Oceanic &amp;amp; Atmospheric Research/Pacific Marine Environmental Laboratory
+	National Weather Service/National Centers for Environmental Prediction
+	National Weather Service/Tsunami Warning Center
+	National Ocean Service/Center for Operational Oceanographic Products and Services
+	National Ocean Service/Coast Survey Development Laboratory
+	National Ocean Service/National Centers for Coastal Ocean Science&amp;nbsp;
+	Trimble Navigation Limited
+	Department of Transportation/Federal Highways Administration&amp;nbsp;
+	Environmental Protection Agency
+
+</contributing_programs_and_other_factors></Agency_Priority_Goal><Strategic_Goals></Strategic_Goals><Strategic_Objectives></Strategic_Objectives><Indicators></Indicators></data>

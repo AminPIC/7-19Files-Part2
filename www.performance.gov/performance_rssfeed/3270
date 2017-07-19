@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.performance.gov/rssfeedtest/3270" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>RSS Feed</title>
+    <link>https://www.performance.gov/rssfeedtest/3270</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.performance.gov/performance_rssfeed/3270?content_year_filter=All&amp;type_1=All" rel="self" type="application/rss+xml" />
+      <item>
+    <title>MG02.01 Develop and implement a strategic plan for customer service that addresses each of our major program goals</title>
+    <link>https://www.performance.gov/MG02.01%20Develop%20and%20implement%20a%20strategic%20plan%20for%20customer%20service%20that%20addresses%20each%20of%20our%20major%20program%20goals</link>
+    <description>&lt;ul&gt;&lt;li&gt;Identifying how customer service improvement will drive achievement of program outcome goals through the LAB @ OPM, human-centered design, and other collaborative methods.&lt;/li&gt;
+&lt;li&gt;Taking an inventory of OPM’s points of contact within each customer segment in order to identify duplication, gaps, hidden gems, heroes, best practices, centers of excellence (e.g., OPM&#039;s best help desks, most successful customer service training programs, effective customer councils).&lt;/li&gt;
+&lt;li&gt;Developing an customer service investment plan that:
+&lt;ul&gt;&lt;li&gt;supports program goals and builds on our strengths&lt;/li&gt;
+&lt;li&gt;leverages resources across OPM and across our partner agencies,&lt;/li&gt;
+&lt;li&gt;re-allocates resources from unsuccessful customer service efforts to successful ones, and&lt;/li&gt;
+&lt;li&gt;Ensures cross-channel integration so that service is centered on the customer – not organizational units.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+     <pubDate>03/18/2016 10:56:15</pubDate>
+ <dc:creator>3270</dc:creator>
+ <guid isPermaLink="false">3270</guid>
+  </item>
+  </channel>
+</rss>

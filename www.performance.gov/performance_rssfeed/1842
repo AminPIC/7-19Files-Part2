@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.performance.gov/rssfeedtest/1842" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>RSS Feed</title>
+    <link>https://www.performance.gov/rssfeedtest/1842</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.performance.gov/performance_rssfeed/1842?content_year_filter=All&amp;type_1=All" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Strengthen fair competition in international trade for U.S. firms and workers by addressing and resolving foreign unfair trade practices and enforcing international trade agreements (ITA)</title>
+    <link>https://www.performance.gov/Strengthen%20fair%20competition%20in%20international%20trade%20for%20U.S.%20firms%20and%20workers%20by%20addressing%20and%20resolving%20foreign%20unfair%20trade%20practices%20and%20enforcing%20international%20trade%20agreements%20%28ITA%29</link>
+    <description>&lt;p&gt;Strengthen fair competition in international trade for U.S. firms and workers by addressing and resolving foreign unfair trade practices and enforcing international trade agreements (ITA)&lt;/p&gt;
+</description>
+     <pubDate>02/02/2015 11:58:26</pubDate>
+ <dc:creator>1842</dc:creator>
+ <guid isPermaLink="false">1842</guid>
+  </item>
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.performance.gov/rssfeedtest/90511" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>RSS Feed</title>
+    <link>https://www.performance.gov/rssfeedtest/90511</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.performance.gov/performance_rssfeed/90511?content_year_filter=All&amp;type_1=All" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Environmental Management and Nuclear Waste Disposal</title>
+    <link>https://www.performance.gov/Environmental%20Management%20and%20Nuclear%20Waste%20Disposal</link>
+    <description>&lt;p&gt;&lt;strong&gt;Environmental Management &amp;amp; Nuclear Waste Disposal:&lt;/strong&gt;  To support the long-term goal of safely managing cleanup and storage of nuclear materials consistent with the President’s March 2015 determination to dispose of nuclear waste separate from civilian used nuclear fuel while achieving efficiencies&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Management&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Resume waste emplacement at the Waste Isolation Pilot Plant by the end of calendar year 2016&lt;/li&gt;
+&lt;li&gt;Meet production milestones at the Defense Waste Processing Facility at Savannah River of 120 canisters of vitrified high-level waste in FY 2016 and 110 canisters in FY 2017&lt;/li&gt;
+&lt;li&gt;Complete demolition to achieve slab on grade of the Plutonium Finishing Plant at Richland by the end of calendar year 2016&lt;/li&gt;
+&lt;li&gt;Begin treatment of radioactive liquid waste at the Integrated Waste Treatment Unit at Idaho by the end of fiscal year 2016&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Storage, Transportation, and Disposal&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Complete the Deep Borehole Field Test (DBFT) Characterization Borehole by February 2017&lt;/li&gt;
+&lt;li&gt;Develop and publish the phased and adaptive consent-based siting strategy for the first Phase of the siting process by the end of FY 2017&lt;/li&gt;
+&lt;li&gt;Initiate engagement with communities and stakeholders interested in developing a consent-based siting process for integrated waste management system facilities; complete and publish a report that reflects the inputs received, documenting the priorities, comments and concerns expressed throughout the development process by Dec 2016.&lt;/li&gt;
+&lt;li&gt;Complete a review of the existing transportation cask Certificates of Compliance (COC) by FY 2017 in order to identify items for confirmation and/or resolution prior to transportation of spent nuclear fuel. &lt;/li&gt;
+&lt;/ul&gt;</description>
+     <pubDate>01/23/2017 10:24:25</pubDate>
+ <dc:creator>90511</dc:creator>
+ <guid isPermaLink="false">90511</guid>
+  </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.performance.gov/rssfeedtest/44642" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>RSS Feed</title>
+    <link>https://www.performance.gov/rssfeedtest/44642</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.performance.gov/performance_rssfeed/44642?content_year_filter=All&amp;type_1=All" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Renewable Energy Resource Development</title>
+    <link>https://www.performance.gov/Renewable%20Energy%20Resource%20Development</link>
+    <description>&lt;p&gt;Increase the approved capacity for production of energy from domestic renewable resources to support a growing economy and protect our national interests while reducing our dependence on foreign oil and climate-changing greenhouse gas emissions. &lt;/p&gt;
+&lt;p&gt;By September 30, 2017, increase approved capacity authorized for renewable (solar, wind, geothermal, and hydropower) energy resources affecting Department of the Interior managed lands, while ensuring full environmental review, to at least 16,600 Megawatts (since the end of FY 2009).&lt;/p&gt;
+</description>
+     <pubDate>01/31/2017 09:57:34</pubDate>
+ <dc:creator>44642</dc:creator>
+ <guid isPermaLink="false">44642</guid>
+  </item>
+  </channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.performance.gov/rssfeedtest/1031" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>RSS Feed</title>
+    <link>https://www.performance.gov/rssfeedtest/1031</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.performance.gov/performance_rssfeed/1031?content_year_filter=All&amp;type_1=All" rel="self" type="application/rss+xml" />
+      <item>
+    <title>End Veteran Homelessness </title>
+    <link>https://www.performance.gov/End%20Veteran%20Homelessness%20</link>
+    <description>&lt;p&gt;In partnership, the Department of Housing and Urban Development (HUD) and VA aim to reduce the number of Veterans living on the streets, experiencing homelessness to zero (as measured by the FY 2016 PIT Count).&lt;/p&gt;
+&lt;p&gt;Indicators:&lt;/p&gt;
+&lt;ol&gt;&lt;li&gt;
+	Reduction in homeless Veterans living on the streets, experiencing homelessness to zero (as measured by the FY 2016 PIT Count).
+	&lt;/li&gt;
+&lt;li&gt;
+	The “Number of Homeless Veterans” on a single night is determined by the PIT Count, which is conducted annually the last week of January each year “The PIT Count reflects the results of the work performed and the fiscal obligation/budget made in the prior fiscal year.”
+	&lt;/li&gt;
+&lt;li&gt;
+	Reduction in total homeless Veterans temporarily living in shelters or transitional housing to 12,500 (as measured by the FY 2016 PIT Count).
+	&lt;/li&gt;
+&lt;/ol&gt;&lt;hr /&gt;
+ 
+&lt;p&gt; &lt;/p&gt;
+</description>
+     <pubDate>01/08/2016 09:49:30</pubDate>
+ <dc:creator>1031</dc:creator>
+ <guid isPermaLink="false">1031</guid>
+  </item>
+  </channel>
+</rss>

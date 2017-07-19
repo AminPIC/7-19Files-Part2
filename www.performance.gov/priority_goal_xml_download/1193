@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8" ?><data><Agency_Priority_Goal><Agency_ID>16</Agency_ID><Agency_Name>National Science Foundation</Agency_Name><Agency_Priority_Goal_ID>1193</Agency_Priority_Goal_ID><Fiscal_Year>FY14-15</Fiscal_Year><APG_Header>Increase the Nation’s Data Science Capacity</APG_Header><APG_Statement>Improve the Nation’s capacity in data science by investing in the development of human capital and infrastructure.
+
+By September 30th, 2015, implement mechanisms to support the training and workforce development of future data scientists; increase the number of multi-stakeholder partnerships to address the nation’s big-data challenges; and increase investments in current and future data infrastructure extending data –intensive science into more research communities.
+</APG_Statement><APG_Overview>Innovative information technologies are transforming the fabric of society, and data represent a transformative new currency for science, education, government, and commerce.&amp;nbsp; Data are everywhere; they are produced in rapidly increasing volume and variety by virtually all scientific, educational, governmental, societal and commercial enterprises. (For more information see “Dealing with Data,” Science Magazine, Volume 331, February 11, 2011.)
+
+Today we live in an era of data and information.&amp;nbsp; This era is enabled by modern experimental methods and observational studies; large-scale simulations; scientific instruments, such as telescopes and particle accelerators; Internet transactions, email, videos, images, and click streams; and the widespread deployment of sensors everywhere – in the environment, in our critical infrastructure, such as in bridges and smart grids, in our homes, and even on our clothing.&amp;nbsp; Every day, 2.5 quintillion bytes of data are generated – so much that 90 percent of the data in the world today has been created in the last two years alone (http://www-01.ibm.com/software/data/bigdata/).
+
+It is important to note that when we talk about big data it is not just the enormous volume of data that needs to be emphasized, but also the heterogeneity, velocity, and complexity that collectively create the science and engineering challenges we face today.
+
+In December 2010, the President’s Council of Advisors on Science and Technology (PCAST) published a report to the President and Congress entitled: Designing a Digital Future: Federally Funded Research and Development in Networking and Information Technology. (http://www.whitehouse.gov/sites/default/files/microsites/ostp/pcast-nitrd-report-2010.pdf) In that report, PCAST pointed to the research challenges involved in large-scale data management and analysis and the critical role of Networking and Information Technology (NIT) in moving from data to knowledge to action, underpinning the Nation’s future prosperity, health and security.
+
+Through long-term, sustained investments in foundational computing, communications and computational research, and the development and deployment of large-scale facilities and cyberinfrastructure, federal agency R&amp;amp;D investments over the past several decades have both helped generate this explosion of data as well as advance our ability to capture, store, analyze, and use these data for societal benefit.&amp;nbsp; More specifically, we have seen fundamental advances in machine learning, knowledge representation, natural language processing, information retrieval and integration, network analytics, computer vision, and data visualization, which together have enabled Big Data applications and systems that have the potential to transform all aspects of our lives.
+
+These investments are already starting to pay off, demonstrating the power of Big Data approaches across science, engineering, medicine, commerce, education, and national security, and laying the foundations for U.S. competitiveness for many decades to come.&amp;nbsp; But much more needs to be done, particularly in four areas: 1) basic research; 2) data infrastructure; 3) education and workforce development; and 4) community outreach.
+
+NSF can catalyze progress in these areas by developing programs to engage the research community, and by creating mechanisms to catalyze the development of people and infrastructure to address the challenges posed by this new flood of data.
+
+NSF will help increase the number of data scientists engaged in academic research, development, and implementation.&amp;nbsp; As defined in the 2005 NSB publication of Long-lived Digital Data Collections: Enabling Research and Education in the 21st Century defines data scientists as “the information and computer scientists, database and software programmers, disciplinary experts, curators, and expert annotators, librarians, archivists and others, who are crucial to the successful management of a digital data collection.”
+
+Using its ability to convene diverse sets of stakeholders, NSF will promote multi-stakeholder partnerships by supporting workshops and follow-on activities that bring together representatives of industry, academia, not-for-profit organizations, and other entities to address current and future big-data challenges.&amp;nbsp; NSF will also leverage existing programs, such as the NSF Research Traineeship (NRT) and the Graduate Research Fellowship (GRF) programs, and create new programs and tracks to current programs, as needed, to support the creation of more researchers and students competent in the deep analytical and technical skills required to address those challenges.
+
+NSF will develop strategies to build and sustain data infrastructure for the 21st century through CIF21.
+
+NSF will coordinate with other agencies through the National Science and Technology Council to achieve this goal.
+</APG_Overview><Goal_Leaders><Goal_Leader><goal_leader_name>Suzi Iacono</goal_leader_name><goal_leader_title>Deputy Assistant Director</goal_leader_title><goal_leader_org>Directorate for Computer and Information Science and Engineering (CISE)</goal_leader_org></Goal_Leader><Goal_Leader><goal_leader_name>Joan Ferrini-Mundy</goal_leader_name><goal_leader_title>Assistant Director</goal_leader_title><goal_leader_org>Directorate for Education and Human Resources (EHR)</goal_leader_org></Goal_Leader></Goal_Leaders><next_steps></next_steps><progress_update>Final Update
+
+NSF achieved this Priority Goal by making progress in three areas: human capital development, partnerships, and infrastructure.
+
+In the area of human capital development, NSF sought to implement mechanisms to support the training and workforce development of future data scientists. NSF:
+
+
+	Incorporated language encouraging data science education and training in 18 solicitations:
+	
+		AitF
+		BCC
+		BIGDATA
+		CC*DNI
+		CRII
+		CPS
+		CyberSEES
+		EarthCube
+		ECR
+		EXTREEMS-QED
+		GRFP
+		HBCU-UP
+		NRT
+		NRI
+		SaTC
+		SFS
+		STEMC
+		XPS
+	
+	
+	Funded workshops for the community:
+	
+		NAS Workshop: Training Students to Extract Value from Big Data, April 2014.
+		Advancing Data-Intensive Research in Education, June 2015.
+		Graduate Data Science Workshop, August 2015. (http://depts.washington.edu/dswkshp/)
+	
+	
+	Tracked applications to graduate fellowship programs from students interested in data science.&amp;nbsp; Between FY 2014 and FY 2015, the number of applicants to the Graduate Research Fellowship program in data science fields increased by over 60 percent, and the number of awardees increased over 35 percent.
+
+
+In the area of partnerships, NSF sought to increase the number of multi-stakeholder partnerships to address the nation’s Big Data challenges. NSF’s major accomplishment was the establishment of four Big Data Innovation Hubs across the Nation. These Hubs will work to expand Big Data discovery, education, and innovation through support of multi-stakeholder partnerships that exist at the time of the award and by facilitation of the formation of additional partnerships.
+
+In the area of infrastructure, NSF sought to increase investments in current and future data infrastructure extending data-intensive science into more research communities.
+
+
+	The BCC, DIBBS, and BIGDATA programs, which support the development of new data infrastructure, supplied a total of $110.3 million in funding to 86 projects in FY 2014 and FY 2015.
+	Compared to FY 2013, FY 2015 usage of NSF-funded Extreme Science and Engineering Discovery Environment (XSEDE, https://www.xsede.org/)’s data intensive resources rose by 30 percent (from 519 million to 673 million Service Units, https://portal.xsede.org/knowledge-base/-/kb/document/bazo). The number of scientific disciplines using XSEDE rose by 25 percent (from 28 to 35 disciplines).&amp;nbsp;
+
+
+Previous Updates
+
+In the third quarter of FY 2015, NSF made progress in three areas:
+
+
+	
+		
+			
+			Human Capital Development:
+
+			
+				The NSF funded workshop for graduate students studying data science was held on August 5-7, 2015.
+				NSF continues to plan the monitoring contract to gather data on the career pathways of students entering NSF funded programs in data science. NSF anticipates completing this goal before the end of the Priority Goal.
+			
+
+			&amp;nbsp;
+			
+			
+			Partnerships:
+
+			The Big Data Innovation Hubs website (https://bdhub.info), launched in Q2, 2015, was used by stakeholders to collaborate and draft proposals for the program. The deadline for submission of proposals was June 24, 2015 and four proposals were submitted. Each region had over eighty partners with the largest number of partners in North East Hub. NSF will fund four Hubs in Q4, 2015 to support partnerships that strive to achieve common Big Data goals that would not be possible to achieve alone.
+
+			&amp;nbsp;
+			
+			
+			Infrastructure:
+
+			In an effort to measure the number of disciplines that use data infrastructure and tools for their research and development (R&amp;amp;D) activities, NSF has gathered baseline data for data-intensive HPC resource usage through XSESDE (Extreme Science and Engineering Discovery Environment). NSF will continue to measure HPC usage to identify trends in data-intensive usage among disciplines.
+			
+		
+	
+
+
+&amp;nbsp;
+
+In the second quarter of FY 2015, NSF made progress in three areas:
+
+
+	
+		
+			
+			Human Capital Development:
+
+			&amp;nbsp;
+
+			
+				NSF has included language emphasizing the education and training of data scientists in 75% of appropriate data and education solicitations which met this goal before the September 30, 2015 deadline (Q2 FY2015).
+				NSF has funded a workshop for NSF funded graduate students who are studying data science. This workshop will be held in Q4 of FY 2015.
+			
+			
+			
+			Partnerships:
+
+			
+				NSF released a Big Data Regional Innovation Hubs (BDHubs) solicitation (https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505185&amp;amp;org=CISE) for the establishment of Regional Innovation Hubs on March 27th, 2015. The hubs aim to support the breadth of interested local stakeholders within their respective regions, while hub partners strive to achieve common Big Data goals that would not be possible to achieve alone.
+				Four BDHubs workshops or charrettes for accelerating the Big Data innovation ecosystem were held to convene stakeholders across sectors to discuss the creation of these Big Data Regional Innovation Hubs in four different regions across the US. Dates and locations of the charrettes are as follows:
+				
+					April 8th, 2015: Midwest, in Ann Arbor, MI
+					April 10th, 2015: West, in Salt Lake City, UT
+					April 13th, 2015: South, in Durham, NC
+					April 17th, 2015: Northeast, in Boston, MA
+				
+				
+			
+
+			There are currently 294 registered BDHubs partners. Charrettes materials can be found at https://bdhub.info.
+			
+			
+			Infrastructure:
+
+			
+				In an effort to measure the number of communities/organizations/ecosystems that use data infrastructure and tools for their research and development (R&amp;amp;D) activities, NSF developed a methodology to determine data intensiveness of NSF communities by monitoring the use of data-intensive HPC resources though XSEDE (Extreme Science and Engineering Discovery Environment).&amp;nbsp;
+			
+			
+		
+	
+
+
+In the first quarter of FY 2015, NSF made progress in two areas.
+
+
+	
+		
+			
+			Human Capital Development:
+
+			
+				The list of potential solicitations that could appropriately include an emphasis on the preparation of data scientists was adjusted to accommodate program and solicitation changes. NSF has successfully inserted language emphasizing preparing data scientists in 65% of identified solicitations and expects to meet and may exceed the goal of introducing language into 75% of identified solicitations by September 30, 2015.
+				NSF has identified a fundable proposal for a workshop for NSF funded graduate students who are studying data science and anticipates hosting this workshop in Q2 of FY 2015.
+			
+			
+			
+			Partnerships:
+
+			
+				In summer 2014,&amp;nbsp;NSF released a Request For Information in the Federal Register (http://www.gpo.gov/fdsys/pkg/FR-2014-09-03/html/2014-20806.htm) with a November 1st, 2014 deadline to explore the establishment of a national network of Big Data Regional Innovation Hubs to scale up the kinds of activities and partnerships established at the Data to Knowledge to Action event. The Request For Information (RFI) yielded 56 submissions. NSF analyzed these submissions and identified cross cutting themes.
+				NSF has drafted a Regional Innovation Hubs solicitation for the establishment of Regional Innovation Hubs using ideas and themes from the analysis of the submissions to the RFI. This solicitation is expected to be released in Q2 of FY 2015.
+			
+			
+		
+	
+
+
+&amp;nbsp;
+
+&amp;nbsp;
+
+&amp;nbsp;
+
+&amp;nbsp;
+
+&amp;nbsp;
+
+&amp;nbsp;
+
+&amp;nbsp;
+
+&amp;nbsp;
+
+&amp;nbsp;
+
+&amp;nbsp;
+
+&amp;nbsp;
+
+&amp;nbsp;
+
+&amp;nbsp;
+
+&amp;nbsp;
+
+&amp;nbsp;
+
+&amp;nbsp;
+
+&amp;nbsp;
+
+&amp;nbsp;
+
+In the fourth quarter of FY 2014, NSF made progress in three areas.
+
+&amp;nbsp;
+
+
+	
+		
+			
+			Human Capital Development:
+
+			
+				
+				In an effort to measure the acceptance of “data scientist” as a professional category in academia, industry, and government, NSF established a baseline for the number of undergraduate, certificate, and graduate programs in Big Data/data science/data analytics. NSF identified 75 programs in the US.
+				
+				Inserted language about data science in two solicitations.
+				NSF planned to host a conference or workshop of NSF-funded graduate students who are studying data science in FY 2014, but did not receive fundable proposals in time. The conference is now anticipated for FY 2015.
+				Developed a mechanism for tracking the applications to the GRF and NRT programs that indicate research interest in data science.
+			
+			
+			
+			Partnerships:
+
+			
+				Released a Request For Information in the Federal Register (http://www.gpo.gov/fdsys/pkg/FR-2014-09-03/html/2014-20806.htm) with a November 1st, 2014 deadline to explore the establishment of a national network of Big Data Regional Innovation Hubs to scale up the kinds of activities and partnerships established at the Data to Knowledge to Action event. The Request For Information is expected to fund two to four data centers, each of which will develop additional partnerships over their funded lifetime.
+				In an effort to measure the multi-stakeholder partnerships created to address big-data challenges, NSF counted 30 such partnerships and 90 partners in FY 2014 through the White House Office of Science and Technology Policy’s “Data to Knowledge to Action” event.
+			
+
+			&amp;nbsp;
+			
+			
+			Infrastructure:
+
+			
+				Review of DIBBS and BIGDATA proposals continued in Q4.
+				In an effort to measure the number of communities/organizations/ecosystems that use data infrastructure and tools for their research and development (R&amp;amp;D) activities, NSF developed a draft methodology to determine data intensiveness of NSF communities. NSF did not finalize a methodology in FY 2014 due to the complexity of the task. NSF is focusing on identifying how NSF programs use data infrastructure and tools to support R&amp;amp;D.
+			
+
+			&amp;nbsp;
+			
+		
+	
+
+
+&amp;nbsp;
+
+&amp;nbsp;
+
+&amp;nbsp;
+
+&amp;nbsp;
+
+&amp;nbsp;
+
+&amp;nbsp;
+
+&amp;nbsp;
+
+&amp;nbsp;
+
+&amp;nbsp;
+
+&amp;nbsp;
+
+&amp;nbsp;
+
+In the third quarter of FY 2014, NSF made progress in three areas.
+
+&amp;nbsp;
+
+
+	
+		
+			
+			Human Capital Development:
+
+			
+				Completed inventory of NSF programs that could appropriately include an emphasis on the preparation of data scientists. Drafted suggested sample language that could be added to future versions of current solicitations to increase emphasis on preparing data scientists. Began dissemination of sample language within NSF divisions leading identified programs. To date, this new language has been added to the new Secure and Trustworthy Computing solicitation.
+				Discussed organization of a conference for graduate students who are studying data science with potential principal investigators. Reviewing a white paper outlining conference format and topics.
+				Created draft methodology and inventory of Data Science programs within the US, to support future analysis and measurement of the growth of Data Science education within universities and colleges.
+			
+
+			&amp;nbsp;
+			
+			
+			Partnerships:
+
+			
+				Created draft methodology and inventory of major Data Science research centers in the US, to support future analysis and activities on improving cross sector partnerships within the Data Science ecosystem.
+			
+			
+			
+			Infrastructure:
+
+			
+				Developed methodology for identifying distinct scientific communities, to support future analysis measuring data science capabilities within different scientific communities.
+			
+			
+		
+	
+
+
+&amp;nbsp;
+
+&amp;nbsp;
+
+In the first half of FY 2014, NSF made progress in three areas.
+
+&amp;nbsp;
+
+
+	
+		
+			
+			Human Capital Development:
+
+			
+				Posted solicitation for the new National Science Foundation Research Traineeship (NRT) Program. NRT encourages the development of bold, new, potentially transformative, and scalable models for STEM graduate training. This year Data-Enabled Science and Engineering (DESE) is the NRT priority theme.
+				Generated preliminary inventory of NSF programs that could appropriately include an emphasis on the preparation of data scientists. Identified methodology for refining inventory and for drafting language for solicitations emphasizing interest in preparing data scientists.
+				Initiated planning for a Fall/Winter 2014 conference for graduate students who are studying data science. Compiled a list of potential participants of key leaders in data science education.
+				Funded and held a workshop on April 11-12, 2014 at the National Academy of Sciences on “Training Students to Extract Value from Big Data.”
+			
+
+			&amp;nbsp;
+			
+			
+			Partnerships:
+
+			
+				Funded and held a workshop on November 12, 2013 with the White House Office of Science and Technology Policy on “Data to Knowledge to Action.” 30 multi-stakeholder partnerships with over 90 partners were announced.
+			
+
+			&amp;nbsp;
+
+			&amp;nbsp;
+			
+			
+			Infrastructure:
+
+			
+				Posted solicitation for the Data Infrastructure Building Blocks (DIBBS) Program. DIBBs encourages development of robust and shared data-centric cyberinfrastructure capabilities to accelerate interdisciplinary and collaborative research in areas of inquiry stimulated by data.
+				Posted solicitation for the Critical Techniques and Technologies for Advancing Big Data Science &amp;amp; Engineering (BIGDATA). BIGDATA supports research that address critical challenges for big data management, big data analytics, or scientific discovery processes impacted by big data.
+			
+
+			&amp;nbsp;
+			
+		
+	
+
+
+&amp;nbsp;
+
+&amp;nbsp;
+</progress_update><themes><theme>Education, Training, Employment, and Social Services</theme><theme>General Science, Space, and Technology</theme></themes><contributing_programs_and_other_factors>Within NSF, this effort is led by the Directorates for Computer and Information Sciences (CISE) and Education and Human Resources (EHR). All research directorates participate in programs such as NRT and DIBBS.
+
+NSF is one of a number of agencies that participate in Big Data coordination through the National Science and Technology Council's Networking and Information Technology Research and Development (NITRD) Program. The others are:
+
+
+	Agency for Healthcare Research and Quality
+	Defense Advanced Research Projects Agency
+	Department of Homeland Security
+	Department of Energy - National Nuclear Security Administration
+	Department of Energy – Office of Electricity Delivery and Energy Reliability
+	Department of Energy - Office of Science
+	Environmental Protection Agency
+	Department of Health and Human Services - Office of the National Coordinator for Health Information Technology
+	National Archives and Records Administration
+	National Aeronautics and Space Administration
+	National Institutes of Health
+	National Institute of Standards and Technology
+	National Oceanic and Atmospheric Administration
+	National Reconnaissance Office
+	National Security Agency
+	National Science Foundation
+	DoD Service Research Organizations
+
+</contributing_programs_and_other_factors></Agency_Priority_Goal><Strategic_Goals><Strategic_Goal><id>1169</id><strategic_goal_header>Stimulate Innovation and Address Societal Needs through Research and Education</strategic_goal_header><strategic_goal_statement>Stimulate Innovation and Address Societal Needs through Research and Education
+</strategic_goal_statement><strategic_goal_overview>This goal flows from the latter part of the NSF mission statement--“to advance the national health, prosperity, and welfare; to secure the national defense; and for other purposes.”  While several topics in this broad charge are primary missions of other agencies, NSF makes a unique contribution. Through targeted solicitations and core programs, the agency is able to focus the attention of the broader S&amp;amp;E community on fundamental aspects of high priority national challenges. We guide the community to open up new avenues to address these priorities and we provide funding to pursue promising approaches.  This strategic goal echoes the “broader impacts” merit review criterion which was developed by the NSB, and it explicitly requires NSF to engage the community in addressing particularly urgent challenges.  The strategy often necessitates the formation of partnerships with industry, other agencies, and international sponsors to build capacity, leverage resources, and increase the speed of translation from discovery to innovation. The educational dimension is a key aspect of this strategic goal. NSF supports research and development on STEM education and learning to prepare a diverse, globally competent STEM workforce and a STEM-literate citizenry.
+</strategic_goal_overview><strategic_goal_sequence>2</strategic_goal_sequence></Strategic_Goal></Strategic_Goals><Strategic_Objectives><Strategic_Objective><id>1170</id><objective_header>Strengthen the links between fundamental research and societal needs through investments and partnerships</objective_header><objective_statement>Strengthen the links between fundamental research and societal needs through investments and partnerships
+</objective_statement><objective_overview>The first part of NSF’s mission, as expanded by the first strategic goal, is to create new knowledge and expand the Nation’s intellectual capital. However, NSF's mission does not end there. We also must connect new knowledge to innovations that address societal needs above and beyond the need for advancement in science. This strategic objective is aimed at developing connections between new insights and global challenges (often involving essential interdisciplinary collaborations, prototypes, and technologies). It also entails educating a workforce capable of using and adapting discoveries to meet society’s needs.
+One approach to developing these connections is through partnerships involving other government agencies and private and international entities.  Such partnerships leverage NSF resources and help ensure that fundamental research outcomes are translated into benefits to society.
+</objective_overview></Strategic_Objective><Strategic_Objective><id>1167</id><objective_header>Integrate education and research to support development of a diverse STEM workforce with cutting-edge capabilities</objective_header><objective_statement>Integrate education and research to support development of a diverse STEM workforce with cutting-edge capabilities
+</objective_statement><objective_overview>The global competitiveness of the United States in the 21st century depends directly on the readiness of the Nation’s STEM workforce.  Educational institutions around the country must recruit, train, and prepare a diverse STEM workforce to advance the frontiers of science and participate in the U.S. technology-based economy.  One of NSF’s most enduring contributions to the national innovation ecosystem is the integration of education and research in the activities we support.  When students participate in cutting-edge research activities under the guidance of the Nation’s most creative scientists and engineers, the students can gain the up-to-date knowledge and practical, hands-on experience needed to develop into creative contributors who can engage in innovative activities throughout all sectors of society.  The successive cadres of high-tech workers, each armed with practical knowledge of the most advanced thinking and technology of the day, create the flow of highly adaptable human capital needed to power discovery and innovation. NSF also supports the development of a strong STEM workforce by investing in building the knowledge that informs improvements in STEM teaching and learning. Such improvements include effective curricular and teaching strategies for increased student learning, as well as new approaches enabled by advanced classroom technologies.  Investments in social science and education research in learning, teaching, and institutions can have major impacts when derived insights are applied to the education of the STEM workforce.
+The transformation of the frontiers of science and engineering requires dramatic change in the diversity of S&amp;amp;E communities.  The demographic evolution in the United States is reflected in a strong, growing workforce whose makeup is changing rapidly.  Women and members of minority groups represent an expanding portion of the country’s potential intellectual capital. NSF is committed to increasing access for currently underrepresented groups to STEM education and careers through our investments in research and education. The resulting enhancement of diversity is essential to provide the strength that comes from diverse perspectives, as well as to assure development of the Nation’s intellectual capital.
+</objective_overview></Strategic_Objective></Strategic_Objectives><Indicators></Indicators></data>

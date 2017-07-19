@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.performance.gov/rssfeedtest/72321" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>RSS Feed</title>
+    <link>https://www.performance.gov/rssfeedtest/72321</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.performance.gov/performance_rssfeed/72321?content_year_filter=All&amp;type_1=All" rel="self" type="application/rss+xml" />
+      <item>
+    <title> Maintain a sufficient missile defense capability to protect the U.S. and establish partnerships with our friends and allies to support their efforts to provide defense from missile attacks.</title>
+    <link>https://www.performance.gov/%20Maintain%20a%20sufficient%20missile%20defense%20capability%20to%20protect%20the%20U.S.%20and%20establish%20partnerships%20with%20our%20friends%20and%20allies%20to%20support%20their%20efforts%20to%20provide%20defense%20from%20missile%20attacks.</link>
+    <description></description>
+     <pubDate>02/23/2016 16:35:35</pubDate>
+ <dc:creator>72321</dc:creator>
+ <guid isPermaLink="false">72321</guid>
+  </item>
+  </channel>
+</rss>

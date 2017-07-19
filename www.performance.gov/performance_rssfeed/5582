@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.performance.gov/rssfeedtest/5582" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>RSS Feed</title>
+    <link>https://www.performance.gov/rssfeedtest/5582</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.performance.gov/performance_rssfeed/5582?content_year_filter=All&amp;type_1=All" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Enable evidence-based decision making </title>
+    <link>https://www.performance.gov/Enable%20evidence-based%20decision%20making%20</link>
+    <description>&lt;p&gt;By September 30, 2015, the percentage of select new&lt;a href=&quot;//wdcfb6fpr02/groups/OS09/ODS/Immediate%20Office/Strategic%20and%20Performance%20Planning/FY14%20Q3%20APG%20Updates/140820_EvidenceAPG_Updated.docx#_ftn1&quot; name=&quot;_ftnref1&quot; title=&quot;&quot; id=&quot;_ftnref1&quot;&gt;[1]&lt;/a&gt; (non-continuation) competitive grant dollars that reward evidence will increase by 70%.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;hr /&gt;&lt;p&gt;&lt;a href=&quot;//wdcfb6fpr02/groups/OS09/ODS/Immediate%20Office/Strategic%20and%20Performance%20Planning/FY14%20Q3%20APG%20Updates/140820_EvidenceAPG_Updated.docx#_ftnref1&quot; name=&quot;_ftn1&quot; title=&quot;&quot; id=&quot;_ftn1&quot;&gt;[1]&lt;/a&gt; “New competitive grant dollars that reward evidence” includes all dollars awarded based on the existence of at least “evidence of promise” in support of a project, per the framework in the Education Department General Administrative Regulations (34 CFR Part 75). Consideration of such evidence appears through: eligibility threshold (e.g., in the Investing in Innovation program); absolute priority; competitive priority (earning at least one point for it); or selection criteria (earning at least one point for it). The percentage is calculated compared to the total new grant dollars awarded.&lt;/p&gt;
+</description>
+     <pubDate>01/08/2016 09:29:23</pubDate>
+ <dc:creator>5582</dc:creator>
+ <guid isPermaLink="false">5582</guid>
+  </item>
+  </channel>
+</rss>

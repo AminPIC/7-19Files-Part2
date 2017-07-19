@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.performance.gov/rssfeedtest/47131" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>RSS Feed</title>
+    <link>https://www.performance.gov/rssfeedtest/47131</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.performance.gov/performance_rssfeed/47131?content_year_filter=All&amp;type_1=All" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Improve the quality of early childhood programs for low-income children</title>
+    <link>https://www.performance.gov/Improve%20the%20quality%20of%20early%20childhood%20programs%20for%20low-income%20children</link>
+    <description>&lt;p&gt;Improve the quality of early childhood programs for low-income children.  By September 30, 2017, HHS will improve the quality of early childhood programs for low-income children by increasing the number of states with Quality Rating and Improvement Systems (QRIS) that meet high quality benchmarks from a baseline of 17 states in FY 2011 to 37 states in FY 2017, reducing the proportion of grantees receiving a score in the low range on the basis of the Classroom Assessment Scoring System (CLASS) from a baseline of 25 percent (FY 2012)  to 24 percent in FY 2017, and increasing the percent of teachers in Head Start and Early Head Start that have a BA or higher by 2 percentage points each year from a baseline of 52 percent (FY 2012).&lt;/p&gt;
+</description>
+     <pubDate>12/13/2016 10:48:32</pubDate>
+ <dc:creator>47131</dc:creator>
+ <guid isPermaLink="false">47131</guid>
+  </item>
+  </channel>
+</rss>

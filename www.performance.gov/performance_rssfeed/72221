@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.performance.gov/rssfeedtest/72221" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>RSS Feed</title>
+    <link>https://www.performance.gov/rssfeedtest/72221</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.performance.gov/performance_rssfeed/72221?content_year_filter=All&amp;type_1=All" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Reform the Acquisition Process</title>
+    <link>https://www.performance.gov/Reform%20the%20Acquisition%20Process</link>
+    <description>&lt;p&gt;Deliver better value to the taxpayer and warfighter by improving the way DoD does business while achieving dominant capabilities through technical excellence and innovation. &lt;/p&gt;
+&lt;p&gt;By September 30, 2017, DoD will improve its acquisition process by ensuring: 1) the median growth in cycle time for Major Defense Acquisition Programs (MDAPs) will not increase by more than 15 percent from the Milestone B baseline; 2) the biennial rate of quantity adjusted unit procurement cost growth for MDAPs will not exceed 6 percent; 3) the annual number of MDAP breaches--significant or critical cost overruns for reasons other than approved changes in quantity--will be zero; 4) the percent of acquisition positions filled with personnel meeting Levels II and III certification requirements will increase from the previous fiscal year; and 5)  the percent of contract obligations that are competitively awarded will increase from 56.9 percent in FY 2013 to 57 percent in FY 2017.  &lt;/p&gt;
+</description>
+     <pubDate>02/06/2017 18:08:33</pubDate>
+ <dc:creator>72221</dc:creator>
+ <guid isPermaLink="false">72221</guid>
+  </item>
+  </channel>
+</rss>
